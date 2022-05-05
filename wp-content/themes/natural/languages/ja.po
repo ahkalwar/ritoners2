@@ -1,0 +1,362 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WordPress.com - Themes - Natural\n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2021-03-01T00:35:22+00:00\n"
+"PO-Revision-Date: 2018-10-30 04:54:14+0000\n"
+"Language: ja_JP\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+
+#: includes/woocommerce-setup.php:244
+msgid "View your shopping cart"
+msgstr "ショッピングカートを表示"
+
+#: content/loop-portfolio.php:18
+msgid "All"
+msgstr "すべて"
+
+#: functions.php:440
+msgid "% Comments"
+msgstr "%件のコメント"
+
+#: functions.php:440
+msgid "1 Comment"
+msgstr "1件のコメント"
+
+#: functions.php:440
+msgid "Leave a Comment"
+msgstr "コメントをどうぞ"
+
+#. Template Name of the plugin/theme
+#: wp-content/themes/premium/natural/template-three-column.php
+msgid "Three Column"
+msgstr "3カラム"
+
+#. Template Name of the plugin/theme
+#: wp-content/themes/premium/natural/template-full.php
+msgid "Full Width"
+msgstr "全幅"
+
+#. Template Name of the plugin/theme
+#: wp-content/themes/premium/natural/template-slideshow.php
+msgid "Slideshow"
+msgstr "スライドショー"
+
+#: searchform.php:14
+msgid "Go"
+msgstr "実行"
+
+#: search.php:27
+msgid "Search Results for: %s"
+msgstr "「%s」の検索結果"
+
+#: searchform.php:12
+msgid "Search"
+msgstr "検索"
+
+#: includes/customizer.php:187
+msgid "Featured Page Left"
+msgstr "おすすめページ 左"
+
+#: includes/customizer.php:199
+msgid "Featured Page Middle"
+msgstr "おすすめページ 中央"
+
+#: includes/customizer.php:211
+msgid "Featured Page Right"
+msgstr "おすすめページ 右"
+
+#. #-#-#-#-#  natural.pot (Natural 1.0)  #-#-#-#-#
+#. Template Name of the plugin/theme
+#: includes/customizer.php:234
+#: wp-content/themes/premium/natural/archive-jetpack-portfolio.php
+msgid "Portfolio"
+msgstr "Portfolio"
+
+#. Translators: If there are characters in your language that are not supported
+#. by Lora, translate this to 'off'. Do not translate into your own language.
+#: includes/typefaces.php:22
+msgctxt "Montserrat font: on or off"
+msgid "on"
+msgstr "off"
+
+#: includes/typefaces.php:23
+msgctxt "Roboto font: on or off"
+msgid "on"
+msgstr "on"
+
+#: includes/typefaces.php:24
+msgctxt "Merriweather font: on or off"
+msgid "on"
+msgstr "on"
+
+#: includes/typefaces.php:25
+msgctxt "Roboto Slab font: on or off"
+msgid "on"
+msgstr "on"
+
+#: includes/customizer.php:164
+msgid "Homepage"
+msgstr "ホームページ"
+
+#: includes/customizer.php:91
+#: includes/customizer.php:251
+msgid "Three Columns"
+msgstr "3列"
+
+#: includes/customizer.php:128
+msgid "Theme Options"
+msgstr "テーマオプション"
+
+#: includes/customizer.php:76
+#: includes/customizer.php:153
+msgid "Center Align"
+msgstr "中央配置"
+
+#: includes/customizer.php:77
+#: includes/customizer.php:154
+msgid "Right Align"
+msgstr "右配置"
+
+#: includes/customizer.php:89
+#: includes/customizer.php:249
+msgid "One Column"
+msgstr "1列"
+
+#: includes/customizer.php:90
+#: includes/customizer.php:250
+msgid "Two Columns"
+msgstr "2列"
+
+#: includes/customizer.php:21
+msgid "&mdash; Select &mdash;"
+msgstr "&mdash; 選択 &mdash;"
+
+#: includes/customizer.php:75
+#: includes/customizer.php:152
+msgid "Left Align"
+msgstr "左配置"
+
+#: functions.php:468
+msgid "Category: %1$s"
+msgstr "カテゴリー: %1$s"
+
+#: functions.php:473
+msgid "Tags: %1$s"
+msgstr "タグ: %1$s "
+
+#: header.php:72
+msgid "Menu"
+msgstr "メニュー"
+
+#: functions.php:428
+msgctxt "post author"
+msgid "by %s"
+msgstr "投稿者: %s"
+
+#. translators: used between list items, there is a space after the comma
+#: functions.php:467
+#: functions.php:471
+msgid ", "
+msgstr "・"
+
+#: functions.php:305
+msgid "&raquo;"
+msgstr "&raquo;"
+
+#: functions.php:262
+msgid "Reply"
+msgstr "返信"
+
+#: functions.php:304
+msgid "&laquo;"
+msgstr "&laquo;"
+
+#: functions.php:257
+msgid "Your comment is awaiting moderation."
+msgstr "あなたのコメントは承認待ちです。"
+
+#. translators: 1: comment author, 2: date and time
+#: functions.php:242
+msgid "%1$s <br/> %2$s <br/>"
+msgstr "%1$s <br/> %2$s <br/>"
+
+#. translators: 1: date, 2: time
+#: functions.php:248
+msgid "%1$s"
+msgstr "%1$s"
+
+#: functions.php:224
+#: functions.php:264
+msgid "Edit"
+msgstr "編集する"
+
+#. #-#-#-#-#  natural.pot (Natural 1.0)  #-#-#-#-#
+#. Template Name of the plugin/theme
+#: functions.php:163
+#: wp-content/themes/premium/natural/template-left-sidebar.php
+msgid "Left Sidebar"
+msgstr "左サイドバー"
+
+#: functions.php:171
+msgid "Footer Widgets"
+msgstr "フッターウィジェット"
+
+#: functions.php:224
+msgid "Pingback:"
+msgstr "ピンバック:"
+
+#: functions.php:48
+msgid "Social Menu"
+msgstr "ソーシャルメニュー"
+
+#: functions.php:155
+msgid "Right Sidebar"
+msgstr "右サイドバー"
+
+#: footer.php:46
+msgid "Theme: %1$s by %2$s."
+msgstr "Theme: %1$s by %2$s."
+
+#: functions.php:47
+msgid "Header Menu"
+msgstr "ヘッダーメニュー"
+
+#: footer.php:44
+msgid "Proudly powered by %s"
+msgstr "Proudly powered by %s"
+
+#: content/loop-page.php:29
+#: content/loop-post.php:41
+msgid "(Edit)"
+msgstr "(編集)"
+
+#: footer.php:44
+msgid "https://wordpress.org/"
+msgstr "https://ja.wordpress.org/"
+
+#: content/loop-page.php:24
+#: content/loop-post.php:26
+msgid "Previous"
+msgstr "前"
+
+#: content/loop-page.php:23
+#: content/loop-post.php:25
+msgid "Next"
+msgstr "次へ"
+
+#: content/loop-blog.php:25
+#: content/loop-page.php:15
+msgid "Read More"
+msgstr "続きを読む"
+
+#: content/loop-page.php:18
+#: content/loop-post.php:20
+msgid "Pages:"
+msgstr "ページ:"
+
+#: content/home-post.php:122
+msgid "More Posts"
+msgstr "投稿をさらに読み込む"
+
+#: content/loop-blog.php:48
+msgid "No Posts Found"
+msgstr "投稿は見つかりませんでした"
+
+#: content/loop-blog.php:49
+msgid "We're sorry, but no posts have been found. Create a post to be added to this section, and configure your theme options."
+msgstr "投稿が見つかりません。このセクションに表示されるよう投稿を作成し、テーマオプションを設定してください。"
+
+#: content/loop-archive.php:47
+#: content/loop-page.php:35
+#: content/loop-portfolio.php:75
+#: content/loop-post.php:47
+msgid "Sorry, no posts matched your criteria."
+msgstr "該当する投稿は見つかりませんでした。"
+
+#: content/home-page.php:28
+msgid "Learn More"
+msgstr "さらに詳しく"
+
+#: content/home-page.php:15
+#: content/home-page.php:28
+#: content/home-post.php:53
+#: content/loop-portfolio.php:53
+#: content/loop-portfolio.php:55
+#: content/slide-info.php:16
+#: content/slide-info.php:18
+#: functions.php:447
+msgid "Permalink to %s"
+msgstr "%s へのパーマリンク"
+
+#: content/content-author.php:31
+msgid "Profile:"
+msgstr "プロフィール:"
+
+#: content/content-author.php:39
+msgid "Posts by %1$s:"
+msgstr "%1$s の投稿:"
+
+#: content/content-author.php:52
+msgid "No posts by this author."
+msgstr "この作成者の投稿はまだありません。"
+
+#: content/content-none.php:21
+msgid "No Results Found"
+msgstr "一致する結果が見つかりませんでした。"
+
+#: content/content-none.php:22
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "こちらには何もありません。検索をお試しください。"
+
+#: content/content-author.php:25
+msgid "Website:"
+msgstr "ウェブサイト:"
+
+#: content/content-author.php:26
+msgid "Link to author page"
+msgstr "投稿者ページへのリンク"
+
+#: comments.php:72
+msgid "Comments are closed."
+msgstr "コメントは受け付けていません。"
+
+#: comments.php:41
+#: comments.php:61
+msgid "&larr; Older Comments"
+msgstr "&larr; 古いコメント"
+
+#: comments.php:42
+#: comments.php:62
+msgid "Newer Comments &rarr;"
+msgstr "新しいコメント &rarr;"
+
+#: comments.php:40
+#: comments.php:60
+msgid "Comment navigation"
+msgstr "コメントナビゲーション"
+
+#: 404.php:21
+#: 404.php:42
+msgid "The page you are looking for no longer exists."
+msgstr "タグ:"
+
+#: comments.php:17
+msgid "This post is password protected. Enter the password to view any comments."
+msgstr "この投稿はパスワードで保護されています。コメントを表示するにはパスワードを入力してください。"
+
+#: comments.php:33
+msgid "One Comment on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s Comments on &ldquo;%2$s&rdquo;"
+msgstr[0] "「%2$s」への%1$s件のコメント"
+
+#: 404.php:20
+#: 404.php:41
+msgid "Not Found, Error 404"
+msgstr "見つかりません (エラー 404)"

@@ -1,0 +1,2153 @@
+# Translation of Plugins - Yoast SEO - Stable (latest release) in Portuguese (Portugal)
+# This file is distributed under the same license as the Plugins - Yoast SEO - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2018-01-25 21:16:05+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/3.0.0-rc.2\n"
+"Language: pt\n"
+"Project-Id-Version: Plugins - Yoast SEO - Stable (latest release)\n"
+
+#. Author URI of the plugin
+#, gp-priority: normal
+msgid "https://yoa.st/1uk"
+msgstr "https://yoa.st/1uk"
+
+#. Plugin URI of the plugin
+#, gp-priority: normal
+msgid "https://yoa.st/1uj"
+msgstr "https://yoa.st/1uj"
+
+#: admin/formatter/class-metabox-formatter.php:199
+#: js/dist/externals/analysisReport.js:1
+#, gp-priority: normal
+msgid "Remove highlight from the text"
+msgstr "Remover o destaque do texto"
+
+#: admin/formatter/class-metabox-formatter.php:198
+#: js/dist/externals/analysisReport.js:1
+#, gp-priority: normal
+msgid "Highlight this result in the text"
+msgstr "Destacar este resultado no texto"
+
+#: admin/formatter/class-metabox-formatter.php:196
+#: js/dist/externals/analysisReport.js:1
+#, gp-priority: normal
+msgid "Considerations"
+msgstr "Considerações"
+
+#: admin/formatter/class-metabox-formatter.php:193
+#: js/dist/externals/analysisReport.js:1
+#, gp-priority: normal
+msgid "Errors"
+msgstr "Erros"
+
+#. translators: %s expands to robots.txt.
+#: admin/views/tool-file-editor.php:28
+#, gp-priority: normal
+msgid "You cannot create a %s file."
+msgstr "Não pode criar um ficheiro %s."
+
+#. translators: %s expands to robots.txt.
+#. translators: %s expands to ".htaccess".
+#: admin/views/tool-file-editor.php:49 admin/views/tool-file-editor.php:76
+#, gp-priority: normal
+msgid "You cannot edit the %s file."
+msgstr "Não pode editar o ficheiro %s."
+
+#. translators: %s expands to robots.txt.
+#: admin/views/tool-file-editor.php:65
+#, gp-priority: normal
+msgid "Updated %s"
+msgstr "%s atualizado"
+
+#. translators: %s expands to robots.txt.
+#: admin/views/tool-file-editor.php:125
+#, gp-priority: normal
+msgid "Create %s file"
+msgstr "Criar ficheiro %s"
+
+#. translators: %s expands to robots.txt.
+#. translators: %s expands to ".htaccess".
+#: admin/views/tool-file-editor.php:165 admin/views/tool-file-editor.php:215
+#, gp-priority: normal
+msgid "Edit the content of your %s:"
+msgstr "Editar o conteúdo do seu %s:"
+
+#. translators: %s expands to robots.txt.
+#. translators: %s expands to ".htaccess".
+#: admin/views/tool-file-editor.php:174 admin/views/tool-file-editor.php:224
+#, gp-priority: normal
+msgid "Save changes to %s"
+msgstr "Guardar alterações para %s"
+
+#. translators: %s expands to ".htaccess".
+#: admin/views/tool-file-editor.php:186
+#, gp-priority: normal
+msgid "%s file"
+msgstr "Ficheiro %s"
+
+#. translators: %1$s expands to the dependency name.
+#: admin/class-suggested-plugins.php:136
+#, gp-priority: normal
+msgid "More information about %1$s"
+msgstr "Mais informações sobre %1$s"
+
+#: admin/class-admin-utils.php:78 admin/class-premium-popup.php:82
+#: admin/class-premium-upsell-admin-block.php:68
+#: admin/formatter/class-metabox-formatter.php:201
+#: admin/formatter/class-metabox-formatter.php:312 admin/views/licenses.php:97
+#: admin/watchers/class-slug-change-watcher.php:224
+#: src/deprecated/admin/add-keyword-modal.php:51
+#: src/deprecated/admin/keyword-synonyms-modal.php:51
+#: src/deprecated/admin/multiple-keywords-modal.php:51
+#: src/integrations/admin/workouts-integration.php:302
+#: src/integrations/admin/workouts-integration.php:331
+#: src/presenters/admin/help-link-presenter.php:75 js/dist/block-editor.js:63
+#: js/dist/externals/componentsNew.js:1 js/dist/externals/helpers.js:1
+#, gp-priority: normal
+msgid "(Opens in a new browser tab)"
+msgstr "(Abrir num novo separador)"
+
+#: admin/statistics/class-statistics-service.php:73
+#, gp-priority: normal
+msgid "You don't have any published posts, your SEO scores will appear here once you make your first post!"
+msgstr "Ainda não tem conteúdos publicados, as suas classificações de SEO serão mostradas aqui assim que criar o seu primeiro conteúdo!"
+
+#: admin/views/licenses.php:159 admin/views/licenses.php:264
+#, gp-priority: normal
+msgid "Not activated"
+msgstr "Não ativado"
+
+#: admin/views/licenses.php:145 admin/views/licenses.php:249
+#, gp-priority: normal
+msgid "Activated"
+msgstr "Ativado"
+
+#: admin/class-meta-columns.php:246
+#, gp-priority: normal
+msgid "All Readability Scores"
+msgstr "Todas as classificações de legibilidade"
+
+#: admin/class-meta-columns.php:242
+#, gp-priority: normal
+msgid "Filter by Readability Score"
+msgstr "Filtrar por classificação de legibilidade"
+
+#. translators: %1$s expands to the product name. %2$s expands to a link to My
+#. Yoast
+#: inc/class-addon-manager.php:469
+#, gp-priority: normal
+msgid "You are not receiving updates or support! Fix this problem by adding this site and enabling %1$s for it in %2$s."
+msgstr "Não está a receber atualizações nem suporte! Corrija este problema através de adicionar este site e ativar o %1$s em %2$s."
+
+#. translators: %1$s expands to the request method
+#: admin/class-remote-request.php:95
+#, gp-priority: normal
+msgid "Request method %1$s is not valid."
+msgstr "O método de pedido %1$s não é válido."
+
+#: admin/views/class-yoast-feature-toggles.php:98
+#, gp-priority: normal
+msgid "Text link counter"
+msgstr "Contador de ligações dos textos"
+
+#: src/integrations/admin/link-count-columns-integration.php:144
+#, gp-priority: normal
+msgid "Number of internal links linking to this post. See \"Yoast Columns\" text in the help tab for more info."
+msgstr "Número de ligações internas para este conteúdo. Veja o texto \"Colunas do Yoast\" no separador de ajuda para mais informações."
+
+#. translators: %s expands to Yoast
+#: admin/class-yoast-columns.php:60
+#, gp-priority: normal
+msgid "%s Columns"
+msgstr "Colunas do %s"
+
+#: admin/class-meta-columns.php:95 admin/taxonomy/class-taxonomy-columns.php:72
+#, gp-priority: normal
+msgid "Readability score"
+msgstr "Classificação de legibilidade"
+
+#. translators: %s expands to 'Yoast SEO Premium'.
+#: admin/formatter/class-metabox-formatter.php:302
+#: src/deprecated/admin/add-keyword-modal.php:41
+#: src/deprecated/admin/keyword-synonyms-modal.php:41
+#: src/deprecated/admin/multiple-keywords-modal.php:41
+#: js/dist/externals-components.js:17 js/dist/externals-components.js:27
+#, gp-priority: normal
+msgid "Other benefits of %s for you:"
+msgstr "Outros benefícios do %s para si:"
+
+#: admin/filters/class-cornerstone-filter.php:87
+#: admin/views/class-yoast-feature-toggles.php:90
+#: js/dist/externals-components.js:5
+#, gp-priority: normal
+msgid "Cornerstone content"
+msgstr "Conteúdo principal"
+
+#: admin/class-premium-upsell-admin-block.php:56
+#: js/dist/externals-components.js:13 js/dist/externals-components.js:23
+#, gp-priority: normal
+msgid "Superfast internal linking suggestions"
+msgstr "Sugestões rápidas para ligações internas"
+
+#: admin/class-yoast-form.php:139 admin/class-yoast-form.php:144
+#, gp-priority: normal
+msgid "Save changes"
+msgstr "Guardar alterações"
+
+#: admin/class-premium-upsell-admin-block.php:59 admin/views/sidebar.php:39
+#: js/dist/externals-components.js:15 js/dist/externals-components.js:25
+#, gp-priority: normal
+msgid "No ads!"
+msgstr "Sem anúncios!"
+
+#: admin/class-premium-upsell-admin-block.php:57
+#, gp-priority: normal
+msgid "Facebook & Twitter"
+msgstr "Facebook e Twitter"
+
+#: admin/class-premium-upsell-admin-block.php:57
+#, gp-priority: normal
+msgid "Social media preview"
+msgstr "Pré-visualizações das redes sociais"
+
+#: admin/class-premium-upsell-admin-block.php:55
+#, gp-priority: normal
+msgid "Easy redirect manager"
+msgstr "Easy Redirect Manager"
+
+#: admin/class-premium-upsell-admin-block.php:55
+#, gp-priority: normal
+msgid "No more dead links"
+msgstr "Não mais ligações quebradas"
+
+#: admin/class-premium-upsell-admin-block.php:54
+#, gp-priority: normal
+msgid "Increase your SEO reach"
+msgstr "Aumente o alcance do seu SEO"
+
+#: admin/views/tabs/metas/paper-content/rss-content.php:32
+#, gp-priority: normal
+msgid "Variable"
+msgstr "Variável"
+
+#: admin/views/tabs/metas/paper-content/rss-content.php:25
+#, gp-priority: normal
+msgid "Available variables"
+msgstr "Variáveis disponíveis"
+
+#: admin/class-admin.php:340
+#, gp-priority: normal
+msgid "Scroll to see the table content."
+msgstr "Deslize para baixo para ver o conteúdo da tabela."
+
+#: admin/views/partial-notifications-warnings.php:22
+#, gp-priority: normal
+msgid "No new notifications."
+msgstr "Nenhuma notificação nova."
+
+#: admin/class-bulk-editor-list-table.php:882
+#, gp-priority: normal
+msgid "Save all"
+msgstr "Guardar tudo"
+
+#: admin/class-bulk-editor-list-table.php:881
+#, gp-priority: normal
+msgid "Save"
+msgstr "Guardar"
+
+#. translators: 1: Author name; 2: Site name.
+#: inc/options/class-wpseo-option-titles.php:246
+#, gp-priority: normal
+msgid "%1$s, Author at %2$s"
+msgstr "%1$s, autor em %2$s"
+
+#: admin/formatter/class-metabox-formatter.php:200
+#: js/dist/externals/analysis.js:357 js/dist/externals/analysisReport.js:1
+#, gp-priority: normal
+msgid "Marks are disabled in current view"
+msgstr "Marcações desativadas na vista atual"
+
+#: inc/class-wpseo-replace-vars.php:1475 js/dist/settings.js:10
+#, gp-priority: normal
+msgid "Name"
+msgstr "Nome"
+
+#: admin/views/tool-import-export.php:88
+#, gp-priority: normal
+msgid "Export settings"
+msgstr "Exportar definições"
+
+#. translators: %1$s is a link start tag to the bugreport guidelines on the
+#. Yoast help center, %2$s is the link closing tag.
+#: admin/class-product-upsell-notice.php:154
+#, gp-priority: normal
+msgid "If you are experiencing issues, %1$splease file a bug report%2$s and we'll do our best to help you out."
+msgstr "Se tiver algum problema, %1$spor favor submeta um relatório de erro%2$s e faremos o nosso melhor para ajudá-lo."
+
+#. translators: %1$s expands to Yoast SEO, %2$s is a link start tag to the
+#. plugin page on WordPress.org, %3$s is the link closing tag.
+#: admin/class-product-upsell-notice.php:146
+#, gp-priority: normal
+msgid "We've noticed you've been using %1$s for some time now; we hope you love it! We'd be thrilled if you could %2$sgive us a 5 stars rating on WordPress.org%3$s!"
+msgstr "Notámos que está a usar o %1$s há algum tempo, esperamos que esteja a gostar! Ficaremos muito gratos se nos quiser %2$sclassificar com 5 estrelas em WordPress.org%3$s!"
+
+#: admin/class-bulk-editor-list-table.php:789
+#, gp-priority: normal
+msgid "(no title)"
+msgstr "(sem título)"
+
+#. translators: 1: Yoast SEO
+#: admin/views/class-yoast-feature-toggles.php:140
+#, gp-priority: normal
+msgid "The %1$s admin bar menu contains useful links to third-party tools for analyzing pages and makes it easy to see if you have new notifications."
+msgstr "O menu da barra de administração do %1$s contém ligações úteis para ferramentas de terceiros para analisar páginas e para que seja mais fácil ver se tem novas notificações."
+
+#: admin/views/class-yoast-feature-toggles.php:137
+#, gp-priority: normal
+msgid "Admin bar menu"
+msgstr "Menu da barra de administração"
+
+#: admin/pages/dashboard.php:41 admin/pages/network.php:19
+#: admin/views/tabs/dashboard/features.php:21
+#: admin/views/tabs/network/features.php:19
+#, gp-priority: normal
+msgid "Features"
+msgstr "Funcionalidades"
+
+#: admin/metabox/class-metabox.php:172 js/dist/externals/analysis.js:357
+#: js/dist/externals/replacementVariableEditor.js:1
+#: js/dist/externals/searchMetadataPreviews.js:2
+#, gp-priority: normal
+msgid "SEO title"
+msgstr "Título SEO"
+
+#: inc/options/class-wpseo-option-titles.php:1005
+#, gp-priority: normal
+msgid "Greater than sign"
+msgstr "Sinal de maior"
+
+#: inc/options/class-wpseo-option-titles.php:1001
+#, gp-priority: normal
+msgid "Less than sign"
+msgstr "Sinal de menor"
+
+#: inc/options/class-wpseo-option-titles.php:997
+#, gp-priority: normal
+msgid "Right angle quotation mark"
+msgstr "Símbolo de citação à direita"
+
+#: inc/options/class-wpseo-option-titles.php:993
+#, gp-priority: normal
+msgid "Left angle quotation mark"
+msgstr "Símbolo de citação à esquerda"
+
+#: inc/options/class-wpseo-option-titles.php:989
+#, gp-priority: normal
+msgid "Small tilde"
+msgstr "Til pequeno"
+
+#: inc/options/class-wpseo-option-titles.php:985
+#, gp-priority: normal
+msgid "Vertical bar"
+msgstr "Barra vertical"
+
+#: inc/options/class-wpseo-option-titles.php:981
+#, gp-priority: normal
+msgid "Low asterisk"
+msgstr "Asterisco inferior"
+
+#: inc/options/class-wpseo-option-titles.php:977
+#, gp-priority: normal
+msgid "Asterisk"
+msgstr "Asterisco"
+
+#: inc/options/class-wpseo-option-titles.php:973
+#, gp-priority: normal
+msgid "Bullet"
+msgstr "Bola"
+
+#: inc/options/class-wpseo-option-titles.php:969
+#, gp-priority: normal
+msgid "Middle dot"
+msgstr "Ponto médio"
+
+#: inc/options/class-wpseo-option-titles.php:961
+#, gp-priority: normal
+msgid "Em dash"
+msgstr "Travessão"
+
+#: inc/options/class-wpseo-option-titles.php:957
+#, gp-priority: normal
+msgid "En dash"
+msgstr "Traço"
+
+#: inc/options/class-wpseo-option-titles.php:953
+#, gp-priority: normal
+msgid "Dash"
+msgstr "Hífen"
+
+#: admin/views/tabs/metas/paper-content/general/title-separator.php:10
+#, gp-priority: normal
+msgid "Choose the symbol to use as your title separator. This will display, for instance, between your post title and site name. Symbols are shown in the size they'll appear in the search results."
+msgstr "Escolha o símbolo a usar como separador do título. Isto será mostrado, por exemplo, entre o título do conteúdo e o nome do site. Os símbolos serão mostrados no tamanho em que aparecem nos resultados da pesquisa."
+
+#: admin/metabox/class-metabox.php:183 admin/metabox/class-metabox.php:188
+#: admin/views/tabs/metas/paper-content/media-content.php:20
+#: js/dist/block-editor.js:53 js/dist/classic-editor.js:49
+#: js/dist/elementor.js:53
+#, gp-priority: normal
+msgid "No"
+msgstr "Não"
+
+#: admin/metabox/class-metabox.php:182 admin/metabox/class-metabox.php:187
+#: admin/views/tabs/metas/paper-content/media-content.php:19
+#: js/dist/block-editor.js:53 js/dist/classic-editor.js:49
+#: js/dist/elementor.js:53 js/dist/externals/schemaBlocks.js:13
+#, gp-priority: normal
+msgid "Yes"
+msgstr "Sim"
+
+#: admin/views/tool-bulk-editor.php:63
+#, gp-priority: normal
+msgid "Posts list"
+msgstr "Lista de conteúdos"
+
+#: admin/views/tool-bulk-editor.php:62
+#, gp-priority: normal
+msgid "Posts list navigation"
+msgstr "Navegação da lista de conteúdos"
+
+#: admin/views/tool-bulk-editor.php:61
+#, gp-priority: normal
+msgid "Filter posts list"
+msgstr "Filtrar lista de conteúdos"
+
+#: admin/views/tabs/metas/archives/help.php:20
+#, gp-priority: normal
+msgid "Note that links to archives might be still output by your theme and you would need to remove them separately."
+msgstr "Atenção que as ligações para o arquivo podem ser atribuídas pelo tema e terá de as remover separadamente."
+
+#. translators: 1: expands to Yoast SEO extensions
+#: admin/views/licenses.php:225
+#, gp-priority: normal
+msgid "%1$s to optimize your site even further"
+msgstr "%1$s para otimizar ainda mais o seu site"
+
+#. translators: 1: expands to Yoast SEO
+#: admin/views/licenses.php:220
+#, gp-priority: normal
+msgid "%1$s extensions"
+msgstr "Extensões de %1$s"
+
+#: admin/views/licenses.php:209
+#, gp-priority: normal
+msgid "Comes with our 30-day no questions asked money back guarantee"
+msgstr "Experimente e use durante 30 dias, garantia de devolução do pagamento sem perguntas."
+
+#. translators: Text between 1: and 2: will only be shown to screen readers. 3:
+#. expands to the product name.
+#: admin/views/licenses.php:196 admin/views/licenses.php:300
+#, gp-priority: normal
+msgid "More information %1$sabout %3$s%2$s"
+msgstr "Mais informações %1$ssobre %3$s%2$s"
+
+#: admin/views/licenses.php:142 admin/views/licenses.php:246
+#, gp-priority: normal
+msgid "Installed"
+msgstr "Instalado"
+
+#: admin/views/licenses.php:137
+#, gp-priority: normal
+msgid "gain access to our 24/7 support team."
+msgstr "obtenha acesso à nossa equipa de suporte 24/7."
+
+#: admin/views/licenses.php:136
+#, gp-priority: normal
+msgid "Premium support"
+msgstr "Suporte Premium"
+
+#: admin/views/licenses.php:133
+#, gp-priority: normal
+msgid "check what your Facebook or Twitter post will look like."
+msgstr "verifique a aparência das publicações no Facebook e Twitter."
+
+#: admin/views/licenses.php:132
+#, gp-priority: normal
+msgid "Social previews"
+msgstr "Pré-visualizações das redes sociais"
+
+#: admin/views/licenses.php:125
+#, gp-priority: normal
+msgid "create and manage redirects from within your WordPress install."
+msgstr "crie e organize redireccionamentos a partir da sua instalação WordPress."
+
+#: admin/views/licenses.php:124
+#, gp-priority: normal
+msgid "Redirect manager"
+msgstr "Gestor de redireccionamentos"
+
+#. translators: 1: expands to Yoast SEO Premium
+#: admin/views/licenses.php:112
+#, gp-priority: normal
+msgid "%1$s, take your optimization to the next level!"
+msgstr "%1$s, eleva a sua otimização a um nível superior!"
+
+#. translators: %1$s expands to Yoast SEO, %2$s expands to WooCommerce
+#: admin/views/licenses.php:84
+#, gp-priority: normal
+msgid "A seamless integration between %1$s and %2$s"
+msgstr "Uma ótima integração entre %1$s e %2$s"
+
+#. translators: %1$s expands to Yoast, %2$s expands to WooCommerce
+#: admin/views/licenses.php:82
+#, gp-priority: normal
+msgid "Use %1$s breadcrumbs instead of %2$s ones"
+msgstr "Use breadcrumbs de %1$s em vez de %2$s"
+
+#: admin/views/licenses.php:36
+#, gp-priority: normal
+msgid "Easily insert Google Maps, a store locator, opening hours and more"
+msgstr "Insira facilmente Google Maps, localização de lojas, horário de funcionamento, etc."
+
+#: admin/views/licenses.php:64
+#, gp-priority: normal
+msgid "Creates XML News Sitemaps"
+msgstr "Crie sitemap XML de notícias"
+
+#: admin/views/licenses.php:63
+#, gp-priority: normal
+msgid "Immediately pings Google on the publication of a new post"
+msgstr "Informe de imediato o Google sobre a publicação de um novo conteúdo"
+
+#: admin/views/licenses.php:62
+#, gp-priority: normal
+msgid "Optimize your site for Google News"
+msgstr "Otimize o seu site para o Google News"
+
+#: admin/views/licenses.php:51
+#, gp-priority: normal
+msgid "Make videos responsive through enabling fitvids.js"
+msgstr "Faça vídeos responsivos ativando fitvids.js"
+
+#: admin/views/licenses.php:50
+#, gp-priority: normal
+msgid "Enhance the experience of sharing posts with videos"
+msgstr "Melhore a experiência de partilha de conteúdos com vídeos"
+
+#: admin/views/licenses.php:49
+#, gp-priority: normal
+msgid "Show your videos in Google Videos"
+msgstr "Mostre os seus vídeos no Google Vídeos"
+
+#. translators: %s: post title
+#: admin/class-bulk-editor-list-table.php:803
+#, gp-priority: normal
+msgid "Edit &#8220;%s&#8221;"
+msgstr "Editar &#8220;%s&#8221;"
+
+#: admin/menu/class-base-menu.php:258
+#: src/integrations/admin/menu-badge-integration.php:35
+#, gp-priority: normal
+msgid "Premium"
+msgstr "Premium"
+
+#: inc/class-wpseo-admin-bar-menu.php:256
+#, gp-priority: normal
+msgid "Google Trends"
+msgstr "Google Trends"
+
+#: admin/views/partial-notifications-warnings.php:20
+#: inc/class-wpseo-admin-bar-menu.php:207
+#, gp-priority: normal
+msgid "Notifications"
+msgstr "Notificações"
+
+#: admin/views/user-profile.php:45
+#, gp-priority: normal
+msgid "Disable SEO analysis"
+msgstr "Desativar análise de SEO"
+
+#: admin/views/tabs/social/twitterbox.php:17
+#, gp-priority: normal
+msgid "Twitter settings"
+msgstr "Definições do Twitter"
+
+#: admin/views/tabs/social/pinterest.php:16
+#, gp-priority: normal
+msgid "Pinterest settings"
+msgstr "Definições do Pinterest"
+
+#: admin/views/tabs/social/facebook.php:18
+#, gp-priority: normal
+msgid "Facebook settings"
+msgstr "Definições do Facebook"
+
+#: admin/views/tabs/metas/paper-content/general/title-separator.php:12
+#, gp-priority: normal
+msgid "Title separator symbol"
+msgstr "Símbolo separador do título"
+
+#: admin/views/tabs/metas/rss.php:15
+#, gp-priority: normal
+msgid "RSS feed settings"
+msgstr "Definições do feed RSS"
+
+#: admin/views/tabs/metas/breadcrumbs.php:15
+#, gp-priority: normal
+msgid "Breadcrumbs settings"
+msgstr "Definições de breadcrumbs"
+
+#: admin/views/js-templates-primary-term.php:28
+#, gp-priority: normal
+msgid "Make primary"
+msgstr "Tornar primário"
+
+#. translators: %s: number of notifications
+#: admin/menu/class-admin-menu.php:120 inc/class-wpseo-admin-bar-menu.php:640
+#, gp-priority: normal
+msgid "%s notification"
+msgid_plural "%s notifications"
+msgstr[0] "%s notificação"
+msgstr[1] "%s notificações"
+
+#: admin/views/user-profile.php:57
+#, gp-priority: normal
+msgid "Disable readability analysis"
+msgstr "Desativar análise de legibilidade"
+
+#: admin/views/class-yoast-feature-toggles.php:82
+#: js/dist/externals-components.js:5
+#, gp-priority: normal
+msgid "Readability analysis"
+msgstr "Análise de legibilidade"
+
+#: admin/formatter/class-metabox-formatter.php:117
+#: admin/formatter/class-metabox-formatter.php:147
+#: admin/statistics/class-statistics-service.php:217
+#: inc/class-wpseo-rank.php:140 inc/class-wpseo-rank.php:163
+#: inc/class-wpseo-rank.php:195 js/dist/block-editor.js:1
+#: js/dist/block-editor.js:63 js/dist/editor-modules.js:1
+#: js/dist/externals-components.js:1 js/dist/externals/analysis.js:357
+#: js/dist/post-edit.js:1 js/dist/term-edit.js:1
+#, gp-priority: normal
+msgid "Needs improvement"
+msgstr "Precisa de melhoramentos"
+
+#: admin/formatter/class-metabox-formatter.php:65
+#: admin/metabox/class-metabox-section-readability.php:28
+#, gp-priority: normal
+msgid "Readability"
+msgstr "Legibilidade"
+
+#: admin/formatter/class-metabox-formatter.php:195
+#: js/dist/externals/analysisReport.js:1
+#, gp-priority: normal
+msgid "Improvements"
+msgstr "Melhoramentos"
+
+#: admin/views/partial-notifications-errors.php:22
+#, gp-priority: normal
+msgid "Good job! We could detect no serious SEO problems."
+msgstr "Bom trabalho! Não foram detetados problemas graves de SEO."
+
+#: admin/views/partial-notifications-errors.php:21
+#, gp-priority: normal
+msgid "We have detected the following issues that affect the SEO of your site."
+msgstr "Foram detetados os seguintes problemas a afetar a classificação SEO do seu site."
+
+#: admin/formatter/class-metabox-formatter.php:194
+#: admin/views/partial-notifications-errors.php:20
+#: js/dist/externals/analysisReport.js:1
+#, gp-priority: normal
+msgid "Problems"
+msgstr "Problemas"
+
+#: admin/formatter/class-metabox-formatter.php:167
+#: js/dist/externals/schemaBlocks.js:9
+#, gp-priority: normal
+msgid "Analysis"
+msgstr "Análise"
+
+#: admin/formatter/class-metabox-formatter.php:110
+#: admin/formatter/class-metabox-formatter.php:140 inc/class-wpseo-rank.php:138
+#, gp-priority: normal
+msgid "Not available"
+msgstr "Não disponivel"
+
+#: admin/class-meta-columns.php:214
+#, gp-priority: normal
+msgid "Filter by SEO Score"
+msgstr "Filtrar por classificação SEO"
+
+#: admin/class-meta-columns.php:139
+#, gp-priority: normal
+msgid "Meta description not set."
+msgstr "Descrição não definida."
+
+#: admin/menu/class-admin-menu.php:54 admin/pages/dashboard.php:32
+#, gp-priority: normal
+msgid "Dashboard"
+msgstr "Painel"
+
+#. translators: %1$s is a link start tag to the permalink settings page, %2$s
+#. is the link closing tag.
+#: src/services/health-check/postname-permalink-reports.php:68
+#, gp-priority: normal
+msgid "You can fix this on the %1$sPermalink settings page%2$s."
+msgstr "Pode resolver isto na %1$spágina das Ligações permanentes%2$s."
+
+#: inc/class-wpseo-replace-vars.php:1439
+#, gp-priority: normal
+msgid "Replaced with the primary category of the post/page"
+msgstr "Substituído pela categoria primária do conteúdo"
+
+#: admin/views/tabs/social/pinterest.php:36
+#, gp-priority: normal
+msgid "Pinterest confirmation"
+msgstr "Confirmação do Pinterest"
+
+#: admin/views/tabs/social/pinterest.php:24
+#, gp-priority: normal
+msgid "If you have already confirmed your website with Pinterest, you can skip the step below."
+msgstr "Se já confirmou o seu site no Pinterest, pode saltar o passo abaixo."
+
+#: admin/views/tabs/metas/paper-content/taxonomy-content.php:18
+#, gp-priority: normal
+msgid "Format-based archives"
+msgstr "Arquivo baseado no formato"
+
+#: admin/views/tabs/dashboard/webmaster-tools.php:24
+#, gp-priority: normal
+msgid "Webmaster Tools verification"
+msgstr "Verificação de ferramentas de webmaster"
+
+#. translators: $s expands to Yoast SEO Premium
+#. translators: %s expands to the product name
+#: admin/views/licenses.php:182 admin/views/licenses.php:285
+#, gp-priority: normal
+msgid "Buy %s"
+msgstr "Comprar %s"
+
+#. translators: %1$s expands to Yoast SEO
+#: admin/class-bulk-title-editor-list-table.php:50
+#, gp-priority: normal
+msgid "New %1$s Title"
+msgstr "Novo título do %1$s"
+
+#. translators: %1$s expands to Yoast SEO
+#: admin/class-bulk-title-editor-list-table.php:48
+#, gp-priority: normal
+msgid "Existing %1$s Title"
+msgstr "Título existente do %1$s"
+
+#: inc/sitemaps/class-sitemaps-cache-validator.php:294
+#, gp-priority: normal
+msgid "Expected an integer as input."
+msgstr "A entrada deve ser um número inteiro."
+
+#: inc/sitemaps/class-sitemaps-cache-validator.php:111
+#, gp-priority: normal
+msgid "Trying to build the sitemap cache key, but the postfix and prefix combination leaves too little room to do this. You are probably requesting a page that is way out of the expected range."
+msgstr "A tentar criar uma chave de cache segura para o sitemap mas a combinação de sufixo e prefixo não deixa muito espaço para o fazer. Está provavelmente a pedir uma página que estará muito fora do alcance expectável."
+
+#: admin/views/tabs/metas/taxonomies/category-url.php:10
+#, gp-priority: normal
+msgid "Remove"
+msgstr "Remover"
+
+#: admin/views/tabs/metas/taxonomies/category-url.php:10
+#, gp-priority: normal
+msgid "Keep"
+msgstr "Manter"
+
+#: admin/views/tabs/metas/paper-content/breadcrumbs-content.php:32
+#, gp-priority: normal
+msgid "Bold the last page"
+msgstr "Negrito na última página"
+
+#: admin/views/tabs/metas/paper-content/breadcrumbs-content.php:27
+#, gp-priority: normal
+msgid "Regular"
+msgstr "Normal"
+
+#: admin/views/tabs/metas/paper-content/breadcrumbs-content.php:26
+#, gp-priority: normal
+msgid "Bold"
+msgstr "Negrito"
+
+#: admin/views/tabs/metas/paper-content/breadcrumbs-content.php:22
+#, gp-priority: normal
+msgid "Show Blog page"
+msgstr "Mostrar página de artigos"
+
+#. translators: %s is the taxonomy title. This will be shown to screenreaders
+#: admin/views/js-templates-primary-term.php:38
+#, gp-priority: normal
+msgid "Primary %s"
+msgstr "%s primário(a)"
+
+#: admin/views/js-templates-primary-term.php:32
+#, gp-priority: normal
+msgid "Primary"
+msgstr "Primário(a)"
+
+#. translators: accessibility text. %1$s expands to the term title, %2$s to the
+#. taxonomy title.
+#: admin/views/js-templates-primary-term.php:18
+#, gp-priority: normal
+msgid "Make %1$s primary %2$s"
+msgstr "Tornar %1$s primário em %2$s"
+
+#: admin/pages/dashboard.php:47 admin/pages/network.php:20
+#: admin/views/tabs/dashboard/integrations.php:22
+#: admin/views/tabs/network/integrations.php:21
+#, gp-priority: normal
+msgid "Integrations"
+msgstr "Integrações"
+
+#: admin/taxonomy/class-taxonomy-columns.php:137
+#, gp-priority: normal
+msgid "Term is set to noindex."
+msgstr "Termo está definido como a não indexar."
+
+#: admin/views/tabs/metas/archives.php:19
+#: admin/views/tabs/metas/paper-content/author-archive-settings.php:16
+#, gp-priority: normal
+msgid "Author archives"
+msgstr "Arquivo de autor"
+
+#: src/presenters/admin/light-switch-presenter.php:120
+#, gp-priority: normal
+msgid "Enabled"
+msgstr "Ativo"
+
+#: src/presenters/admin/light-switch-presenter.php:120
+#, gp-priority: normal
+msgid "Disabled"
+msgstr "Inativo"
+
+#. translators: %s: wp_title() function.
+#: inc/class-wpseo-replace-vars.php:1421
+#, gp-priority: normal
+msgid "The separator defined in your theme's %s tag."
+msgstr "O separador definido no %s do seu tema."
+
+#: inc/class-wpseo-rank.php:139
+#, gp-priority: normal
+msgid "No index"
+msgstr "Não indexar"
+
+#: src/deprecated/admin/ryte/class-ryte.php:137
+#: src/integrations/admin/ryte-integration.php:132
+#, gp-priority: normal
+msgid "Once Weekly"
+msgstr "Uma vez por semana"
+
+#: admin/class-meta-columns.php:91 admin/taxonomy/class-taxonomy-columns.php:68
+#, gp-priority: normal
+msgid "SEO score"
+msgstr "Classificação de SEO"
+
+#. Author of the plugin
+#, gp-priority: normal
+msgid "Team Yoast"
+msgstr "Team Yoast"
+
+#. Description of the plugin
+#, gp-priority: normal
+msgid "The first true all-in-one SEO solution for WordPress, including on-page content analysis, XML sitemaps and much more."
+msgstr "A primeira solução integrada de SEO para WordPress, com análise de conteúdo na página, sitemaps XML e muito mais."
+
+#. Plugin Name of the plugin
+#: admin/capabilities/class-capability-manager-integration.php:72
+#: js/dist/block-editor.js:63
+#, gp-priority: normal
+msgid "Yoast SEO"
+msgstr "Yoast SEO"
+
+#: wp-seo-main.php:604
+#, gp-priority: normal
+msgid "Activation failed:"
+msgstr "Ativação falhou:"
+
+#: wp-seo-main.php:593
+#, gp-priority: normal
+msgid "The filter extension seem to be unavailable. Please ask your web host to enable it."
+msgstr "A extensão Filter não está disponível. Por favor peça ao seu serviço de alojamento para ativá-la."
+
+#. translators: %1$s expands to Yoast SEO, %2$s / %3$s: links to the
+#. installation manual in the Readme for the Yoast SEO code repository on
+#. GitHub
+#: wp-seo-main.php:569
+#, gp-priority: normal
+msgid "The %1$s plugin installation is incomplete. Please refer to %2$sinstallation instructions%3$s."
+msgstr "A instalação do plugin %1$s está incompleta. Por favor, leia as %2$sinstruções de instalação%3$s."
+
+#: wp-seo-main.php:547
+#, gp-priority: normal
+msgid "The Standard PHP Library (SPL) extension seem to be unavailable. Please ask your web host to enable it."
+msgstr "A extensão PHP Library (padrão) não está disponível. Por favor peça ao seu serviço de alojamento para ativá-la."
+
+#: inc/class-wpseo-admin-bar-menu.php:392
+#: inc/class-wpseo-admin-bar-menu.php:440
+#, gp-priority: normal
+msgid "SEO Settings"
+msgstr "Definições de SEO"
+
+#: inc/class-wpseo-admin-bar-menu.php:357
+#, gp-priority: normal
+msgid "Mobile-Friendly Test"
+msgstr "Teste de compatibilidade com dispositivos móveis"
+
+#: inc/class-wpseo-admin-bar-menu.php:352
+#, gp-priority: normal
+msgid "Google Page Speed Test"
+msgstr "Teste PageSpeed do Google"
+
+#: inc/class-wpseo-admin-bar-menu.php:347
+#, gp-priority: normal
+msgid "CSS Validator"
+msgstr "Validação de CSS"
+
+#: inc/class-wpseo-admin-bar-menu.php:342
+#, gp-priority: normal
+msgid "HTML Validator"
+msgstr "Validação de HTML"
+
+#: inc/class-wpseo-admin-bar-menu.php:337
+#, gp-priority: normal
+msgid "Pinterest Rich Pins Validator"
+msgstr "Validação de Rich Pins do Pinterest"
+
+#: inc/class-wpseo-admin-bar-menu.php:332
+#, gp-priority: normal
+msgid "Facebook Debugger"
+msgstr "Depurador do Facebook"
+
+#: inc/class-wpseo-admin-bar-menu.php:322
+#, gp-priority: normal
+msgid "Check Google Cache"
+msgstr "Verificar cache do Google"
+
+#: inc/class-wpseo-admin-bar-menu.php:302
+#, gp-priority: normal
+msgid "Analyze this page"
+msgstr "Analisar esta página"
+
+#: inc/class-wpseo-admin-bar-menu.php:238
+#, gp-priority: normal
+msgid "Keyword Research"
+msgstr "Pesquisa de palavras-chave"
+
+#. translators: %s expands to an invalid URL.
+#: inc/options/class-wpseo-option.php:394
+#, gp-priority: normal
+msgid "%s does not seem to be a valid url. Please correct."
+msgstr "%s não parece ser um URL válido. Por favor tente de novo."
+
+#. translators: 1: Verification string from user input; 2: Service name.
+#: inc/options/class-wpseo-option.php:358
+#, gp-priority: normal
+msgid "%1$s does not seem to be a valid %2$s verification string. Please correct."
+msgstr "%1$s não parece ser uma variável de verificação de %2$s válida. Por favor tente de novo."
+
+#. translators: %s expands to the name of a post type (plural).
+#: inc/class-upgrade.php:1232 inc/options/class-wpseo-option-titles.php:283
+#, gp-priority: normal
+msgid "%s Archive"
+msgstr "Arquivo de %s"
+
+#. translators: %s expands to the search phrase.
+#: inc/options/class-wpseo-option-titles.php:248
+#, gp-priority: normal
+msgid "You searched for %s"
+msgstr "Pesquisou por %s"
+
+#: inc/options/class-wpseo-option-social.php:109
+#, gp-priority: normal
+msgid "Summary with large image"
+msgstr "Resumo com imagem grande"
+
+#: inc/options/class-wpseo-option-social.php:108
+#, gp-priority: normal
+msgid "Summary"
+msgstr "Resumo"
+
+#. translators: 1: link to post; 2: link to blog.
+#: inc/options/class-wpseo-option-titles.php:251
+#, gp-priority: normal
+msgid "The post %1$s appeared first on %2$s."
+msgstr "O conteúdo %1$s aparece primeiro em %2$s."
+
+#: inc/options/class-wpseo-option-ms.php:217
+#, gp-priority: normal
+msgid "No numeric value was received."
+msgstr "Não foi recebido nenhum valor numérico."
+
+#. translators: %s is the ID number of a blog.
+#: inc/options/class-wpseo-option-ms.php:205
+#, gp-priority: normal
+msgid "This must be an existing blog. Blog %s does not exist or has been marked as deleted."
+msgstr "Tem de ser um site existente. O site %s não existe ou foi marcado como eliminado."
+
+#: inc/options/class-wpseo-option-ms.php:201
+#: inc/options/class-wpseo-option-ms.php:217
+#, gp-priority: normal
+msgid "The default blog setting must be the numeric blog id of the blog you want to use as default."
+msgstr "As definições por omissão têm que ser o ID numérico do site cujas definições pretende usar por omissão."
+
+#. translators: %1$s expands to the option name and %2$sexpands to Yoast SEO
+#: inc/options/class-wpseo-option-ms.php:181
+#, gp-priority: normal
+msgid "%1$s is not a valid choice for who should be allowed access to the %2$s settings. Value reset to the default."
+msgstr "%1$s não é uma escolha válida para quem deve ter permissões de acesso às configurações do %2$s. Foi reposto o valor por omissão."
+
+#. translators: %s expands to a taxonomy slug.
+#: inc/options/class-wpseo-option-titles.php:557
+#, gp-priority: normal
+msgid "Please select a valid post type for taxonomy \"%s\""
+msgstr "Por favor selecione um tipo de conteúdo válido para a taxonomia \"%s\""
+
+#. translators: %s expands to a post type.
+#: inc/options/class-wpseo-option-titles.php:519
+#, gp-priority: normal
+msgid "Please select a valid taxonomy for post type \"%s\""
+msgstr "Por favor selecione uma taxonomia para o tipo de conteúdo \"%s\""
+
+#: inc/options/class-wpseo-option-titles.php:256
+#, gp-priority: normal
+msgid "You searched for"
+msgstr "Pesquisou por"
+
+#: inc/options/class-wpseo-option-titles.php:255
+#, gp-priority: normal
+msgid "Home"
+msgstr "Início"
+
+#: inc/options/class-wpseo-option-titles.php:254
+#, gp-priority: normal
+msgid "Archives for"
+msgstr "Arquivo de"
+
+#: inc/options/class-wpseo-option-titles.php:253
+#, gp-priority: normal
+msgid "Error 404: Page not found"
+msgstr "Erro 404: Página não encontrada"
+
+#: admin/formatter/class-metabox-formatter.php:131
+#: admin/formatter/class-metabox-formatter.php:161
+#: admin/statistics/class-statistics-service.php:227
+#: inc/class-wpseo-rank.php:142 inc/class-wpseo-rank.php:173
+#: inc/class-wpseo-rank.php:205 js/dist/block-editor.js:1
+#: js/dist/block-editor.js:63 js/dist/editor-modules.js:1
+#: js/dist/externals-components.js:1 js/dist/externals/analysis.js:357
+#: js/dist/post-edit.js:1 js/dist/term-edit.js:1
+#, gp-priority: normal
+msgid "Good"
+msgstr "Bom"
+
+#: inc/class-wpseo-replace-vars.php:1485
+#, gp-priority: normal
+msgid "Replaced with a custom taxonomies description"
+msgstr "Substituído pela descrição da taxonomia personalizada"
+
+#: inc/class-wpseo-replace-vars.php:1484
+#, gp-priority: normal
+msgid "Replaced with a posts custom taxonomies, comma separated."
+msgstr "Substituído pelas taxonomias personalizadas do conteúdo, separadas por vírgulas."
+
+#: inc/class-wpseo-replace-vars.php:1483
+#, gp-priority: normal
+msgid "Replaced with a posts custom field value"
+msgstr "Substituído pelo valor de um campo personalizado do conteúdo"
+
+#: inc/class-wpseo-replace-vars.php:1482
+#, gp-priority: normal
+msgid "Replaced with the slug which caused the 404"
+msgstr "Substituído pela slug que causou o erro 404"
+
+#: inc/class-wpseo-replace-vars.php:1480
+#, gp-priority: normal
+msgid "Attachment caption"
+msgstr "Legenda do anexo"
+
+#: inc/class-wpseo-replace-vars.php:1479
+#, gp-priority: normal
+msgid "Replaced with the current page number"
+msgstr "Substituído pelo número da página atual"
+
+#: inc/class-wpseo-replace-vars.php:1478
+#, gp-priority: normal
+msgid "Replaced with the current page total"
+msgstr "Substituído pelo número total de páginas"
+
+#: inc/class-wpseo-replace-vars.php:1477
+#, gp-priority: normal
+msgid "Replaced with the current page number with context (i.e. page 2 of 4)"
+msgstr "Substituído pelo número atual de página em contexto (p.ex. página 2 de 4)"
+
+#: inc/class-wpseo-replace-vars.php:1448
+#, gp-priority: normal
+msgid "Replaced with the current year"
+msgstr "Substituído pelo ano atual"
+
+#: inc/class-wpseo-replace-vars.php:1449
+#, gp-priority: normal
+msgid "Replaced with the current month"
+msgstr "Substituído pelo mês atual"
+
+#: inc/class-wpseo-replace-vars.php:1450
+#, gp-priority: normal
+msgid "Replaced with the current day"
+msgstr "Substituído pelo dia atual"
+
+#: inc/class-wpseo-replace-vars.php:1447
+#, gp-priority: normal
+msgid "Replaced with the current date"
+msgstr "Substituído pela data atual"
+
+#: inc/class-wpseo-replace-vars.php:1476
+#, gp-priority: normal
+msgid "Replaced with the post/page author's 'Biographical Info'"
+msgstr "Substituído pela informação biográfica do autor do conteúdo"
+
+#: inc/class-wpseo-replace-vars.php:1475
+#, gp-priority: normal
+msgid "Replaced with the post/page author's 'nicename'"
+msgstr "Substituído pela alcunha do autor do conteúdo"
+
+#: inc/class-wpseo-replace-vars.php:1474
+#, gp-priority: normal
+msgid "Replaced with the post/page ID"
+msgstr "Substituído pelo ID do conteúdo"
+
+#: inc/class-wpseo-replace-vars.php:1473
+#, gp-priority: normal
+msgid "Replaced with the post/page modified time"
+msgstr "Substituído pela hora de modificação do conteúdo"
+
+#: inc/class-wpseo-replace-vars.php:1444
+#, gp-priority: normal
+msgid "Replaced with the current search phrase"
+msgstr "Substituído pela atual frase de pesquisa"
+
+#: inc/class-wpseo-replace-vars.php:1443
+#, gp-priority: normal
+msgid "Replaced with the term name"
+msgstr "Substituído pelo nome do termo"
+
+#: inc/class-wpseo-replace-vars.php:1442
+#, gp-priority: normal
+msgid "Replaced with the term description"
+msgstr "Substituído pela descrição do termo"
+
+#: inc/class-wpseo-replace-vars.php:1441
+#, gp-priority: normal
+msgid "Replaced with the tag description"
+msgstr "Substituído pela descrição da etiqueta"
+
+#: inc/class-wpseo-replace-vars.php:1440
+#, gp-priority: normal
+msgid "Replaced with the category description"
+msgstr "Substituído pela descrição da categoria"
+
+#: inc/class-wpseo-replace-vars.php:1438
+#, gp-priority: normal
+msgid "Replaced with the post categories (comma separated)"
+msgstr "Substituído pelas categorias do conteúdo (separado por vírgulas)"
+
+#: inc/class-wpseo-replace-vars.php:1437
+#, gp-priority: normal
+msgid "Replaced with the current tag/tags"
+msgstr "Substituído pelas etiquetas atuais"
+
+#: inc/class-wpseo-replace-vars.php:1436
+#, gp-priority: normal
+msgid "Replaced with the post/page excerpt (without auto-generation)"
+msgstr "Substituído pelo excerto do conteúdo (sem gerar automaticamente)"
+
+#: inc/class-wpseo-replace-vars.php:1435
+#, gp-priority: normal
+msgid "Replaced with the post/page excerpt (or auto-generated if it does not exist)"
+msgstr "Substituído pelo excerto do conteúdo (ou gerado automaticamente caso não exista)"
+
+#: inc/class-wpseo-replace-vars.php:1433
+#, gp-priority: normal
+msgid "The site's name"
+msgstr "Nome do site"
+
+#: inc/class-wpseo-replace-vars.php:1431
+#, gp-priority: normal
+msgid "Replaced with the title of the parent page of the current page"
+msgstr "Substituído pelo título da página superior da página atual"
+
+#: inc/class-wpseo-replace-vars.php:1430
+#, gp-priority: normal
+msgid "Replaced with the title of the post/page"
+msgstr "Substituído pelo título do conteúdo"
+
+#: inc/class-wpseo-replace-vars.php:1429
+#, gp-priority: normal
+msgid "Replaced with the date of the post/page"
+msgstr "Substituído pela data do conteúdo"
+
+#. translators: 1: current page number, 2: total number of pages.
+#: inc/class-wpseo-replace-vars.php:1030
+#, gp-priority: normal
+msgid "Page %1$d of %2$d"
+msgstr "Página %1$d de %2$d"
+
+#: inc/class-wpseo-replace-vars.php:122
+#, gp-priority: normal
+msgid "You cannot overrule a WPSEO standard variable replacement by registering a variable with the same name. Use the \"wpseo_replacements\" filter instead to adjust the replacement value."
+msgstr "Não pode sobrepor uma substituição de variável predefinida do WPSEO ao registar uma variável com o mesmo nome. Em alternativa use o filtro \"wpseo_replacements\" para ajustar o valor de substituição."
+
+#: inc/class-wpseo-replace-vars.php:118
+#, gp-priority: normal
+msgid "A replacement variable with the same name has already been registered. Try making your variable name unique."
+msgstr "Já foi registada uma variável de substituição com o mesmo nome. Tente usar um nome exclusivo para a sua variável."
+
+#: inc/class-wpseo-replace-vars.php:108
+#, gp-priority: normal
+msgid "A replacement variable can not start with \"%%cf_\" or \"%%ct_\" as these are reserved for the WPSEO standard variable variables for custom fields and custom taxonomies. Try making your variable name unique."
+msgstr "Uma variável de substituição não pode começar com \"%%cf_\" ou \"%%ct_\" pois estas estão reservadas pelo WPSEO como variáveis por omissão para campos personalizados e taxonomias personalizadas. Tente usar um nome único para a sua variável."
+
+#: inc/class-wpseo-replace-vars.php:105
+#, gp-priority: normal
+msgid "A replacement variable can only contain alphanumeric characters, an underscore or a dash. Try renaming your variable."
+msgstr "Uma variável de substituição apenas pode conter carateres alfanuméricos, underscores ou hífenes. Tente renomear a sua variável."
+
+#: inc/options/class-wpseo-option-titles.php:249
+#, gp-priority: normal
+msgid "Page not found"
+msgstr "Página não encontrada"
+
+#. translators: %s expands to the variable used for term title.
+#: admin/formatter/class-term-metabox-formatter.php:164
+#: inc/class-upgrade.php:1235 inc/options/class-wpseo-option-titles.php:319
+#, gp-priority: normal
+msgid "%s Archives"
+msgstr "Arquivo de %s"
+
+#: admin/views/user-profile.php:28
+#, gp-priority: normal
+msgid "Meta description to use for Author page"
+msgstr "Descrição da página de autor"
+
+#: admin/views/user-profile.php:24
+#, gp-priority: normal
+msgid "Title to use for Author page"
+msgstr "Título da página de autor"
+
+#. translators: %1$s expands to Yoast SEO
+#: admin/views/user-profile.php:11
+#, gp-priority: normal
+msgid "%1$s settings"
+msgstr "Definições do %1$s"
+
+#. translators: %1$s expands to Yoast SEO
+#: admin/views/tabs/tool/wpseo-export.php:15
+#, gp-priority: normal
+msgid "Export your %1$s settings"
+msgstr "Exportar as suas definições de %1$s"
+
+#: admin/class-export.php:61 admin/views/tabs/tool/wpseo-import.php:25
+#: admin/views/tabs/tool/wpseo-import.php:45
+#: admin/views/tool-import-export.php:85
+#, gp-priority: normal
+msgid "Import settings"
+msgstr "Importar definições"
+
+#: admin/views/tabs/tool/import-seo.php:18
+#: admin/views/tabs/tool/import-seo.php:49
+#: admin/views/tool-import-export.php:91
+#, gp-priority: normal
+msgid "Import from other SEO plugins"
+msgstr "Importar de outros plugins SEO"
+
+#: admin/views/tabs/tool/import-seo.php:82
+#, gp-priority: normal
+msgid "Import"
+msgstr "Importar"
+
+#. translators: %s expands to robots.txt.
+#. translators: %s expands to ".htaccess".
+#: admin/views/tool-file-editor.php:135 admin/views/tool-file-editor.php:235
+#, gp-priority: normal
+msgid "If you had a %s file and it was editable, you could edit it from here."
+msgstr "Caso tenha o ficheiro %s e este tiver permissões de escrita, pode editá-lo aqui."
+
+#. translators: %s expands to robots.txt.
+#. translators: %s expands to ".htaccess".
+#: admin/views/tool-file-editor.php:153 admin/views/tool-file-editor.php:203
+#, gp-priority: normal
+msgid "If your %s were writable, you could edit it from here."
+msgstr "Se o seu ficheiro %s tiver permissões de escrita, pode editá-lo aqui."
+
+#. translators: %s expands to robots.txt.
+#: admin/views/tool-file-editor.php:116
+#, gp-priority: normal
+msgid "You don't have a %s file, create one here:"
+msgstr "Não tem o ficheiro %s, crie um aqui:"
+
+#: admin/views/tabs/metas/paper-content/rss-content.php:51
+#, gp-priority: normal
+msgid "A link to your site, with your site's name and description as anchor text."
+msgstr "A ligação para o seu site, com o nome e descrição do site como texto âncora."
+
+#: admin/views/tabs/metas/paper-content/rss-content.php:47
+#, gp-priority: normal
+msgid "A link to your site, with your site's name as anchor text."
+msgstr "A ligação para o seu site, com o nome do site como texto âncora."
+
+#: admin/views/tabs/metas/paper-content/rss-content.php:43
+#, gp-priority: normal
+msgid "A link to the post, with the title as anchor text."
+msgstr "A ligação para o conteúdo, com este título como texto âncora."
+
+#: admin/views/tabs/metas/paper-content/rss-content.php:39
+#, gp-priority: normal
+msgid "A link to the archive for the post author, with the authors name as anchor text."
+msgstr "A ligação para o arquivo do autor deste conteúdo, com os nome do autor como de texto âncora."
+
+#: admin/views/tabs/metas/paper-content/rss-content.php:20
+#, gp-priority: normal
+msgid "You can use the following variables within the content, they will be replaced by the value on the right."
+msgstr "Dentro das informações pode incluir as variáveis abaixo, que serão substituídas pelo valor à direita."
+
+#: admin/views/tabs/metas/paper-content/rss-content.php:15
+#, gp-priority: normal
+msgid "Content to put after each post in the feed"
+msgstr "Informação a inserir depois de cada conteúdo do feed"
+
+#: admin/views/tabs/metas/paper-content/rss-content.php:14
+#, gp-priority: normal
+msgid "Content to put before each post in the feed"
+msgstr "Informação a inserir antes de cada conteúdo do feed"
+
+#: admin/views/tabs/metas/rss.php:21
+#, gp-priority: normal
+msgid "This feature is used to automatically add content to your RSS, more specifically, it's meant to add links back to your blog and your blog posts, so dumb scrapers will automatically add these links too, helping search engines identify you as the original source of the content."
+msgstr "Esta funcionalidade é usada para adicionar informação automaticamente ao seu RSS. O objetivo é adicionar ligações para o seu site e respetivos conteúdos, para que os motores de pesquisa adicionem também estas ligações, permitindo a sua identificação como fonte original dos conteúdos."
+
+#. translators: %1$s / %2$s: links to the breadcrumbs implementation page on
+#. the Yoast knowledgebase
+#: admin/views/tabs/metas/paper-content/breadcrumbs-content.php:103
+#, gp-priority: normal
+msgid "Usage of this breadcrumbs feature is explained in %1$sour knowledge-base article on breadcrumbs implementation%2$s."
+msgstr "O uso da função de breadcrumbs é explicado %1$sno artigo da nossa base de conhecimento sobre implementação de breadcrumbs%2$s."
+
+#: admin/views/tabs/metas/paper-content/breadcrumbs-content.php:98
+#, gp-priority: normal
+msgid "How to insert breadcrumbs in your theme"
+msgstr "Como inserir breadcrumbs no seu tema"
+
+#: admin/views/tabs/metas/paper-content/breadcrumbs-content.php:77
+#, gp-priority: normal
+msgid "Blog"
+msgstr "Blog"
+
+#: admin/views/tabs/metas/paper-content/breadcrumbs-content.php:17
+#, gp-priority: normal
+msgid "Breadcrumb for 404 Page"
+msgstr "Breadcrumb para página 404"
+
+#: admin/views/tabs/metas/paper-content/breadcrumbs-content.php:16
+#, gp-priority: normal
+msgid "Prefix for Search Page breadcrumbs"
+msgstr "Prefixo para breadcrumbs de página de pesquisa"
+
+#: admin/views/tabs/metas/paper-content/breadcrumbs-content.php:15
+#, gp-priority: normal
+msgid "Prefix for Archive breadcrumbs"
+msgstr "Prefixo para breadcrumbs de arquivo"
+
+#: admin/views/tabs/metas/paper-content/breadcrumbs-content.php:14
+#, gp-priority: normal
+msgid "Prefix for the breadcrumb path"
+msgstr "Prefixo para o caminho de breadcrumb"
+
+#: admin/views/tabs/metas/paper-content/breadcrumbs-content.php:13
+#, gp-priority: normal
+msgid "Anchor text for the Homepage"
+msgstr "Texto âncora para a página inical"
+
+#: admin/views/tabs/metas/paper-content/breadcrumbs-content.php:12
+#, gp-priority: normal
+msgid "Separator between breadcrumbs"
+msgstr "Separador entre breadcrumbs"
+
+#: admin/statistics/class-statistics-service.php:80
+#, gp-priority: normal
+msgid "Below are your published posts' SEO scores. Now is as good a time as any to start improving some of your posts!"
+msgstr "Abaixo pode encontrar as classificações SEO dos conteúdos publicados. Pode começar agora a melhorar alguns dos seus conteúdos!"
+
+#: admin/views/tabs/dashboard/dashboard.php:40
+#, gp-priority: normal
+msgid "Credits"
+msgstr "Créditos"
+
+#: admin/pages/tools.php:70
+#, gp-priority: normal
+msgid "&laquo; Back to Tools page"
+msgstr "&laquo; Voltar à página Ferramentas"
+
+#. translators: %1$s expands to Yoast SEO
+#: admin/pages/tools.php:43
+#, gp-priority: normal
+msgid "%1$s comes with some very powerful built-in tools:"
+msgstr "O %1$s inclui algumas ferramentas poderosas:"
+
+#: admin/pages/tools.php:31
+#, gp-priority: normal
+msgid "This tool allows you to quickly change important files for your SEO, like your robots.txt and, if you have one, your .htaccess file."
+msgstr "Esta ferramenta permite-lhe alterar rapidamente ficheiros importantes para o seu SEO, como o ficheiro robots.txt e, se tiver, o ficheiro .htaccess."
+
+#: admin/pages/tools.php:30
+#, gp-priority: normal
+msgid "File editor"
+msgstr "Editor de ficheiro"
+
+#: admin/pages/tools.php:24
+#, gp-priority: normal
+msgid "Import and Export"
+msgstr "Importar e exportar"
+
+#: admin/pages/tools.php:37
+#, gp-priority: normal
+msgid "This tool allows you to quickly change titles and descriptions of your posts and pages without having to go into the editor for each page."
+msgstr "Esta ferramenta permite-lhe alterar títulos e descrições dos seus conteúdos e páginas sem ter de usar o editor para cada página."
+
+#: admin/pages/tools.php:36
+#, gp-priority: normal
+msgid "Bulk editor"
+msgstr "Editor por lote"
+
+#. translators: %1$s / %2$s expands to a link to pinterest.com's help page.
+#: admin/views/tabs/social/pinterest.php:30
+#, gp-priority: normal
+msgid "To %1$sconfirm your site with Pinterest%2$s, add the meta tag here:"
+msgstr "Para %1$sconfirmar o seu site com o Pinterest%2$s, adicione a meta tag aqui:"
+
+#: admin/views/tabs/social/twitterbox.php:32
+#, gp-priority: normal
+msgid "The default card type to use"
+msgstr "Tipo de cartão por omissão"
+
+#: admin/views/tabs/social/twitterbox.php:24
+#, gp-priority: normal
+msgid "Add Twitter card meta data"
+msgstr "Adicionar metadados do cartão do Twitter"
+
+#: admin/views/tabs/social/facebook.php:54
+#, gp-priority: normal
+msgid "This image is used if the post/page being shared does not contain any images."
+msgstr "Esta imagem é usada se o conteúdo não tiver nenhuma imagem."
+
+#: src/integrations/admin/import-integration.php:117
+#, gp-priority: normal
+msgid "Default settings"
+msgstr "Definições por omissão"
+
+#: admin/views/tabs/metas/paper-content/rss-content.php:33
+#: admin/views/tool-bulk-editor.php:111
+#, gp-priority: normal
+msgid "Description"
+msgstr "Descrição"
+
+#: admin/views/tabs/social/facebook.php:20
+#, gp-priority: normal
+msgid "Add Open Graph meta data"
+msgstr "Adicionar metadados Open Graph"
+
+#: admin/views/tabs/social/accounts.php:59 js/dist/workouts.js:7
+#, gp-priority: normal
+msgid "YouTube URL"
+msgstr "URL do YouTube"
+
+#: admin/views/tabs/social/accounts.php:54 js/dist/workouts.js:7
+#, gp-priority: normal
+msgid "Pinterest URL"
+msgstr "URL do Pinterest"
+
+#: admin/views/tabs/social/accounts.php:49 js/dist/workouts.js:7
+#, gp-priority: normal
+msgid "MySpace URL"
+msgstr "URL do MySpace"
+
+#: admin/views/tabs/social/accounts.php:44 js/dist/workouts.js:7
+#, gp-priority: normal
+msgid "LinkedIn URL"
+msgstr "URL do LinkedIn"
+
+#: admin/views/tabs/social/accounts.php:39 js/dist/workouts.js:7
+#, gp-priority: normal
+msgid "Instagram URL"
+msgstr "URL do Instagram"
+
+#: admin/views/tabs/social/accounts.php:34
+#, gp-priority: normal
+msgid "Twitter Username"
+msgstr "Nome de utilizador do Twitter"
+
+#: admin/views/tabs/social/accounts.php:29
+#, gp-priority: normal
+msgid "Facebook Page URL"
+msgstr "URL da página do Facebook"
+
+#: admin/pages/social.php:18
+#, gp-priority: normal
+msgid "Accounts"
+msgstr "Contas"
+
+#: admin/views/tabs/network/restore-site.php:32
+#, gp-priority: normal
+msgid "Restore site to defaults"
+msgstr "Repor definições originais"
+
+#: admin/views/tabs/network/restore-site.php:23
+#: admin/views/tabs/network/restore-site.php:28
+#, gp-priority: normal
+msgid "Site ID"
+msgstr "ID do site"
+
+#: admin/views/tabs/network/restore-site.php:16
+#, gp-priority: normal
+msgid "Using this form you can reset a site to the default SEO settings."
+msgstr "Através deste formulário pode repor as definições por omissão de SEO de um site."
+
+#. translators: 1: link open tag; 2: link close tag.
+#: admin/views/tabs/network/general.php:47
+#, gp-priority: normal
+msgid "Enter the %1$sSite ID%2$s for the site whose settings you want to use as default for all sites that are added to your network. Leave empty for none (i.e. the normal plugin defaults will be used)."
+msgstr "Insira o %1$sID do site%2$s cujas definições quer usar por omissão para todos os sites que são adicionados à sua rede. Deixe em branco para nenhum (p.ex. serão usadas as definições por omissão)."
+
+#: admin/views/tabs/network/general.php:40
+#, gp-priority: normal
+msgid "Choose the site whose settings you want to use as default for all sites that are added to your network. If you choose 'None', the normal plugin defaults will be used."
+msgstr "Escolha o site cujas definições deseja usar por omissão para todos os sites que são adicionados à sua rede. Se escolher 'Nenhum', serão utilizadas as definições por omissão do plugin."
+
+#: admin/views/tabs/network/general.php:37
+#: admin/views/tabs/network/general.php:43
+#, gp-priority: normal
+msgid "New sites in the network inherit their SEO settings from this site"
+msgstr "Novos sites na rede herdam as definições SEO deste site"
+
+#: admin/views/tabs/network/general.php:28
+#, gp-priority: normal
+msgid "Super Admins only"
+msgstr "Apenas super administradores"
+
+#: admin/views/tabs/network/general.php:27
+#, gp-priority: normal
+msgid "Site Admins (default)"
+msgstr "Administradores do site (por omissão)"
+
+#. translators: %1$s expands to Yoast SEO
+#: admin/views/tabs/network/general.php:25
+#, gp-priority: normal
+msgid "Who should have access to the %1$s settings"
+msgstr "Quem deverá aceder às definições de %1$s"
+
+#: admin/class-yoast-network-admin.php:80
+#, gp-priority: normal
+msgid "spam"
+msgstr "spam"
+
+#: admin/class-yoast-network-admin.php:79
+#, gp-priority: normal
+msgid "mature"
+msgstr "adulto"
+
+#: admin/class-yoast-network-admin.php:78
+#, gp-priority: normal
+msgid "archived"
+msgstr "arquivado"
+
+#: admin/class-yoast-network-admin.php:77
+#, gp-priority: normal
+msgid "public"
+msgstr "﻿público"
+
+#. translators: %s expands to the name of a site within a multisite network.
+#: admin/class-yoast-network-admin.php:164
+#, gp-priority: normal
+msgid "%s restored to default SEO settings."
+msgstr "%s reposto para as definições de SEO por omissão."
+
+#: admin/class-yoast-network-admin.php:130
+#, gp-priority: normal
+msgid "Settings Updated."
+msgstr "Definições atualizadas."
+
+#: admin/views/tabs/metas/paper-content/special-pages.php:26
+#, gp-priority: normal
+msgid "404 pages"
+msgstr "Páginas 404"
+
+#: admin/views/tabs/metas/paper-content/special-pages.php:21
+#, gp-priority: normal
+msgid "Search pages"
+msgstr "Páginas de pesquisa"
+
+#. translators: %s expands to <code>noindex, follow</code>.
+#: admin/views/tabs/metas/paper-content/special-pages.php:15
+#, gp-priority: normal
+msgid "These pages will be %s by default, so they will never show up in search results."
+msgstr "Estas páginas estão definidas como %s por omissão, de modo a nunca aparecerem em resultados de pesquisa."
+
+#: admin/views/tabs/metas/archives/help.php:21
+#, gp-priority: normal
+msgid "Date-based archives could in some cases also be seen as duplicate content."
+msgstr "Arquivos baseados na data podem, nalguns casos, ser vistos como conteúdo duplicado."
+
+#. translators: %s expands to <code>noindex, follow</code>
+#: admin/views/tabs/metas/archives/help.php:17
+#, gp-priority: normal
+msgid "If this is the case on your site, you can choose to either disable it (which makes it redirect to the homepage), or to add %s to it so it doesn't show up in the search results."
+msgstr "Se este é o caso do seu site, pode escolher entre desativá-lo (que leva ao redireccionamento para a página inicial), ou adicionar %s para que não apareça nos resultados de pesquisa."
+
+#. translators: %1$s / %2$s: links to an article about duplicate content on
+#. yoast.com
+#: admin/views/tabs/metas/archives/help.php:11
+#, gp-priority: normal
+msgid "If you're running a one author blog, the author archive will be exactly the same as your homepage. This is what's called a %1$sduplicate content problem%2$s."
+msgstr "Se está a gerir um site apenas com um autor, o arquivo do autor será o mesmo que a sua página inicial. Isto é o que se chama %1$sum problema de conteúdo duplicado%2$s."
+
+#: admin/views/tabs/metas/archives.php:24
+#: admin/views/tabs/metas/paper-content/date-archives-settings.php:16
+#, gp-priority: normal
+msgid "Date archives"
+msgstr "Arquivo por datas"
+
+#: admin/views/tool-bulk-editor.php:109 inc/class-wpseo-replace-vars.php:1430
+#: js/dist/externals-redux.js:1
+#, gp-priority: normal
+msgid "Title"
+msgstr "Título"
+
+#: admin/views/tabs/network/general.php:54
+#, gp-priority: normal
+msgid "Take note:"
+msgstr "Nota:"
+
+#: admin/views/tabs/metas/general.php:31
+#, gp-priority: normal
+msgid "Title Separator"
+msgstr "Separador de títulos"
+
+#. translators: %1$s expands to Yoast SEO
+#: admin/views/tabs/metas/paper-content/general/force-rewrite-title.php:14
+#, gp-priority: normal
+msgid "%1$s has auto-detected whether it needs to force rewrite the titles for your pages, if you think it's wrong and you know what you're doing, you can change the setting here."
+msgstr "O %1$s detetou automaticamente que precisa forçar a reescrita dos títulos das suas páginas. Se achar que isto está errado e souber o que está a fazer, pode alterar esta opção aqui."
+
+#: admin/views/tabs/metas/paper-content/general/force-rewrite-title.php:10
+#, gp-priority: normal
+msgid "Force rewrite titles"
+msgstr "Forçar reescrita dos títulos"
+
+#: admin/pages/metas.php:21
+#, gp-priority: normal
+msgid "Taxonomies"
+msgstr "Taxonomias"
+
+#: admin/views/tabs/metas/general.php:47
+#, gp-priority: normal
+msgid "Homepage"
+msgstr "Página inicial"
+
+#. translators: %1$s expands to Yoast SEO.
+#: admin/views/licenses.php:94
+#, gp-priority: normal
+msgid "%1$s Extensions"
+msgstr "Extensões de %1$s"
+
+#. translators: %1$s expands to Yoast SEO
+#: admin/class-plugin-availability.php:82 admin/views/licenses.php:77
+#, gp-priority: normal
+msgid "Seamlessly integrate WooCommerce with %1$s and get extra features!"
+msgstr "Integre o WooCommerce com o %1$s sem dificuldade e obtenha funcionalidades extra!"
+
+#: admin/class-plugin-availability.php:70 admin/views/licenses.php:32
+#, gp-priority: normal
+msgid "Rank better locally and in Google Maps, without breaking a sweat!"
+msgstr "Melhore o seu posicionamento na sua comunidade local e no Google Maps, sem esforço!"
+
+#: admin/class-plugin-availability.php:60 admin/views/licenses.php:59
+#, gp-priority: normal
+msgid "Are you in Google News? Increase your traffic from Google News by optimizing for it!"
+msgstr "Está no Google News? Aumente o seu tráfego otimizando-o para o Google News!"
+
+#: admin/class-plugin-availability.php:50 admin/views/licenses.php:46
+#, gp-priority: normal
+msgid "Optimize your videos to show them off in search results and get more clicks!"
+msgstr "Otimize os seus vídeos para os mostrar em resultados de pesquisas e gerar mais tráfego!"
+
+#. translators: %1$s expands to Yoast SEO
+#: admin/class-plugin-availability.php:38 admin/views/licenses.php:22
+#, gp-priority: normal
+msgid "The premium version of %1$s with more features & support."
+msgstr "A versão premium do %1$s com mais funcionalidades e suporte."
+
+#: admin/views/tabs/metas/paper-content/general/knowledge-graph.php:33
+#: src/integrations/admin/configuration-workout-integration.php:352
+#, gp-priority: normal
+msgid "Person"
+msgstr "Pessoa"
+
+#: admin/pages/metas.php:24
+#, gp-priority: normal
+msgid "RSS"
+msgstr "RSS"
+
+#: admin/pages/metas.php:23
+#, gp-priority: normal
+msgid "Breadcrumbs"
+msgstr "Breadcrumbs"
+
+#. Translators: %1$s: expands to 'Yoast SEO Premium', %2$s: links to Yoast SEO
+#. Premium plugin page.
+#: admin/google_search_console/views/gsc-redirect-nopremium.php:22
+#, gp-priority: normal
+msgid "To be able to create a redirect and fix this issue, you need %1$s. You can buy the plugin, including one year of support and updates, on %2$s."
+msgstr "Para poder criar um redireccionamento e resolver este assunto, precisa de %1$s. Pode comprar o plugin, incluindo atualizações e suporte durante um ano em %2$s."
+
+#. Translators: %s: expands to Yoast SEO Premium
+#: admin/google_search_console/views/gsc-redirect-nopremium.php:15
+#, gp-priority: normal
+msgid "Creating redirects is a %s feature"
+msgstr "Criar redireccionamentos é uma funcionalidade de %s"
+
+#. translators: %s: 'Facebook' plugin name of possibly conflicting plugin
+#: admin/class-yoast-plugin-conflict.php:214
+#, gp-priority: normal
+msgid "Deactivate %s"
+msgstr "Desativar %s"
+
+#. translators: %1$s: 'Facebook & Open Graph' plugin name(s) of possibly
+#. conflicting plugin(s), %2$s to Yoast SEO
+#: admin/class-yoast-plugin-conflict.php:210
+#, gp-priority: normal
+msgid "The %1$s plugin might cause issues when used in conjunction with %2$s."
+msgstr "O plugin %1$s pode causar problemas quando usado em conjugação com %2$s."
+
+#: admin/class-yoast-form.php:693 admin/metabox/class-metabox.php:642
+#: admin/taxonomy/class-taxonomy-fields-presenter.php:127
+#, gp-priority: normal
+msgid "Upload Image"
+msgstr "Carregar imagem"
+
+#. translators: %s is the plugin name
+#: admin/class-yoast-dashboard-widget.php:75
+#, gp-priority: normal
+msgid "%s Posts Overview"
+msgstr "Visão geral dos conteúdos de %s"
+
+#: admin/views/tabs/metas/paper-content/post-type-content.php:81
+#, gp-priority: normal
+msgid "Breadcrumbs title"
+msgstr "Título de breadcrumbs"
+
+#: admin/pages/social.php:21
+#, gp-priority: normal
+msgid "Pinterest"
+msgstr "Pinterest"
+
+#: admin/pages/metas.php:22
+#, gp-priority: normal
+msgid "Archives"
+msgstr "Arquivo"
+
+#: admin/google_search_console/views/gsc-redirect-nopremium.php:27
+#: js/dist/externals-components.js:29 js/dist/externals/componentsNew.js:1
+#, gp-priority: normal
+msgid "Close"
+msgstr "Fechar"
+
+#: admin/pages/social.php:20 js/dist/block-editor.js:63
+#, gp-priority: normal
+msgid "Twitter"
+msgstr "Twitter"
+
+#: admin/pages/social.php:19 js/dist/block-editor.js:63
+#, gp-priority: normal
+msgid "Facebook"
+msgstr "Facebook"
+
+#: admin/formatter/class-metabox-formatter.php:124
+#: admin/formatter/class-metabox-formatter.php:154
+#: admin/statistics/class-statistics-service.php:222
+#: inc/class-wpseo-rank.php:141 inc/class-wpseo-rank.php:168
+#: inc/class-wpseo-rank.php:200 js/dist/block-editor.js:1
+#: js/dist/editor-modules.js:1 js/dist/externals-components.js:1
+#: js/dist/externals/analysis.js:357 js/dist/post-edit.js:1
+#: js/dist/term-edit.js:1
+#, gp-priority: normal
+msgid "OK"
+msgstr "Razoável"
+
+#: admin/class-meta-columns.php:99
+#, gp-priority: normal
+msgid "Meta Desc."
+msgstr "Descrição"
+
+#: admin/class-meta-columns.php:218
+#, gp-priority: normal
+msgid "All SEO Scores"
+msgstr "Todas as classificações SEO"
+
+#: admin/metabox/class-metabox.php:919
+#: src/integrations/third-party/elementor.php:442
+#, gp-priority: normal
+msgid "SEO issue: The featured image should be at least 200 by 200 pixels to be picked up by Facebook and other social media sites."
+msgstr "Problema de SEO: A imagem de destaque deve ter pelo menos 200x200 píxeis para ser utilizada pelo Facebook e outras redes sociais."
+
+#: admin/metabox/class-metabox.php:875 admin/taxonomy/class-taxonomy.php:151
+#: admin/taxonomy/class-taxonomy.php:272
+#: src/integrations/third-party/elementor.php:397
+#, gp-priority: normal
+msgid "(no parent)"
+msgstr "(sem superior)"
+
+#: admin/class-meta-columns.php:636
+#, gp-priority: normal
+msgid "Post is set to noindex."
+msgstr "Conteúdo está definido como a não indexar."
+
+#: admin/metabox/class-metabox.php:209
+#, gp-priority: normal
+msgid "The URL that this page should redirect to."
+msgstr "O URL para onde esta página deverá ser redirecionada."
+
+#: admin/metabox/class-metabox.php:208
+#, gp-priority: normal
+msgid "301 Redirect"
+msgstr "Redireccionamento 301"
+
+#: admin/metabox/class-metabox.php:199 js/dist/block-editor.js:61
+#: js/dist/classic-editor.js:57 js/dist/elementor.js:61
+#, gp-priority: normal
+msgid "Canonical URL"
+msgstr "URL canónico"
+
+#: admin/metabox/class-metabox.php:197
+#, gp-priority: normal
+msgid "Title to use for this page in breadcrumb paths"
+msgstr "Título desta página no caminho das breadcrumbs"
+
+#: admin/metabox/class-metabox.php:196 js/dist/block-editor.js:61
+#: js/dist/classic-editor.js:57 js/dist/elementor.js:61
+#, gp-priority: normal
+msgid "Breadcrumbs Title"
+msgstr "Título de breadcrumbs"
+
+#: admin/metabox/class-metabox.php:194 js/dist/block-editor.js:61
+#: js/dist/classic-editor.js:57 js/dist/elementor.js:61
+#, gp-priority: normal
+msgid "No Snippet"
+msgstr "Não mostrar fragmento"
+
+#: admin/metabox/class-metabox.php:193 js/dist/block-editor.js:61
+#: js/dist/classic-editor.js:57 js/dist/elementor.js:61
+#, gp-priority: normal
+msgid "No Archive"
+msgstr "Não arquivar"
+
+#: admin/metabox/class-metabox.php:192 js/dist/block-editor.js:61
+#: js/dist/classic-editor.js:57 js/dist/elementor.js:61
+#, gp-priority: normal
+msgid "No Image Index"
+msgstr "Não indexar imagens"
+
+#: admin/class-yoast-network-admin.php:43
+#: admin/views/tabs/metas/paper-content/breadcrumbs-content.php:47
+#: admin/views/tabs/metas/paper-content/breadcrumbs-content.php:75
+#: src/config/schema-types.php:163
+#, gp-priority: normal
+msgid "None"
+msgstr "Nenhum"
+
+#: admin/metabox/class-metabox.php:190 js/dist/block-editor.js:61
+#: js/dist/classic-editor.js:57 js/dist/elementor.js:61
+#, gp-priority: normal
+msgid "Meta robots advanced"
+msgstr "Robôs - avançado"
+
+#: admin/metabox/class-metabox.php:178
+#, gp-priority: normal
+msgid "Warning: even though you can set the meta robots setting here, the entire site is set to noindex in the sitewide privacy settings, so these settings won't have an effect."
+msgstr "Aviso: apesar de poder aqui configurar aqui as definições de robôs, todo o site está definido para não ser indexado nas definições globais de privacidade, assim estas definições não terão efeito."
+
+#: admin/metabox/class-metabox.php:173 js/dist/externals/analysis.js:357
+#: js/dist/externals/replacementVariableEditor.js:1
+#: js/dist/externals/searchMetadataPreviews.js:2
+#, gp-priority: normal
+msgid "Meta description"
+msgstr "Descrição"
+
+#: admin/class-meta-columns.php:98
+#, gp-priority: normal
+msgid "SEO Title"
+msgstr "Título SEO"
+
+#: inc/class-wpseo-replace-vars.php:1481
+#, gp-priority: normal
+msgid "Focus keyword"
+msgstr "Palavra-chave principal"
+
+#: admin/import/class-import-settings.php:111
+#, gp-priority: normal
+msgid "Settings successfully imported."
+msgstr "Definições importadas com sucesso."
+
+#: admin/import/class-import-settings.php:79
+#, gp-priority: normal
+msgid "Settings could not be imported:"
+msgstr "Não é possível importar definições:"
+
+#: admin/class-customizer.php:193
+#, gp-priority: normal
+msgid "Breadcrumb for 404 pages:"
+msgstr "Breadcrumb para páginas 404:"
+
+#: admin/class-customizer.php:181
+#, gp-priority: normal
+msgid "Prefix for search result pages:"
+msgstr "Prefixo para páginas de resultados de pesquisa:"
+
+#: admin/class-customizer.php:169
+#, gp-priority: normal
+msgid "Prefix for archive pages:"
+msgstr "Prefixo para páginas de arquivo:"
+
+#: admin/class-customizer.php:157
+#, gp-priority: normal
+msgid "Prefix for breadcrumbs:"
+msgstr "Prefixo para breadcrumbs:"
+
+#: admin/class-customizer.php:145
+#, gp-priority: normal
+msgid "Anchor text for the homepage:"
+msgstr "Texto âncora para a página inical:"
+
+#: admin/class-customizer.php:132
+#, gp-priority: normal
+msgid "Breadcrumbs separator:"
+msgstr "Separador de breadcrumbs:"
+
+#. translators: %s is the name of the plugin
+#: admin/class-customizer.php:86
+#, gp-priority: normal
+msgid "%s Breadcrumbs"
+msgstr "Breadcrumbs de %s"
+
+#: admin/class-config.php:122 admin/metabox/class-metabox.php:900
+#: admin/taxonomy/class-taxonomy.php:166
+#: src/integrations/third-party/elementor.php:423
+#, gp-priority: normal
+msgid "Use Image"
+msgstr "Usar imagem"
+
+#: admin/class-bulk-editor-list-table.php:1001
+#, gp-priority: normal
+msgid "Action"
+msgstr "Ação"
+
+#: admin/class-bulk-editor-list-table.php:996
+#, gp-priority: normal
+msgid "Page URL/Slug"
+msgstr "URL/slug da página"
+
+#: admin/class-bulk-editor-list-table.php:995
+#, gp-priority: normal
+msgid "Publication date"
+msgstr "﻿Data de publicação"
+
+#: admin/class-bulk-editor-list-table.php:994
+#, gp-priority: normal
+msgid "Post Status"
+msgstr "Estado do conteúdo"
+
+#: admin/class-bulk-editor-list-table.php:992
+#, gp-priority: normal
+msgid "WP Page Title"
+msgstr "Título de página do WP"
+
+#: admin/class-bulk-editor-list-table.php:826 js/dist/block-editor.js:11
+#: js/dist/classic-editor.js:7 js/dist/dashboard-widget.js:7
+#: js/dist/dashboard-widget.js:15 js/dist/editor-modules.js:7
+#: js/dist/elementor.js:11
+#, gp-priority: normal
+msgid "View"
+msgstr "Ver"
+
+#. translators: %s: post title
+#: admin/class-bulk-editor-list-table.php:825
+#, gp-priority: normal
+msgid "View &#8220;%s&#8221;"
+msgstr "Ver &#8220;%s&#8221;"
+
+#: admin/class-bulk-editor-list-table.php:816
+#, gp-priority: normal
+msgid "Preview"
+msgstr "Pré-visualização"
+
+#. translators: %s: post title
+#: admin/class-bulk-editor-list-table.php:815
+#, gp-priority: normal
+msgid "Preview &#8220;%s&#8221;"
+msgstr "Pré-visualizar &#8220;%s&#8221;"
+
+#: admin/class-bulk-editor-list-table.php:804
+#, gp-priority: normal
+msgid "Edit"
+msgstr "Editar"
+
+#: admin/class-bulk-editor-list-table.php:415
+#, gp-priority: normal
+msgid "Filter"
+msgstr "Filtro"
+
+#. translators: %s expands to the number of trashed posts in localized format.
+#: admin/class-bulk-editor-list-table.php:337
+#, gp-priority: normal
+msgctxt "posts"
+msgid "Trash <span class=\"count\">(%s)</span>"
+msgid_plural "Trash <span class=\"count\">(%s)</span>"
+msgstr[0] "Lixo <span class=\"count\">(%s)</span>"
+msgstr[1] "Lixo <span class=\"count\">(%s)</span>"
+
+#. translators: %s expands to the number of posts in localized format.
+#: admin/class-bulk-editor-list-table.php:288
+#, gp-priority: normal
+msgctxt "posts"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] "Tudo <span class=\"count\">(%s)</span>"
+msgstr[1] "Tudo <span class=\"count\">(%s)</span>"
+
+#: admin/class-bulk-description-editor-list-table.php:47
+#, gp-priority: normal
+msgid "New Yoast Meta Description"
+msgstr "Nova descrição do Yoast"
+
+#: admin/class-bulk-description-editor-list-table.php:46
+#, gp-priority: normal
+msgid "Existing Yoast Meta Description"
+msgstr "Descrição existente do Yoast"
+
+#: admin/class-admin.php:287
+#, gp-priority: normal
+msgid "Facebook profile URL"
+msgstr "URL do perfil do Facebook"
+
+#: admin/class-admin.php:294
+#, gp-priority: normal
+msgid "Twitter username (without @)"
+msgstr "Nome de utilizador do Twitter (sem @)"
+
+#: admin/class-admin.php:226 js/dist/structured-data-blocks.js:9
+#, gp-priority: normal
+msgid "FAQ"
+msgstr "FAQ"
+
+#: admin/class-admin.php:221 js/dist/structured-data-blocks.js:1
+#, gp-priority: normal
+msgid "Settings"
+msgstr "Definições"
+
+#: admin/class-admin-init.php:389
+#, gp-priority: normal
+msgid "Huge SEO Issue: You're blocking access to robots."
+msgstr "Problema grave de SEO: Está a bloquear o acesso a robôs dos motores de pesquisa."
+
+#: admin/class-admin.php:181
+#, gp-priority: normal
+msgid "Posts"
+msgstr "Conteúdos"
+
+#: admin/menu/class-network-admin-menu.php:63
+#, gp-priority: normal
+msgid "Edit Files"
+msgstr "Editar ficheiros"
+
+#: admin/menu/class-admin-menu.php:89
+#: admin/menu/class-network-admin-menu.php:56 admin/pages/metas.php:18
+#: admin/pages/network.php:18
+#, gp-priority: normal
+msgid "General"
+msgstr "Geral"
+
+#: admin/menu/class-network-admin-menu.php:66
+#, gp-priority: normal
+msgid "Extensions"
+msgstr "Extensões"
+
+#: admin/menu/class-admin-menu.php:92
+#, gp-priority: normal
+msgid "Search Console"
+msgstr "Search Console"
+
+#: admin/menu/class-admin-menu.php:97
+#, gp-priority: normal
+msgid "Tools"
+msgstr "Ferramentas"
+
+#: admin/menu/class-admin-menu.php:96 admin/metabox/class-metabox.php:432
+#: admin/taxonomy/class-taxonomy-metabox.php:146
+#, gp-priority: normal
+msgid "Social"
+msgstr "Redes sociais"
+
+#: admin/menu/class-admin-menu.php:55
+#: admin/menu/class-network-admin-menu.php:35
+#: admin/metabox/class-metabox.php:411
+#: admin/taxonomy/class-taxonomy-metabox.php:132
+#: inc/class-wpseo-admin-bar-menu.php:471
+#: src/presenters/meta-description-presenter.php:36
+#: src/services/health-check/report-builder.php:168
+#: js/dist/structured-data-blocks.js:9
+#, gp-priority: normal
+msgid "SEO"
+msgstr "SEO"
+
+#. translators: %1$s expands to Yoast SEO, %2$s expands to the installed
+#. version, %3$s expands to Gutenberg
+#: admin/class-admin-gutenberg-compatibility-notification.php:88
+#, gp-priority: normal
+msgid "%1$s detected you are using version %2$s of %3$s, please update to the latest version to prevent compatibility issues."
+msgstr "O %1$s detetou que está a usar a versão %2$s de %3$s, por favor, atualize para a mais recente versão para evitar problemas de incompatibilidade."
+
+#: admin/class-admin-init.php:449
+#: src/services/health-check/default-tagline-runner.php:31
+#, gp-priority: normal
+msgid "Just another WordPress site"
+msgstr "Mais um site WordPress"
+
+#: admin/ajax.php:177
+#, gp-priority: normal
+msgid "You have used HTML in your value which is not allowed."
+msgstr "O valor que introduziu contém HTML, o que não é permitido."
+
+#. translators: %s expands to the name of a post type (plural).
+#: admin/ajax.php:168
+#, gp-priority: normal
+msgid "You can't edit %s that aren't yours."
+msgstr "Não pode editar %s de que não é autor."
+
+#. translators: %s expands to post type name.
+#: admin/ajax.php:156
+#, gp-priority: normal
+msgid "You can't edit %s."
+msgstr "Não pode editar %s."
+
+#: admin/ajax.php:133
+#, gp-priority: normal
+msgid "Post doesn't exist."
+msgstr "O conteúdo não existe."

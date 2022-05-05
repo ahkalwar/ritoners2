@@ -1,0 +1,181 @@
+body {
+	direction: rtl;
+ 	unicode-bidi: embed;
+}
+
+ol, ul {
+	padding: 0px 12px 0px 0px;
+	}
+ol li {
+	padding: 0px 12px 0px 0px;
+	}
+ul li {
+	padding: 0px 12px 0px 0px;
+	}
+
+/************************************************
+*	2.	Headings  								*
+************************************************/
+
+#logo .logo-text {
+	float: left;
+	text-align: left;
+	text-indent: -9999px;
+	}
+
+/************************************************
+*	4.	Navigation 								*
+************************************************/
+
+.menu li {
+	float: right;
+	}
+.menu li:hover ul,
+.menu li.sfHover ul {
+	right: 0;
+	}
+ul.menu li li:hover ul,
+ul.menu li li.sfHover ul {
+	right: 180px; /* match ul width */
+	}
+ul.menu li li li:hover ul,
+ul.menu li li li.sfHover ul {
+	right: 180px; /* match ul width */
+	}
+.menu ul.sub-menu, .menu ul.children {
+	border-radius: 0px 2px 2px 0px;
+	-moz-border-radius: 0px 2px 2px 0px;
+	-khtml-border-radius: 0px 2px 2px 0px;
+	-webkit-border-radius: 0px 2px 2px 0px;
+	}
+.menu li li a {
+	text-align: right;
+	}
+.menu li:first-child a {
+	padding-right: 16px;
+	border-left: none;
+	}
+.menu li li:first-child a {
+	padding-right: 12px;
+	}
+.menu li:last-child a {
+	border-left: none;
+	}
+
+/*** ARROWS **/
+.sf-arrows .sf-with-ul {
+	padding-left: 2em;
+	*padding-left: 1em; /* no CSS arrows for IE7 (lack pseudo-elements) */
+	}
+/* styling for both css and generated arrows */
+.sf-arrows .sf-with-ul:after {
+	left: 1em;
+	}
+/* styling for right-facing arrows */
+.sf-arrows ul .sf-with-ul:after {
+	margin-left: -3px;
+	border-right-color: #DDDDDD; /* edit this to suit design (no rgba in IE8) */
+	border-right-color: rgba(255,255,255,.5);
+	}
+.sf-arrows ul li > .sf-with-ul:focus:after,
+.sf-arrows ul li:hover > .sf-with-ul:after,
+.sf-arrows ul .sfHover > .sf-with-ul:after {
+	border-right-color: white;
+	}
+
+/************************************************
+*	5. Slideshow							    *
+************************************************/
+
+.flex-caption {
+	right: 0;
+	}
+
+/************************************************
+*	9.	Pagination 	  		      		     	*
+************************************************/
+
+.previous-post {
+	float: right;
+	font-size: 0.9em;
+	}
+.next-post {
+	float: left;
+	font-size: 0.9em;
+	}
+.page-links .link-label {
+	margin-left: 0px;
+	}
+
+/************************************************
+*	11.	Portfolio 								*
+************************************************/
+
+.portfolio-wrap {
+	margin-top: -24px;
+	margin-right: -12px;
+	}
+#portfolio-filter li a {
+	border-left: 1px solid rgba(0, 0, 0, .08);
+	}
+#portfolio-filter li:last-child a {
+	margin-left: 0px;
+	}
+
+/************************************************
+*	17.	Custom Menu Widget						*
+************************************************/
+
+.widget ul.menu {
+	text-align: right;
+	}
+.widget ul.menu li span {
+	left: 0px;
+	}
+
+
+/************************************************
+*	20.	Comments								*
+************************************************/
+
+.commentlist li .avatar {
+	float: right;
+	margin: 0px 0px 12px 12px;
+	}
+.commentlist li ul li {
+	padding-left: 24px;
+	}
+.edit-link {
+	float: right;
+	}
+.reply {
+	float: left;
+	}
+
+/************************************************
+*	23. Forms									*
+************************************************/
+
+form input[type='checkbox'],
+form input[type='radio'] {
+	margin-right: 0px;
+	margin-left: 6px;
+	}
+
+/************************************************
+*	25.	WordPress Core	 			     	    *
+************************************************/
+
+.screen-reader-text:focus {
+	right: 5px;
+	}
+
+/************************************************
+*	26.	Jetpack: 						     	    *
+************************************************/
+
+.grofile-thumbnail,
+.widgets-grid-layout {
+    float: right;
+    margin: 12px 0 6px 24px;
+}

@@ -1,0 +1,21 @@
+Version 2.1 - October, 2017
+- Log Transaction Receipt
+- Log Authorization Code
+- Log Card number format: 512345xxxxxx0008
+
+Version 2.0 - August, 2017
+- Major update
+- Fix on WC 3.x
+- Create Simple Setting, more clearly
+- Fix redirect after payment completed
+
+Version 1.1 - Feb, 2017
+- Add more option Other gateway
+- Fix redirect after payment completed
+
+Version 1.0 - Dec, 2016
+- First release
+- Support : Hosted Checkout
+- Bank support : ANZ Bank , Bendigo Bank,  Commonwealth Bank ....
+- Wordpress : 3.4.x 
+- Woocommerce : 2.3.x 

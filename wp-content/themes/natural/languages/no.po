@@ -1,0 +1,380 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WordPress.com - Themes - Natural\n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2021-03-01T00:35:22+00:00\n"
+"PO-Revision-Date: 2020-03-13 12:49:42+0000\n"
+"Language: no\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+
+#: includes/woocommerce-setup.php:221
+msgid "View your shopping cart"
+msgstr "Vis handlevognen din"
+
+#: includes/woocommerce-setup.php:96
+msgid "Shop Sidebar"
+msgstr "Handelssidelinje"
+
+#: content/loop-portfolio.php:18
+msgid "All"
+msgstr "Alle"
+
+#: functions.php:497
+msgid "% Comments"
+msgstr "% kommentarer"
+
+#: functions.php:497
+msgid "1 Comment"
+msgstr "1 kommentar"
+
+#: functions.php:497
+msgid "Leave a Comment"
+msgstr "Legg igjen en kommentar"
+
+#. Template Name of the plugin/theme
+#: wp-content/themes/premium/natural/template-three-column.php
+msgid "Three Column"
+msgstr "Tre kolonner"
+
+#. Template Name of the plugin/theme
+#: wp-content/themes/premium/natural/template-full.php
+msgid "Full Width"
+msgstr "Fullbredde"
+
+#. Template Name of the plugin/theme
+#: wp-content/themes/premium/natural/template-slideshow.php
+msgid "Slideshow"
+msgstr "Lysbilder"
+
+#: searchform.php:14
+msgid "Go"
+msgstr "Gå"
+
+#: searchform.php:13
+msgid "Search Here &hellip;"
+msgstr "Søk her &hellip;"
+
+#: search.php:27
+msgid "Search Results for: %s"
+msgstr "Søkeresultater for: %s"
+
+#: searchform.php:12
+msgid "Search"
+msgstr "Søk"
+
+#. #-#-#-#-#  natural.pot (Natural 1.0)  #-#-#-#-#
+#. Template Name of the plugin/theme
+#: includes/customizer.php:234
+#: wp-content/themes/premium/natural/archive-jetpack-portfolio.php
+msgid "Portfolio"
+msgstr "Portefølje"
+
+#: includes/typefaces.php:23
+msgctxt "Roboto font: on or off"
+msgid "on"
+msgstr "on"
+
+#: includes/typefaces.php:25
+msgctxt "Roboto Slab font: on or off"
+msgid "on"
+msgstr "on"
+
+#: includes/typefaces.php:24
+msgctxt "Merriweather font: on or off"
+msgid "on"
+msgstr "on"
+
+#. Translators: If there are characters in your language that are not supported
+#. by Lora, translate this to 'off'. Do not translate into your own language.
+#: includes/typefaces.php:22
+msgctxt "Montserrat font: on or off"
+msgid "on"
+msgstr "on"
+
+#: includes/customizer.php:211
+msgid "Featured Page Right"
+msgstr "Fremhevet side, høyre"
+
+#: includes/customizer.php:199
+msgid "Featured Page Middle"
+msgstr "Fremhevet side, midt"
+
+#: includes/customizer.php:187
+msgid "Featured Page Left"
+msgstr "Fremhevet side, venstre"
+
+#: includes/customizer.php:164
+msgid "Homepage"
+msgstr "Hjemmeside"
+
+#: includes/customizer.php:137
+msgid "Title & Navigation"
+msgstr "Tittel og navigasjon"
+
+#: includes/customizer.php:91
+#: includes/customizer.php:251
+msgid "Three Columns"
+msgstr "Tre kolonner"
+
+#: includes/customizer.php:128
+msgid "Theme Options"
+msgstr "Temainnstillinger"
+
+#: includes/customizer.php:89
+#: includes/customizer.php:249
+msgid "One Column"
+msgstr "En kolonne"
+
+#: includes/customizer.php:90
+#: includes/customizer.php:250
+msgid "Two Columns"
+msgstr "To kolonner"
+
+#: includes/customizer.php:77
+#: includes/customizer.php:154
+msgid "Right Align"
+msgstr "Posisjonér mot høyre"
+
+#: includes/customizer.php:76
+#: includes/customizer.php:153
+msgid "Center Align"
+msgstr "Posisjonér mot midten"
+
+#: includes/customizer.php:21
+msgid "&mdash; Select &mdash;"
+msgstr "&mdash; Velg &mdash;"
+
+#: includes/customizer.php:75
+#: includes/customizer.php:152
+msgid "Left Align"
+msgstr "Posisjonér mot venstre"
+
+#: header.php:83
+msgid "Menu"
+msgstr "Meny"
+
+#: functions.php:525
+msgid "Category: %1$s"
+msgstr "Kategori: %1$s"
+
+#: functions.php:530
+msgid "Tags: %1$s"
+msgstr "Stikkord: %1$s"
+
+#: functions.php:485
+msgctxt "post author"
+msgid "by %s"
+msgstr "av %s"
+
+#. translators: used between list items, there is a space after the comma
+#: functions.php:524
+#: functions.php:528
+msgid ", "
+msgstr ", "
+
+#: functions.php:481
+msgctxt "post date"
+msgid "Posted on %s"
+msgstr "Lagt ut den %s"
+
+#: functions.php:356
+msgid "&raquo;"
+msgstr "&raquo;"
+
+#: functions.php:299
+msgid "Reply"
+msgstr "Svar"
+
+#: functions.php:355
+msgid "&laquo;"
+msgstr "&laquo;"
+
+#: functions.php:294
+msgid "Your comment is awaiting moderation."
+msgstr "Din kommentar avventer moderasjon."
+
+#. translators: 1: comment author, 2: date and time
+#: functions.php:279
+msgid "%1$s <br/> %2$s <br/>"
+msgstr "%1$s <br/> %2$s <br/>"
+
+#. translators: 1: date, 2: time
+#: functions.php:285
+msgid "%1$s"
+msgstr "%1$s"
+
+#: functions.php:261
+#: functions.php:301
+msgid "Edit"
+msgstr "endre"
+
+#. #-#-#-#-#  natural.pot (Natural 1.0)  #-#-#-#-#
+#. Template Name of the plugin/theme
+#: functions.php:200
+#: wp-content/themes/premium/natural/template-left-sidebar.php
+msgid "Left Sidebar"
+msgstr "Venstre sidekolonne"
+
+#: functions.php:208
+msgid "Footer Widgets"
+msgstr "Bunntekstwidgeter"
+
+#: functions.php:261
+msgid "Pingback:"
+msgstr "Tilbaketråkk:"
+
+#: functions.php:48
+msgid "Social Menu"
+msgstr "Sosiale medier-meny"
+
+#: functions.php:192
+msgid "Right Sidebar"
+msgstr "Høyre sidekolonne"
+
+#: footer.php:46
+msgid "Theme: %1$s by %2$s."
+msgstr "Tema: %1$s av %2$s."
+
+#: functions.php:47
+msgid "Header Menu"
+msgstr "Sidetoppmeny"
+
+#: footer.php:44
+msgid "Proudly powered by %s"
+msgstr "Stolt drevet av %s"
+
+#: content/loop-page.php:29
+#: content/loop-post.php:41
+msgid "(Edit)"
+msgstr "(Rediger)"
+
+#: footer.php:44
+msgid "https://wordpress.org/"
+msgstr "https://nb.wordpress.org/"
+
+#: content/loop-page.php:24
+#: content/loop-post.php:26
+msgid "Previous"
+msgstr "Forrige"
+
+#: content/loop-page.php:23
+#: content/loop-post.php:25
+msgid "Next"
+msgstr "Neste"
+
+#: content/loop-blog.php:29
+#: content/loop-page.php:15
+msgid "Read More"
+msgstr "Les mer"
+
+#: content/loop-page.php:18
+#: content/loop-post.php:20
+msgid "Pages:"
+msgstr "Sider:"
+
+#: content/home-post.php:124
+msgid "More Posts"
+msgstr "Flere innlegg"
+
+#: content/loop-blog.php:52
+msgid "No Posts Found"
+msgstr "Fant ingen innlegg"
+
+#: content/loop-blog.php:53
+msgid "We're sorry, but no posts have been found. Create a post to be added to this section, and configure your theme options."
+msgstr "Beklager, men ingen innlegg ble funnet. Opprett et innlegg som kan legges til denne seksjonen, og konfigurerer dine temavalg."
+
+#: content/loop-archive.php:52
+#: content/loop-page.php:35
+#: content/loop-portfolio.php:75
+#: content/loop-post.php:47
+msgid "Sorry, no posts matched your criteria."
+msgstr "Beklager, ingen innlegg passet til kriteriene dine."
+
+#: content/home-page.php:28
+msgid "Learn More"
+msgstr "Lær mer"
+
+#: content/home-page.php:15
+#: content/home-page.php:28
+#: content/home-post.php:53
+#: content/loop-portfolio.php:53
+#: content/loop-portfolio.php:55
+#: content/slide-info.php:16
+#: content/slide-info.php:18
+#: functions.php:504
+msgid "Permalink to %s"
+msgstr "Permalenke til %s"
+
+#: content/content-author.php:31
+msgid "Profile:"
+msgstr "Profil:"
+
+#: content/content-author.php:39
+msgid "Posts by %1$s:"
+msgstr "Innlegg av %1$s:"
+
+#: content/content-author.php:52
+msgid "No posts by this author."
+msgstr "Det er ingen innlegg av denne forfatteren."
+
+#: content/content-none.php:22
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Vi klarer ikke å finne det du leter etter. Prøv å søke."
+
+#: content/content-none.php:21
+msgid "No Results Found"
+msgstr "Ingen resultater ble funnet"
+
+#: content/content-author.php:25
+msgid "Website:"
+msgstr "Nettsted:"
+
+#: content/content-author.php:26
+msgid "Link to author page"
+msgstr "Lenke til forfatters side"
+
+#: comments.php:72
+msgid "Comments are closed."
+msgstr "Kommentarer er stengt."
+
+#: comments.php:41
+#: comments.php:61
+msgid "&larr; Older Comments"
+msgstr "&larr; Eldre kommentarer"
+
+#: comments.php:42
+#: comments.php:62
+msgid "Newer Comments &rarr;"
+msgstr "Nyere kommentarer &rarr;"
+
+#: comments.php:40
+#: comments.php:60
+msgid "Comment navigation"
+msgstr "Kommentarnavigasjon"
+
+#: 404.php:21
+#: 404.php:42
+msgid "The page you are looking for no longer exists."
+msgstr "Siden du ser etter, eksisterer ikke lenger."
+
+#: comments.php:17
+msgid "This post is password protected. Enter the password to view any comments."
+msgstr "Dette innlegget er passordbeskyttet. Skriv inn passordet for å vise kommentarene."
+
+#: comments.php:33
+msgid "One Comment on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s Comments on &ldquo;%2$s&rdquo;"
+msgstr[0] "En kommentar til &laquo;%2$s&raquo;"
+msgstr[1] "%1$s kommentarer til &laquo;%2$s&raquo;"
+
+#: 404.php:20
+#: 404.php:41
+msgid "Not Found, Error 404"
+msgstr "Ikke funnet, 404-feil"

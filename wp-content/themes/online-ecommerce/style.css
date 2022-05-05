@@ -1,0 +1,50 @@
+/*
+Theme Name:     Online eCommerce
+Theme URI:      
+Author:         sparklewpthemes
+Author URI:     https://sparklewpthemes.com
+Description:    Online eCommerce is a modern free WooCommerce WordPress theme especially designed for shops and eCommerce sites. It could be used for all types of ecommerce online stores, Fashion, Shoes, Jewelry, Watch, Sport, Technology, Mobile. Online eCommerce is easy to use and fully responsive free theme, This theme is packed with lots of exciting feature that enhances the ecommerce experience. Theme is fully compatible with WooCommerce and YITH WooCommerce Wishlist, YITH WooCommerce Quick View plugins. This theme packs many premium features and several custom widgets which helps making your online store professional and well organized. Official Support Forum: https://www.sparklewpthemes.com/support/ Full Demo: http://demo.sparklewpthemes.com/onlineecommerce/ and Docs: http://docs.sparklewpthemes.com/buzzstore/ 
+Version:        1.0.1
+License:        GNU General Public License v3 or later
+License URI:    http://www.gnu.org/licenses/gpl-3.0.html
+Template:       buzzstore
+Text Domain:    online-eCommerce
+Tags:           one-column, two-columns, right-sidebar, left-sidebar, custom-header, custom-background, custom-menu, translation-ready, featured-images, theme-options, custom-logo, e-commerce, footer-widgets
+*/
+
+.buzz-menulink {
+    border-bottom: 0;
+    background-color: #86bc42;
+}
+
+.buzz-menulink ul li:hover > a, 
+.buzz-menulink ul ul > li:hover > a, 
+.buzz-menulink ul ul > li.current_page_item a, 
+.buzz-menulink ul > li.current-menu-item>a {
+    color: #fff;
+}
+
+.buzz-menulink ul li a {
+    color: #fff;
+}
+
+.buzz-menulink ul ul {
+    background-color: #86bc42;
+}
+
+.buzz-menulink ul ul li:hover {
+    background-color: #72a038;
+}
+
+.buzz-menulink ul > li.menu-item-has-children > a:after, 
+.buzz-menulink ul > li.page_item_has_children > a:after{
+	color: #fff;
+}
+
+.widget_buzzstore_cat_widget_area .product-item .buzz-categorycount {
+    opacity: 1;
+}
+
+.buzz-main-header {
+    padding: 45px 0;
+}

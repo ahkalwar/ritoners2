@@ -1,0 +1,308 @@
+# Translation of Plugins - Page Builder Gutenberg Blocks – CoBlocks - Stable (latest release) in Russian
+# This file is distributed under the same license as the Plugins - Page Builder Gutenberg Blocks – CoBlocks - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2022-01-26 22:06:19+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n % 10 == 1 && n % 100 != 11) ? 0 : ((n % 10 >= 2 && n % 10 <= 4 && (n % 100 < 12 || n % 100 > 14)) ? 1 : 2);\n"
+"X-Generator: GlotPress/3.0.0-rc.4\n"
+"Language: ru\n"
+"Project-Id-Version: Plugins - Page Builder Gutenberg Blocks – CoBlocks - Stable (latest release)\n"
+
+#: src/blocks/social-profiles/index.php:80 dist/coblocks-10.js:37
+msgid "TikTok"
+msgstr "TikTok"
+
+#: includes/class-coblocks-block-assets.php:466
+msgid "Close Gallery"
+msgstr "Закрыть галерею"
+
+#: src/extensions/layout-selector/index.php:17
+msgid "Most Used"
+msgstr "Часто используемые"
+
+#: includes/class-coblocks-block-assets.php:468
+msgid "Next"
+msgstr "Далее"
+
+#: includes/class-coblocks-block-assets.php:467
+msgid "Previous"
+msgstr "Предыдущий"
+
+#: includes/class-block-patterns.php:47 dist/coblocks-extensions.js:51
+msgid "Description"
+msgstr "Описание"
+
+#: includes/class-block-patterns.php:46
+msgid "Block Patterns"
+msgstr "Шаблоны блоков"
+
+#: src/extensions/layout-selector/index.php:21
+msgid "About"
+msgstr "О нас"
+
+#: src/extensions/layout-selector/index.php:29
+msgid "Home"
+msgstr "Главная"
+
+#: src/extensions/layout-selector/index.php:33
+msgid "Portfolio"
+msgstr "Портфолио"
+
+#: includes/class-coblocks-settings.php:144
+msgid "Setting use to disable or enable all color controls across the site."
+msgstr "Использование настроек для отключения или включения управления всеми цветами на сайте."
+
+#: includes/class-coblocks-settings.php:132
+msgid "Setting use to disable or enable custom color controls across the site."
+msgstr "Использование настроек для отключения или включения управления стандартными цветами на сайте."
+
+#: includes/class-coblocks-settings.php:156
+msgid "Setting use to disable or enable gradient controls and presets across the site."
+msgstr "Использование настроек для отключения или включения управления градиентными цветами на сайте."
+
+#: includes/class-coblocks-settings.php:120
+msgid "Setting use to disable or enable typography controls across the site."
+msgstr "Использование настроек для отключения или включения управления стилями на сайте."
+
+#: src/blocks/events/index.php:136
+msgid "An error has occurred, check for calendar privileges to make sure it is public or try again later."
+msgstr "Возникла ошибка. Проверьте настройки календаря, чтобы убедиться, что он открытый, и повторите попытку."
+
+#: src/extensions/layout-selector/index.php:25 dist/coblocks-4.js:37
+#: dist/coblocks-4.js:47
+msgid "Contact"
+msgstr "Контакт"
+
+#. translators: placeholder for 'email' string.
+#: includes/class-coblocks-form.php:51
+msgid "Form submission from [%1$s]"
+msgstr "Форма отправлена с адреса [%1$s]"
+
+#: includes/class-coblocks-form.php:1037 dist/coblocks-4.js:47
+msgid "name"
+msgstr "имя"
+
+#. translators: placeholder for 'email' string.
+#. translators: icon keyword
+#. translators: block keyword
+#: includes/class-coblocks-form.php:51 includes/class-coblocks-form.php:1046
+#: dist/315.js:105 dist/315.js:913 dist/315.js:1609 dist/315.js:1685
+#: dist/coblocks-3.js:120 dist/coblocks-4.js:47 dist/coblocks-4.js:57
+#: dist/coblocks-8.js:494 dist/coblocks-8.js:506 dist/coblocks-8.js:520
+#: dist/coblocks-8.js:534 dist/coblocks-8.js:1371 dist/coblocks-8.js:1383
+#: dist/coblocks-8.js:1397 dist/coblocks-8.js:1411 dist/coblocks-8.js:2231
+#: dist/coblocks-8.js:2250 dist/coblocks-8.js:2264
+msgid "email"
+msgstr "электронная почта"
+
+#. translators: block name
+#. translators: block style
+#: includes/class-coblocks-form.php:382 dist/coblocks-3.js:164
+#: dist/coblocks-3.js:166 dist/coblocks-10.js:33 dist/coblocks-10.js:53
+msgid "Text"
+msgstr "Текст"
+
+#. translators: block name
+#: includes/class-coblocks-form.php:712 dist/coblocks-3.js:106
+#: dist/coblocks-3.js:108
+msgid "Hidden"
+msgstr "Скрытый"
+
+#. translators: block name
+#: includes/class-coblocks-form.php:547 includes/class-coblocks-form.php:596
+#: dist/coblocks-3.js:134 dist/coblocks-3.js:136
+msgid "Select"
+msgstr "Выберите"
+
+#: class-coblocks.php:82 class-coblocks.php:94
+msgid "Something went wrong."
+msgstr "Что-то пошло не так."
+
+#. translators: block name
+#: includes/class-coblocks-form.php:678 dist/coblocks-3.js:184
+#: dist/coblocks-3.js:186
+msgid "Website"
+msgstr "Cайт"
+
+#: src/blocks/post-carousel/index.php:53 src/blocks/posts/index.php:53
+msgid "An error has occurred, which probably means the feed is down. Try again later."
+msgstr "Произошла ошибка, которая, возможно, связана со сбоем канала. Повторите попытку позже."
+
+#: includes/class-coblocks-form.php:483 dist/coblocks-3.js:124
+msgid "Choose one"
+msgstr "Выбрать одну"
+
+#. translators: block name
+#: includes/class-coblocks-form.php:413 dist/coblocks-3.js:86
+#: dist/coblocks-3.js:88
+msgid "Date"
+msgstr "Дата"
+
+#. translators: block name
+#: includes/class-coblocks-form.php:444 dist/coblocks-3.js:150
+#: dist/coblocks-3.js:152
+msgid "Phone"
+msgstr "Тел."
+
+#: src/blocks/post-carousel/index.php:42 src/blocks/posts/index.php:42
+msgid "RSS error:"
+msgstr "Ошибка RSS:"
+
+#: src/blocks/post-carousel/index.php:195 src/blocks/posts/index.php:173
+msgctxt "placeholder when a post has no title"
+msgid "(no title)"
+msgstr "(без названия)"
+
+#: src/blocks/social-profiles/index.php:97 dist/coblocks-10.js:37
+msgid "Yelp"
+msgstr "Yelp"
+
+#: src/blocks/social-profiles/index.php:76 dist/coblocks-10.js:37
+msgid "Instagram"
+msgstr "Instagram"
+
+#: src/blocks/social-profiles/index.php:93 dist/coblocks-10.js:37
+msgid "YouTube"
+msgstr "YouTube"
+
+#: src/blocks/social-profiles/index.php:101 dist/coblocks-10.js:37
+msgid "Houzz"
+msgstr "Houzz"
+
+#: src/blocks/social-profiles/index.php:88
+msgid "Linkedin"
+msgstr "Linkedin"
+
+#: includes/class-coblocks-form.php:89
+msgid "Google reCaptcha site key for form spam protection"
+msgstr "Ключ сайта reCAPTCHA Google для защиты от спама"
+
+#: includes/class-coblocks-form.php:101
+msgid "Google reCaptcha secret key for form spam protection"
+msgstr "Секретный ключ reCAPTCHA Google для защиты от спама"
+
+#. translators: block name
+#: includes/class-coblocks-form.php:793 dist/coblocks-3.js:150
+#: dist/coblocks-4.js:41
+msgid "Submit"
+msgstr "Отправить"
+
+#: includes/class-coblocks-form.php:351 dist/coblocks-3.js:174
+msgid "Message"
+msgstr "Сообщение"
+
+#. translators: block name
+#: includes/class-coblocks-form.php:258 dist/coblocks-3.js:114
+#: dist/coblocks-3.js:116 dist/coblocks-extensions.js:51
+msgid "Name"
+msgstr "Имя"
+
+#. Author of the plugin
+msgid "GoDaddy"
+msgstr "GoDaddy"
+
+#. Author URI of the plugin
+msgid "https://www.godaddy.com"
+msgstr "https://www.godaddy.com"
+
+#: includes/class-coblocks-form.php:63 dist/coblocks-4.js:47
+msgid "Your message was sent:"
+msgstr "Ваше сообщение отправлено:"
+
+#: includes/class-coblocks-google-map-block.php:120
+msgid "Google Map API key for map rendering"
+msgstr "API-ключ карт Google для отображения карт"
+
+#: src/blocks/social-profiles/index.php:84 dist/coblocks-10.js:37
+msgid "Pinterest"
+msgstr "Pinterest"
+
+#. translators: icon label
+#: src/blocks/social-profiles/index.php:68 dist/315.js:691
+#: dist/coblocks-10.js:37
+msgid "Facebook"
+msgstr "Facebook"
+
+#. translators: icon label
+#: src/blocks/social-profiles/index.php:72 dist/315.js:2005
+#: dist/coblocks-10.js:37
+msgid "Twitter"
+msgstr "Twitter"
+
+#. translators: icon label
+#. translators: block name
+#: includes/class-coblocks-form.php:229 includes/class-coblocks-form.php:321
+#: dist/315.js:583 dist/coblocks-3.js:100 dist/coblocks-8.js:492
+#: dist/coblocks-8.js:504 dist/coblocks-8.js:1369 dist/coblocks-8.js:1381
+#: dist/coblocks-8.js:2215
+msgid "Email"
+msgstr "Эл. почта"
+
+#: src/blocks/share/index.php:148 dist/coblocks-10.js:23
+msgid "Share via Email"
+msgstr "Поделиться по электронной почте"
+
+#: src/blocks/share/index.php:156
+msgid "Share on Google"
+msgstr "Опубликовать в Google"
+
+#: src/blocks/share/index.php:160 dist/coblocks-10.js:23
+msgid "Share on Reddit"
+msgstr "Опубликовать в Reddit"
+
+#: includes/admin/class-coblocks-action-links.php:41
+msgid "Leave a Review"
+msgstr "Оставьте отзыв"
+
+#: src/blocks/share/index.php:136 dist/coblocks-10.js:23
+msgid "Share on Twitter"
+msgstr "Опубликовать в Twitter"
+
+#: src/blocks/share/index.php:132 dist/coblocks-10.js:23
+msgid "Share on Facebook"
+msgstr "Опубликовать в Facebook"
+
+#: src/blocks/share/index.php:140 dist/coblocks-10.js:23
+msgid "Share on Pinterest"
+msgstr "Опубликовать в Pinterest"
+
+#: src/blocks/share/index.php:152 dist/coblocks-10.js:23
+msgid "Share on Tumblr"
+msgstr "Опубликовать в Tumblr"
+
+#: src/blocks/share/index.php:144
+msgid "Share on Linkedin"
+msgstr "Опубликовать в LinkedIn"
+
+#: dist/blocks/gallery-masonry/block.json src/blocks/gallery-masonry/block.json
+msgctxt "block keyword"
+msgid "photos"
+msgstr "фотографии"
+
+#: dist/blocks/accordion/block.json src/blocks/accordion/block.json
+msgctxt "block title"
+msgid "Accordion"
+msgstr "Аккордеон"
+
+#: includes/admin/class-coblocks-action-links.php:41
+msgid "Review CoBlocks on WordPress.org"
+msgstr "Обзор CoBlocks на WordPress.org"
+
+#: includes/class-coblocks-form.php:262
+msgid "First"
+msgstr "Имя"
+
+#: includes/class-coblocks-form.php:263
+msgid "Last"
+msgstr "Фамилия"
+
+#. Description of the plugin
+msgid "CoBlocks is a suite of professional <strong>page building content blocks</strong> for the WordPress Gutenberg block editor. Our blocks are hyper-focused on empowering makers to build beautifully rich pages in WordPress."
+msgstr "CoBlocks - это набор профессиональных <strong>блоков для создания содержимого страниц</strong> в редакторе блоков Gutenberg. Наши блоки позволяют разработчикам создавать прекрасные страницы в WordPress."
+
+#: src/blocks/gist/index.php:82 dist/coblocks-9.js:7
+msgid "View this gist on GitHub"
+msgstr "Открыть Gist в GitHub"

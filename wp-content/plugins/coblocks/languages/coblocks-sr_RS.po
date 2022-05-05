@@ -1,0 +1,244 @@
+# Translation of Plugins - Page Builder Gutenberg Blocks – CoBlocks - Stable (latest release) in Serbian
+# This file is distributed under the same license as the Plugins - Page Builder Gutenberg Blocks – CoBlocks - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2022-01-24 21:23:56+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n % 10 == 1 && n % 100 != 11) ? 0 : ((n % 10 >= 2 && n % 10 <= 4 && (n % 100 < 12 || n % 100 > 14)) ? 1 : 2);\n"
+"X-Generator: GlotPress/3.0.0-rc.4\n"
+"Language: sr_RS\n"
+"Project-Id-Version: Plugins - Page Builder Gutenberg Blocks – CoBlocks - Stable (latest release)\n"
+
+#: src/extensions/layout-selector/index.php:25 dist/coblocks-4.js:37
+#: dist/coblocks-4.js:47
+msgid "Contact"
+msgstr "Контакт"
+
+#: includes/class-coblocks-form.php:1037 dist/coblocks-4.js:47
+msgid "name"
+msgstr "име"
+
+#. translators: placeholder for 'email' string.
+#: includes/class-coblocks-form.php:51
+msgid "Form submission from [%1$s]"
+msgstr "Пријем образаца из [%1$s]"
+
+#. translators: placeholder for 'email' string.
+#. translators: icon keyword
+#. translators: block keyword
+#: includes/class-coblocks-form.php:51 includes/class-coblocks-form.php:1046
+#: dist/315.js:105 dist/315.js:913 dist/315.js:1609 dist/315.js:1685
+#: dist/coblocks-3.js:120 dist/coblocks-4.js:47 dist/coblocks-4.js:57
+#: dist/coblocks-8.js:494 dist/coblocks-8.js:506 dist/coblocks-8.js:520
+#: dist/coblocks-8.js:534 dist/coblocks-8.js:1371 dist/coblocks-8.js:1383
+#: dist/coblocks-8.js:1397 dist/coblocks-8.js:1411 dist/coblocks-8.js:2231
+#: dist/coblocks-8.js:2250 dist/coblocks-8.js:2264
+msgid "email"
+msgstr "е-пошта"
+
+#. translators: block name
+#. translators: block style
+#: includes/class-coblocks-form.php:382 dist/coblocks-3.js:164
+#: dist/coblocks-3.js:166 dist/coblocks-10.js:33 dist/coblocks-10.js:53
+msgid "Text"
+msgstr "Текст"
+
+#. translators: block name
+#: includes/class-coblocks-form.php:678 dist/coblocks-3.js:184
+#: dist/coblocks-3.js:186
+msgid "Website"
+msgstr "Веб место"
+
+#. translators: block name
+#: includes/class-coblocks-form.php:712 dist/coblocks-3.js:106
+#: dist/coblocks-3.js:108
+msgid "Hidden"
+msgstr "Сакривено"
+
+#: class-coblocks.php:82 class-coblocks.php:94
+msgid "Something went wrong."
+msgstr "Нешто је кренуло по злу."
+
+#. translators: block name
+#: includes/class-coblocks-form.php:547 includes/class-coblocks-form.php:596
+#: dist/coblocks-3.js:134 dist/coblocks-3.js:136
+msgid "Select"
+msgstr "Одабери"
+
+#. translators: block name
+#: includes/class-coblocks-form.php:413 dist/coblocks-3.js:86
+#: dist/coblocks-3.js:88
+msgid "Date"
+msgstr "Датум"
+
+#. translators: block name
+#: includes/class-coblocks-form.php:444 dist/coblocks-3.js:150
+#: dist/coblocks-3.js:152
+msgid "Phone"
+msgstr "Телефон"
+
+#: includes/class-coblocks-form.php:483 dist/coblocks-3.js:124
+msgid "Choose one"
+msgstr "Изабери једно"
+
+#: src/blocks/post-carousel/index.php:195 src/blocks/posts/index.php:173
+msgctxt "placeholder when a post has no title"
+msgid "(no title)"
+msgstr "(нема наслова)"
+
+#: src/blocks/post-carousel/index.php:53 src/blocks/posts/index.php:53
+msgid "An error has occurred, which probably means the feed is down. Try again later."
+msgstr "Дошло је до грешке пошто је довод вероватно недоступан. Покушајте касније."
+
+#: dist/blocks/gallery-masonry/block.json src/blocks/gallery-masonry/block.json
+msgctxt "block keyword"
+msgid "photos"
+msgstr "фотографије"
+
+#. Author of the plugin
+msgid "GoDaddy"
+msgstr "GoDaddy"
+
+#. Author URI of the plugin
+msgid "https://www.godaddy.com"
+msgstr "https://www.godaddy.com"
+
+#: includes/class-coblocks-form.php:89
+msgid "Google reCaptcha site key for form spam protection"
+msgstr "Google reCaptcha кључ сајта ѕа заштиту од непожељних порука"
+
+#: includes/class-coblocks-form.php:101
+msgid "Google reCaptcha secret key for form spam protection"
+msgstr "Google reCaptcha тајни кључ ѕа заштиту од непожељних порука"
+
+#. translators: icon label
+#. translators: block name
+#: includes/class-coblocks-form.php:229 includes/class-coblocks-form.php:321
+#: dist/315.js:583 dist/coblocks-3.js:100 dist/coblocks-8.js:492
+#: dist/coblocks-8.js:504 dist/coblocks-8.js:1369 dist/coblocks-8.js:1381
+#: dist/coblocks-8.js:2215
+msgid "Email"
+msgstr "Електронска пошта"
+
+#. translators: block name
+#: includes/class-coblocks-form.php:258 dist/coblocks-3.js:114
+#: dist/coblocks-3.js:116 dist/coblocks-extensions.js:51
+msgid "Name"
+msgstr "Пуно име"
+
+#: includes/class-coblocks-form.php:262
+msgid "First"
+msgstr "Име"
+
+#: includes/class-coblocks-form.php:263
+msgid "Last"
+msgstr "Презиме"
+
+#: includes/class-coblocks-form.php:351 dist/coblocks-3.js:174
+msgid "Message"
+msgstr "Порука"
+
+#. translators: block name
+#: includes/class-coblocks-form.php:793 dist/coblocks-3.js:150
+#: dist/coblocks-4.js:41
+msgid "Submit"
+msgstr "Пошаљи"
+
+#: includes/class-coblocks-form.php:63 dist/coblocks-4.js:47
+msgid "Your message was sent:"
+msgstr "Ваша порука је послата:"
+
+#: includes/class-coblocks-google-map-block.php:120
+msgid "Google Map API key for map rendering"
+msgstr "Google Map API кључ ѕа приказ мапе"
+
+#: src/blocks/share/index.php:152 dist/coblocks-10.js:23
+msgid "Share on Tumblr"
+msgstr "Поделите на Тамблеру"
+
+#: src/blocks/share/index.php:156
+msgid "Share on Google"
+msgstr "Поделите на Google"
+
+#: src/blocks/share/index.php:144
+msgid "Share on Linkedin"
+msgstr "Поделите на Linkedin"
+
+#: src/blocks/share/index.php:148 dist/coblocks-10.js:23
+msgid "Share via Email"
+msgstr "Поделите путем е-поште"
+
+#: src/blocks/share/index.php:140 dist/coblocks-10.js:23
+msgid "Share on Pinterest"
+msgstr "Поделите на Pinterest"
+
+#: src/blocks/share/index.php:136 dist/coblocks-10.js:23
+msgid "Share on Twitter"
+msgstr "Поделите на Twitter"
+
+#: src/blocks/share/index.php:160 dist/coblocks-10.js:23
+msgid "Share on Reddit"
+msgstr "Поделите на Reddit"
+
+#. translators: icon label
+#: src/blocks/social-profiles/index.php:68 dist/315.js:691
+#: dist/coblocks-10.js:37
+msgid "Facebook"
+msgstr "Фејсбук"
+
+#. translators: icon label
+#: src/blocks/social-profiles/index.php:72 dist/315.js:2005
+#: dist/coblocks-10.js:37
+msgid "Twitter"
+msgstr "Twitter"
+
+#: src/blocks/social-profiles/index.php:76 dist/coblocks-10.js:37
+msgid "Instagram"
+msgstr "Instagram"
+
+#: src/blocks/social-profiles/index.php:84 dist/coblocks-10.js:37
+msgid "Pinterest"
+msgstr "Pinterest"
+
+#: src/blocks/social-profiles/index.php:88
+msgid "Linkedin"
+msgstr "Linkedin"
+
+#: src/blocks/social-profiles/index.php:93 dist/coblocks-10.js:37
+msgid "YouTube"
+msgstr "YouTube"
+
+#: src/blocks/social-profiles/index.php:97 dist/coblocks-10.js:37
+msgid "Yelp"
+msgstr "Yelp"
+
+#: src/blocks/social-profiles/index.php:101 dist/coblocks-10.js:37
+msgid "Houzz"
+msgstr "Houzz"
+
+#: dist/blocks/accordion/block.json src/blocks/accordion/block.json
+msgctxt "block title"
+msgid "Accordion"
+msgstr "Акордион"
+
+#: includes/admin/class-coblocks-action-links.php:41
+msgid "Leave a Review"
+msgstr "Оставите рецензију"
+
+#: includes/admin/class-coblocks-action-links.php:41
+msgid "Review CoBlocks on WordPress.org"
+msgstr "Оставите рецензију за CoBlocks на WordPress.org"
+
+#: src/blocks/share/index.php:132 dist/coblocks-10.js:23
+msgid "Share on Facebook"
+msgstr "Подели на Фејсбуку"
+
+#: src/blocks/gist/index.php:82 dist/coblocks-9.js:7
+msgid "View this gist on GitHub"
+msgstr "Полгедајте џист на GitHub-u"
+
+#. Description of the plugin
+msgid "CoBlocks is a suite of professional <strong>page building content blocks</strong> for the WordPress Gutenberg block editor. Our blocks are hyper-focused on empowering makers to build beautifully rich pages in WordPress."
+msgstr "Коблокс је колекција професионалних <strong>блокова садржаја ѕа прављење страница</strong> у уређивачу блокова Гутенберг. Наши блокови су јако фокусирани на охрабривање креатора да граде прелепе стране у Вордпресу."

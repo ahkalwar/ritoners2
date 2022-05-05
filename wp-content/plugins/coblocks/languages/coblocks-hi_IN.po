@@ -1,0 +1,264 @@
+# Translation of Plugins - Page Builder Gutenberg Blocks – CoBlocks - Stable (latest release) in Hindi
+# This file is distributed under the same license as the Plugins - Page Builder Gutenberg Blocks – CoBlocks - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2022-01-24 21:23:43+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/3.0.0-rc.4\n"
+"Language: hi_IN\n"
+"Project-Id-Version: Plugins - Page Builder Gutenberg Blocks – CoBlocks - Stable (latest release)\n"
+
+#: includes/class-coblocks-settings.php:144
+msgid "Setting use to disable or enable all color controls across the site."
+msgstr "साइट में सभी कलर के नियंत्रण को सक्षम या अक्षम करने के लिए सेटिंग उपयोग होती है."
+
+#: includes/class-coblocks-settings.php:132
+msgid "Setting use to disable or enable custom color controls across the site."
+msgstr "साइट में कस्टम कलर नियंत्रण को अक्षम या सक्षम करने के लिए सेटिंग उपयोग होती है."
+
+#: includes/class-coblocks-settings.php:156
+msgid "Setting use to disable or enable gradient controls and presets across the site."
+msgstr "साइट में ग्रेडिएंट नियंत्रण और प्रीसेट को सक्षम या अक्षम करने के लिए सेटिंग उपयोग होती है."
+
+#: includes/class-coblocks-settings.php:120
+msgid "Setting use to disable or enable typography controls across the site."
+msgstr "साइट में टाइपोग्राफ़ी नियंत्रण को सक्षम या अक्षम करने के लिए सेटिंग उपयोग होती है."
+
+#: src/blocks/events/index.php:136
+msgid "An error has occurred, check for calendar privileges to make sure it is public or try again later."
+msgstr "कोई त्रुटि हुई है, तो यह सार्वजनिक है इसे सुनिश्चित करने के लिए कैलेंडर के ख़ास लाभों को जाचें या बाद में फिर से कोशिश करें."
+
+#: src/extensions/layout-selector/index.php:25 dist/coblocks-4.js:37
+#: dist/coblocks-4.js:47
+msgid "Contact"
+msgstr "संपर्क"
+
+#. translators: placeholder for 'email' string.
+#: includes/class-coblocks-form.php:51
+msgid "Form submission from [%1$s]"
+msgstr "[%1$s] से फ़ॉर्म सबमिट करें"
+
+#: includes/class-coblocks-form.php:1037 dist/coblocks-4.js:47
+msgid "name"
+msgstr "नाम"
+
+#. translators: block name
+#. translators: block style
+#: includes/class-coblocks-form.php:382 dist/coblocks-3.js:164
+#: dist/coblocks-3.js:166 dist/coblocks-10.js:33 dist/coblocks-10.js:53
+msgid "Text"
+msgstr "पाठ"
+
+#. translators: placeholder for 'email' string.
+#. translators: icon keyword
+#. translators: block keyword
+#: includes/class-coblocks-form.php:51 includes/class-coblocks-form.php:1046
+#: dist/315.js:105 dist/315.js:913 dist/315.js:1609 dist/315.js:1685
+#: dist/coblocks-3.js:120 dist/coblocks-4.js:47 dist/coblocks-4.js:57
+#: dist/coblocks-8.js:494 dist/coblocks-8.js:506 dist/coblocks-8.js:520
+#: dist/coblocks-8.js:534 dist/coblocks-8.js:1371 dist/coblocks-8.js:1383
+#: dist/coblocks-8.js:1397 dist/coblocks-8.js:1411 dist/coblocks-8.js:2231
+#: dist/coblocks-8.js:2250 dist/coblocks-8.js:2264
+msgid "email"
+msgstr "ईमेल"
+
+#. translators: block name
+#: includes/class-coblocks-form.php:712 dist/coblocks-3.js:106
+#: dist/coblocks-3.js:108
+msgid "Hidden"
+msgstr "छिपी हुई"
+
+#. translators: block name
+#: includes/class-coblocks-form.php:547 includes/class-coblocks-form.php:596
+#: dist/coblocks-3.js:134 dist/coblocks-3.js:136
+msgid "Select"
+msgstr "चयनित करें"
+
+#: class-coblocks.php:82 class-coblocks.php:94
+msgid "Something went wrong."
+msgstr "कुछ ग़लत हुआ."
+
+#. translators: block name
+#: includes/class-coblocks-form.php:678 dist/coblocks-3.js:184
+#: dist/coblocks-3.js:186
+msgid "Website"
+msgstr "वेबसाइट"
+
+#: src/blocks/post-carousel/index.php:53 src/blocks/posts/index.php:53
+msgid "An error has occurred, which probably means the feed is down. Try again later."
+msgstr "कोई त्रुटि उत्पन्न हुई है, जिसका संभवत मतलब फ़ीड निष्क्रिय है. कुछ देर बाद पुनः प्रयास करें."
+
+#: includes/class-coblocks-form.php:483 dist/coblocks-3.js:124
+msgid "Choose one"
+msgstr "कोई एक चुनें"
+
+#. translators: block name
+#: includes/class-coblocks-form.php:413 dist/coblocks-3.js:86
+#: dist/coblocks-3.js:88
+msgid "Date"
+msgstr "दिनांक"
+
+#. translators: block name
+#: includes/class-coblocks-form.php:444 dist/coblocks-3.js:150
+#: dist/coblocks-3.js:152
+msgid "Phone"
+msgstr "फ़ोन"
+
+#: src/blocks/post-carousel/index.php:195 src/blocks/posts/index.php:173
+msgctxt "placeholder when a post has no title"
+msgid "(no title)"
+msgstr "(कोई शीर्षक नहीं)"
+
+#: src/blocks/social-profiles/index.php:76 dist/coblocks-10.js:37
+msgid "Instagram"
+msgstr "Instagram"
+
+#: src/blocks/social-profiles/index.php:93 dist/coblocks-10.js:37
+msgid "YouTube"
+msgstr "YouTube"
+
+#: src/blocks/social-profiles/index.php:97 dist/coblocks-10.js:37
+msgid "Yelp"
+msgstr "Yelp"
+
+#: src/blocks/social-profiles/index.php:101 dist/coblocks-10.js:37
+msgid "Houzz"
+msgstr "Houzz"
+
+#: src/blocks/social-profiles/index.php:88
+msgid "Linkedin"
+msgstr "LinkedIn"
+
+#: includes/class-coblocks-form.php:351 dist/coblocks-3.js:174
+msgid "Message"
+msgstr "संदेश"
+
+#: includes/class-coblocks-form.php:263
+msgid "Last"
+msgstr "अंतिम"
+
+#. translators: block name
+#: includes/class-coblocks-form.php:258 dist/coblocks-3.js:114
+#: dist/coblocks-3.js:116 dist/coblocks-extensions.js:51
+msgid "Name"
+msgstr "नाम"
+
+#. Author of the plugin
+msgid "GoDaddy"
+msgstr "GoDaddy"
+
+#. Author URI of the plugin
+msgid "https://www.godaddy.com"
+msgstr "https://www.godaddy.com"
+
+#. translators: block name
+#: includes/class-coblocks-form.php:793 dist/coblocks-3.js:150
+#: dist/coblocks-4.js:41
+msgid "Submit"
+msgstr "सबमिट करें"
+
+#: includes/class-coblocks-form.php:63 dist/coblocks-4.js:47
+msgid "Your message was sent:"
+msgstr "आपका संदेश भेज दिया गया था:"
+
+#. translators: icon label
+#. translators: block name
+#: includes/class-coblocks-form.php:229 includes/class-coblocks-form.php:321
+#: dist/315.js:583 dist/coblocks-3.js:100 dist/coblocks-8.js:492
+#: dist/coblocks-8.js:504 dist/coblocks-8.js:1369 dist/coblocks-8.js:1381
+#: dist/coblocks-8.js:2215
+msgid "Email"
+msgstr "ईमेल"
+
+#: src/blocks/gist/index.php:82 dist/coblocks-9.js:7
+msgid "View this gist on GitHub"
+msgstr "GitHub पर इस gist को देखें"
+
+#. translators: icon label
+#: src/blocks/social-profiles/index.php:72 dist/315.js:2005
+#: dist/coblocks-10.js:37
+msgid "Twitter"
+msgstr "Twitter"
+
+#. translators: icon label
+#: src/blocks/social-profiles/index.php:68 dist/315.js:691
+#: dist/coblocks-10.js:37
+msgid "Facebook"
+msgstr "Facebook"
+
+#: src/blocks/social-profiles/index.php:84 dist/coblocks-10.js:37
+msgid "Pinterest"
+msgstr "Pinterest"
+
+#: src/blocks/share/index.php:148 dist/coblocks-10.js:23
+msgid "Share via Email"
+msgstr "ईमेल के माध्यम से साझा करें"
+
+#: src/blocks/share/index.php:156
+msgid "Share on Google"
+msgstr "Google पर साझा करें"
+
+#: src/blocks/share/index.php:160 dist/coblocks-10.js:23
+msgid "Share on Reddit"
+msgstr "Reddit पर साझा करें"
+
+#: includes/admin/class-coblocks-action-links.php:41
+msgid "Leave a Review"
+msgstr "एक समीक्षा लिखें"
+
+#: src/blocks/share/index.php:136 dist/coblocks-10.js:23
+msgid "Share on Twitter"
+msgstr "Twitter पर साझा करें"
+
+#: src/blocks/share/index.php:132 dist/coblocks-10.js:23
+msgid "Share on Facebook"
+msgstr "Facebook पर साझा करें"
+
+#: src/blocks/share/index.php:140 dist/coblocks-10.js:23
+msgid "Share on Pinterest"
+msgstr "Pinterest पर साझा करें"
+
+#: src/blocks/share/index.php:152 dist/coblocks-10.js:23
+msgid "Share on Tumblr"
+msgstr "Tumblr पर साझा करें"
+
+#: src/blocks/share/index.php:144
+msgid "Share on Linkedin"
+msgstr "Linkedin पर साझा करें"
+
+#: dist/blocks/gallery-masonry/block.json src/blocks/gallery-masonry/block.json
+msgctxt "block keyword"
+msgid "photos"
+msgstr "फ़ोटो"
+
+#: dist/blocks/accordion/block.json src/blocks/accordion/block.json
+msgctxt "block title"
+msgid "Accordion"
+msgstr "एकॉर्डियन"
+
+#. Description of the plugin
+msgid "CoBlocks is a suite of professional <strong>page building content blocks</strong> for the WordPress Gutenberg block editor. Our blocks are hyper-focused on empowering makers to build beautifully rich pages in WordPress."
+msgstr "CoBlock, वर्डप्रेस गुटेनबर्ग ब्लॉक संपादक के लिए व्यावसायिक <strong>पेज निर्माण सामग्री ब्लॉक</strong> का सूइट है. हमारे ब्लॉक का पूरा उद्देश्य पेज मेकर्स को ऐसी सुविधाएं देना है, जिससे वे वर्डप्रेस में बहुत ही शानदार पेज बना सकें."
+
+#: includes/class-coblocks-form.php:262
+msgid "First"
+msgstr "पहला"
+
+#: includes/class-coblocks-google-map-block.php:120
+msgid "Google Map API key for map rendering"
+msgstr "मैप रेंडरिंग के लिए Google Map API कुंजी"
+
+#: includes/class-coblocks-form.php:101
+msgid "Google reCaptcha secret key for form spam protection"
+msgstr "फ़ॉर्म स्पैम सुरक्षा के लिए Google reCAPTCHA गुप्त कुंजी"
+
+#: includes/class-coblocks-form.php:89
+msgid "Google reCaptcha site key for form spam protection"
+msgstr "फ़ॉर्म स्पैम सुरक्षा के लिए Google reCAPTCHA साइट कुंजी"
+
+#: includes/admin/class-coblocks-action-links.php:41
+msgid "Review CoBlocks on WordPress.org"
+msgstr "WordPress.org पर CoBlocks की समीक्षा करें"

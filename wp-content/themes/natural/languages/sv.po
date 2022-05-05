@@ -1,0 +1,406 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WordPress.com - Themes - Natural\n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2021-12-13T00:49:57+00:00\n"
+"PO-Revision-Date: 2021-06-08 15:12:19+0000\n"
+"Language: sv_SE\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+
+#. translators: %s: Name of current post
+#: functions.php:332
+msgid "Continue Reading<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr "Fortsätt läsa<span class=\"screen-reader-text\"> ”%s”</span>"
+
+#: includes/woocommerce-setup.php:221
+msgid "View your shopping cart"
+msgstr "Visa din varukorg"
+
+#: includes/woocommerce-setup.php:96
+msgid "Shop Sidebar"
+msgstr "Sidopanel för butik"
+
+#: content/loop-portfolio.php:18
+msgid "All"
+msgstr "Alla"
+
+#: functions.php:496
+msgid "% Comments"
+msgstr "% kommentarer"
+
+#: functions.php:496
+msgid "1 Comment"
+msgstr "1 kommentar"
+
+#: functions.php:496
+msgid "Leave a Comment"
+msgstr "Lämna en kommentar"
+
+#: includes/customizer.php:176
+msgid "Show Homepage Content"
+msgstr "Visa startsidans innehåll"
+
+#. Template Name of the theme
+msgid "Three Column"
+msgstr "Tre kolumner"
+
+#. Template Name of the theme
+msgid "Slideshow"
+msgstr "Bildspel"
+
+#. Template Name of the theme
+msgid "Full Width"
+msgstr "Full bredd"
+
+#. Description of the theme
+msgid "A versatile business website and blog with a natural and earthy design."
+msgstr "En mångsidig företagswebbplats och blogg med en naturlig och jordnära design."
+
+#: searchform.php:14
+msgid "Go"
+msgstr "Kör"
+
+#: searchform.php:13
+msgid "Search Here &hellip;"
+msgstr "Sök här &hellip;"
+
+#: searchform.php:12
+msgid "Search"
+msgstr "Sök"
+
+#: search.php:27
+msgid "Search Results for: %s"
+msgstr "Sökresultat för: %s"
+
+#: includes/typefaces.php:25
+msgctxt "Roboto Slab font: on or off"
+msgid "on"
+msgstr "on"
+
+#: includes/typefaces.php:24
+msgctxt "Merriweather font: on or off"
+msgid "on"
+msgstr "on"
+
+#: includes/typefaces.php:23
+msgctxt "Roboto font: on or off"
+msgid "on"
+msgstr "on"
+
+#. Translators: If there are characters in your language that are not supported
+#. by Lora, translate this to 'off'. Do not translate into your own language.
+#: includes/typefaces.php:22
+msgctxt "Montserrat font: on or off"
+msgid "on"
+msgstr "on"
+
+#: includes/customizer.php:246
+msgid "Portfolio Column Layout"
+msgstr "Portföljens kolumnlayout"
+
+#. Template Name of the theme
+#: includes/customizer.php:234
+msgid "Portfolio"
+msgstr "Portfölj"
+
+#: includes/customizer.php:223
+msgid "News Post Category"
+msgstr "Ny inläggskategori"
+
+#: includes/customizer.php:211
+msgid "Featured Page Right"
+msgstr "Utvald sida höger"
+
+#: includes/customizer.php:199
+msgid "Featured Page Middle"
+msgstr "Utvald sida mitten"
+
+#: includes/customizer.php:187
+msgid "Featured Page Left"
+msgstr "Utvald sida vänster"
+
+#: includes/customizer.php:164
+msgid "Homepage"
+msgstr "Startsida"
+
+#: includes/customizer.php:149
+msgid "Logo & Nav Alignment"
+msgstr "Justering av logga och navigering"
+
+#: includes/customizer.php:137
+msgid "Title & Navigation"
+msgstr "Rubrik och navigering"
+
+#: includes/customizer.php:128
+msgid "Theme Options"
+msgstr "Temaalternativ"
+
+#: includes/customizer.php:91
+#: includes/customizer.php:251
+msgid "Three Columns"
+msgstr "Tre kolumner"
+
+#: includes/customizer.php:90
+#: includes/customizer.php:250
+msgid "Two Columns"
+msgstr "Två kolumner"
+
+#: includes/customizer.php:89
+#: includes/customizer.php:249
+msgid "One Column"
+msgstr "En kolumn"
+
+#: includes/customizer.php:77
+#: includes/customizer.php:154
+msgid "Right Align"
+msgstr "Högerjustera"
+
+#: includes/customizer.php:76
+#: includes/customizer.php:153
+msgid "Center Align"
+msgstr "Justera centrerat"
+
+#: includes/customizer.php:75
+#: includes/customizer.php:152
+msgid "Left Align"
+msgstr "Vänsterjustera"
+
+#: includes/customizer.php:21
+msgid "&mdash; Select &mdash;"
+msgstr "&mdash; Välj &mdash;"
+
+#: header.php:83
+msgid "Menu"
+msgstr "Meny"
+
+#: functions.php:529
+msgid "Tags: %1$s"
+msgstr "Etiketter: %1$s"
+
+#: functions.php:524
+msgid "Category: %1$s"
+msgstr "Kategori: %1$s"
+
+#. translators: used between list items, there is a space after the comma
+#: functions.php:523
+#: functions.php:527
+msgid ", "
+msgstr ", "
+
+#: functions.php:484
+msgctxt "post author"
+msgid "by %s"
+msgstr "av %s"
+
+#: functions.php:480
+msgctxt "post date"
+msgid "Posted on %s"
+msgstr "Publicerat den %s"
+
+#: functions.php:355
+msgid "&raquo;"
+msgstr "&raquo;"
+
+#: functions.php:354
+msgid "&laquo;"
+msgstr "&laquo;"
+
+#: functions.php:298
+msgid "Reply"
+msgstr "Svara"
+
+#: functions.php:293
+msgid "Your comment is awaiting moderation."
+msgstr "Din kommentar inväntar granskning."
+
+#. translators: 1: date, 2: time
+#: functions.php:284
+msgid "%1$s"
+msgstr "%1$s"
+
+#. translators: 1: comment author, 2: date and time
+#: functions.php:278
+msgid "%1$s <br/> %2$s <br/>"
+msgstr "%1$s <br/> %2$s <br/>"
+
+#: functions.php:260
+#: functions.php:300
+msgid "Edit"
+msgstr "Redigera"
+
+#: functions.php:260
+msgid "Pingback:"
+msgstr "Pingback:"
+
+#: functions.php:207
+msgid "Footer Widgets"
+msgstr "Sidfotswidgetar"
+
+#. Template Name of the theme
+#: functions.php:199
+msgid "Left Sidebar"
+msgstr "Vänster sidopanel"
+
+#: functions.php:191
+msgid "Right Sidebar"
+msgstr "Höger sidopanel"
+
+#: functions.php:61
+msgid "Default Custom Header"
+msgstr "Standardanpassat sidhuvud"
+
+#: functions.php:48
+msgid "Social Menu"
+msgstr "Social meny"
+
+#: functions.php:47
+msgid "Header Menu"
+msgstr "Sidhuvudmeny"
+
+#: footer.php:46
+msgid "Theme: %1$s by %2$s."
+msgstr "Tema: %1$s av %2$s."
+
+#: footer.php:44
+msgid "Proudly powered by %s"
+msgstr "Drivs med %s"
+
+#: footer.php:44
+msgid "https://wordpress.org/"
+msgstr "https://sv.wordpress.org/"
+
+#: content/loop-page.php:29
+#: content/loop-post.php:41
+msgid "(Edit)"
+msgstr "(Redigera)"
+
+#: content/loop-page.php:24
+#: content/loop-post.php:26
+msgid "Previous"
+msgstr "Föregående"
+
+#: content/loop-page.php:23
+#: content/loop-post.php:25
+msgid "Next"
+msgstr "Nästa"
+
+#: content/loop-page.php:18
+#: content/loop-post.php:20
+msgid "Pages:"
+msgstr "Sidor:"
+
+#: content/loop-blog.php:29
+#: content/loop-page.php:15
+msgid "Read More"
+msgstr "Läs mer"
+
+#: content/loop-archive.php:52
+#: content/loop-page.php:35
+#: content/loop-portfolio.php:75
+#: content/loop-post.php:47
+msgid "Sorry, no posts matched your criteria."
+msgstr "Inga inlägg matchade dina kriterier."
+
+#: content/loop-blog.php:53
+msgid "We're sorry, but no posts have been found. Create a post to be added to this section, and configure your theme options."
+msgstr "Inga inlägg har hittats. Skapa ett inlägg som ska läggas till i denna sektion och konfigurera dina temaalternativ."
+
+#: content/loop-blog.php:52
+msgid "No Posts Found"
+msgstr "Inga inlägg hittades"
+
+#: content/home-post.php:124
+msgid "More Posts"
+msgstr "Fler inlägg"
+
+#: content/home-page.php:28
+msgid "Learn More"
+msgstr "Lär dig mer"
+
+#: content/home-page.php:15
+#: content/home-page.php:28
+#: content/home-post.php:53
+#: content/loop-portfolio.php:53
+#: content/loop-portfolio.php:55
+#: content/slide-info.php:16
+#: content/slide-info.php:18
+#: functions.php:503
+msgid "Permalink to %s"
+msgstr "Permalänk till %s"
+
+#: content/content-none.php:22
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Det verkar som att vi inte kan hitta det du letar efter. Prova att göra en sökning."
+
+#: content/content-none.php:21
+msgid "No Results Found"
+msgstr "Inga resultat hittade"
+
+#: content/content-none.php:16
+msgid "No Options Saved"
+msgstr "Inga alternativ sparade"
+
+#: content/content-author.php:52
+msgid "No posts by this author."
+msgstr "Inga inlägg av denna författare."
+
+#: content/content-author.php:39
+msgid "Posts by %1$s:"
+msgstr "Publicerad av %1$s:"
+
+#: content/content-author.php:31
+msgid "Profile:"
+msgstr "Profil:"
+
+#: content/content-author.php:26
+msgid "Link to author page"
+msgstr "Länk till författarsida"
+
+#: content/content-author.php:25
+msgid "Website:"
+msgstr "Webbplats:"
+
+#: comments.php:72
+msgid "Comments are closed."
+msgstr "Kommentarer är stängda."
+
+#: comments.php:42
+#: comments.php:62
+msgid "Newer Comments &rarr;"
+msgstr "Nyare kommentarer &rarr;"
+
+#: comments.php:41
+#: comments.php:61
+msgid "&larr; Older Comments"
+msgstr "&larr; Äldre kommentarer"
+
+#: comments.php:40
+#: comments.php:60
+msgid "Comment navigation"
+msgstr "Kommentarsnavigering"
+
+#: comments.php:33
+msgid "One Comment on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s Comments on &ldquo;%2$s&rdquo;"
+msgstr[0] "En kommentar på &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s kommentarer på &ldquo;%2$s&rdquo;"
+
+#: comments.php:17
+msgid "This post is password protected. Enter the password to view any comments."
+msgstr "Det här inlägget är lösenordsskyddat. Ange lösenordet för att se eventuella kommentarer."
+
+#: 404.php:21
+#: 404.php:42
+msgid "The page you are looking for no longer exists."
+msgstr "Sidan du söker finns inte längre."
+
+#: 404.php:20
+#: 404.php:41
+msgid "Not Found, Error 404"
+msgstr "Kunde inte hittas, fel 404"

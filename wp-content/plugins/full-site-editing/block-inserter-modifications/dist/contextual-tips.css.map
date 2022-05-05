@@ -1,0 +1,1 @@
+{"version":3,"file":"contextual-tips.css","mappings":"AAAA,gBACC","sources":["webpack://EditingToolkit/./editing-toolkit-plugin/block-inserter-modifications/contextual-tips/style.scss"],"sourcesContent":[".contextual-tip {\n\tmargin: 16px;\n}\n"],"names":[],"sourceRoot":""}

@@ -1,0 +1,264 @@
+# Translation of Plugins - Page Builder Gutenberg Blocks – CoBlocks - Stable (latest release) in Polish
+# This file is distributed under the same license as the Plugins - Page Builder Gutenberg Blocks – CoBlocks - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2022-04-20 04:58:52+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n == 1) ? 0 : ((n % 10 >= 2 && n % 10 <= 4 && (n % 100 < 12 || n % 100 > 14)) ? 1 : 2);\n"
+"X-Generator: GlotPress/3.0.0\n"
+"Language: pl\n"
+"Project-Id-Version: Plugins - Page Builder Gutenberg Blocks – CoBlocks - Stable (latest release)\n"
+
+#: includes/class-coblocks-settings.php:144
+msgid "Setting use to disable or enable all color controls across the site."
+msgstr "Ustawienie umożliwiające wyłączenie lub włączenie elementów sterujących kolorami w całej witrynie."
+
+#: includes/class-coblocks-settings.php:132
+msgid "Setting use to disable or enable custom color controls across the site."
+msgstr "Ustawienie umożliwiające wyłączenie lub włączenie elementów sterujących kolorami niestandardowymi w całej witrynie."
+
+#: includes/class-coblocks-settings.php:156
+msgid "Setting use to disable or enable gradient controls and presets across the site."
+msgstr "Ustawienie umożliwiające wyłączenie lub włączenie elementów sterujących i ustawień wstępnych gradientów w całej witrynie."
+
+#: includes/class-coblocks-settings.php:120
+msgid "Setting use to disable or enable typography controls across the site."
+msgstr "Ustawienie umożliwiające wyłączenie lub włączenie elementów sterujących typografią w całej witrynie."
+
+#: src/blocks/events/index.php:136
+msgid "An error has occurred, check for calendar privileges to make sure it is public or try again later."
+msgstr "Wystąpił błąd. Sprawdź uprawnienia kalendarza, aby upewnić się, że jest publiczny, lub spróbuj ponownie później."
+
+#: src/extensions/layout-selector/index.php:25 dist/coblocks-4.js:37
+#: dist/coblocks-4.js:47
+msgid "Contact"
+msgstr "Kontakt"
+
+#. translators: placeholder for 'email' string.
+#: includes/class-coblocks-form.php:51
+msgid "Form submission from [%1$s]"
+msgstr "Przesyłanie formularza od [%1$s]"
+
+#: includes/class-coblocks-form.php:1037 dist/coblocks-4.js:47
+msgid "name"
+msgstr "nazwa"
+
+#. translators: block name
+#. translators: block style
+#: includes/class-coblocks-form.php:382 dist/coblocks-3.js:164
+#: dist/coblocks-3.js:166 dist/coblocks-10.js:33 dist/coblocks-10.js:53
+msgid "Text"
+msgstr "Tekst"
+
+#. translators: placeholder for 'email' string.
+#. translators: icon keyword
+#. translators: block keyword
+#: includes/class-coblocks-form.php:51 includes/class-coblocks-form.php:1046
+#: dist/315.js:105 dist/315.js:913 dist/315.js:1609 dist/315.js:1685
+#: dist/coblocks-3.js:120 dist/coblocks-4.js:47 dist/coblocks-4.js:57
+#: dist/coblocks-8.js:494 dist/coblocks-8.js:506 dist/coblocks-8.js:520
+#: dist/coblocks-8.js:534 dist/coblocks-8.js:1371 dist/coblocks-8.js:1383
+#: dist/coblocks-8.js:1397 dist/coblocks-8.js:1411 dist/coblocks-8.js:2231
+#: dist/coblocks-8.js:2250 dist/coblocks-8.js:2264
+msgid "email"
+msgstr "e-mail"
+
+#. translators: block name
+#: includes/class-coblocks-form.php:712 dist/coblocks-3.js:106
+#: dist/coblocks-3.js:108
+msgid "Hidden"
+msgstr "Ukryte"
+
+#. translators: block name
+#: includes/class-coblocks-form.php:547 includes/class-coblocks-form.php:596
+#: dist/coblocks-3.js:134 dist/coblocks-3.js:136
+msgid "Select"
+msgstr "Wybierz"
+
+#: class-coblocks.php:82 class-coblocks.php:94
+msgid "Something went wrong."
+msgstr "Coś poszło nie tak."
+
+#. translators: block name
+#: includes/class-coblocks-form.php:678 dist/coblocks-3.js:184
+#: dist/coblocks-3.js:186
+msgid "Website"
+msgstr "Witryna internetowa"
+
+#: src/blocks/post-carousel/index.php:53 src/blocks/posts/index.php:53
+msgid "An error has occurred, which probably means the feed is down. Try again later."
+msgstr "Wystąpił błąd, co prawdopodobnie oznacza, że kanał nie działa. Spróbuj ponownie później."
+
+#: includes/class-coblocks-form.php:483 dist/coblocks-3.js:124
+msgid "Choose one"
+msgstr "Wybierz jedną możliwość"
+
+#. translators: block name
+#: includes/class-coblocks-form.php:413 dist/coblocks-3.js:86
+#: dist/coblocks-3.js:88
+msgid "Date"
+msgstr "Data"
+
+#: src/blocks/post-carousel/index.php:195 src/blocks/posts/index.php:173
+msgctxt "placeholder when a post has no title"
+msgid "(no title)"
+msgstr "(brak tytułu)"
+
+#. translators: block name
+#: includes/class-coblocks-form.php:444 dist/coblocks-3.js:150
+#: dist/coblocks-3.js:152
+msgid "Phone"
+msgstr "Numer telefonu"
+
+#: src/blocks/social-profiles/index.php:76 dist/coblocks-10.js:37
+msgid "Instagram"
+msgstr "Instagram"
+
+#: src/blocks/social-profiles/index.php:93 dist/coblocks-10.js:37
+msgid "YouTube"
+msgstr "YouTube"
+
+#: src/blocks/social-profiles/index.php:97 dist/coblocks-10.js:37
+msgid "Yelp"
+msgstr "Yelp"
+
+#: src/blocks/social-profiles/index.php:101 dist/coblocks-10.js:37
+msgid "Houzz"
+msgstr "Houzz"
+
+#: src/blocks/social-profiles/index.php:88
+msgid "Linkedin"
+msgstr "LinkedIn"
+
+#. translators: block name
+#: includes/class-coblocks-form.php:258 dist/coblocks-3.js:114
+#: dist/coblocks-3.js:116 dist/coblocks-extensions.js:51
+msgid "Name"
+msgstr "Nazwa"
+
+#. Author of the plugin
+msgid "GoDaddy"
+msgstr "GoDaddy"
+
+#. Author URI of the plugin
+msgid "https://www.godaddy.com"
+msgstr "https://www.godaddy.com"
+
+#: includes/class-coblocks-form.php:63 dist/coblocks-4.js:47
+msgid "Your message was sent:"
+msgstr "Twoja wiadomość została wysłana:"
+
+#: includes/class-coblocks-google-map-block.php:120
+msgid "Google Map API key for map rendering"
+msgstr "Klucz API Mapy Google do renderowania mapy"
+
+#. translators: icon label
+#: src/blocks/social-profiles/index.php:72 dist/315.js:2005
+#: dist/coblocks-10.js:37
+msgid "Twitter"
+msgstr "Twitter"
+
+#. translators: icon label
+#: src/blocks/social-profiles/index.php:68 dist/315.js:691
+#: dist/coblocks-10.js:37
+msgid "Facebook"
+msgstr "Facebook"
+
+#: src/blocks/social-profiles/index.php:84 dist/coblocks-10.js:37
+msgid "Pinterest"
+msgstr "Pinterest"
+
+#: src/blocks/share/index.php:148 dist/coblocks-10.js:23
+msgid "Share via Email"
+msgstr "Udostępnij pocztą e-mail"
+
+#: src/blocks/share/index.php:156
+msgid "Share on Google"
+msgstr "Udostępnij na Google"
+
+#: src/blocks/share/index.php:160 dist/coblocks-10.js:23
+msgid "Share on Reddit"
+msgstr "Udostępnij na Reddicie"
+
+#: src/blocks/share/index.php:136 dist/coblocks-10.js:23
+msgid "Share on Twitter"
+msgstr "Udostępnij na Twitterze"
+
+#: src/blocks/share/index.php:132 dist/coblocks-10.js:23
+msgid "Share on Facebook"
+msgstr "Udostępnij na Facebooku"
+
+#: src/blocks/share/index.php:140 dist/coblocks-10.js:23
+msgid "Share on Pinterest"
+msgstr "Udostępnij w Pinterest"
+
+#: src/blocks/share/index.php:144
+msgid "Share on Linkedin"
+msgstr "Udostępnij na LinkedIn"
+
+#: dist/blocks/gallery-masonry/block.json src/blocks/gallery-masonry/block.json
+msgctxt "block keyword"
+msgid "photos"
+msgstr "zdjęcia"
+
+#. Description of the plugin
+msgid "CoBlocks is a suite of professional <strong>page building content blocks</strong> for the WordPress Gutenberg block editor. Our blocks are hyper-focused on empowering makers to build beautifully rich pages in WordPress."
+msgstr "CoBlocks to pakiet profesjonalnych <strong>bloków zawartości budowania strony</strong> dla edytora blokowego WordPress Gutenberg. Nasze bloki skupiają się na zapewnianiu twórcom możliwości budowania pięknych i rozbudowanych stron w systemie WordPress."
+
+#. translators: icon label
+#. translators: block name
+#: includes/class-coblocks-form.php:229 includes/class-coblocks-form.php:321
+#: dist/315.js:583 dist/coblocks-3.js:100 dist/coblocks-8.js:492
+#: dist/coblocks-8.js:504 dist/coblocks-8.js:1369 dist/coblocks-8.js:1381
+#: dist/coblocks-8.js:2215
+msgid "Email"
+msgstr "E-mail"
+
+#: includes/class-coblocks-form.php:101
+msgid "Google reCaptcha secret key for form spam protection"
+msgstr "Klucz tajny usługi Google reCAPTCHA do ochrony formularzy przed spamem"
+
+#: includes/class-coblocks-form.php:89
+msgid "Google reCaptcha site key for form spam protection"
+msgstr "Klucz witryny usługi Google reCAPTCHA do ochrony formularzy przed spamem"
+
+#: includes/admin/class-coblocks-action-links.php:41
+msgid "Review CoBlocks on WordPress.org"
+msgstr "Sprawdź CoBlocks na stronie WordPress.org"
+
+#: src/blocks/share/index.php:152 dist/coblocks-10.js:23
+msgid "Share on Tumblr"
+msgstr "Udostępnij na Tumblr"
+
+#: src/blocks/gist/index.php:82 dist/coblocks-9.js:7
+msgid "View this gist on GitHub"
+msgstr "Zobacz ten gist w serwisie GitHub"
+
+#: includes/class-coblocks-form.php:351 dist/coblocks-3.js:174
+msgid "Message"
+msgstr "Wiadomość"
+
+#. translators: block name
+#: includes/class-coblocks-form.php:793 dist/coblocks-3.js:150
+#: dist/coblocks-4.js:41
+msgid "Submit"
+msgstr "Wyślij"
+
+#: includes/class-coblocks-form.php:263
+msgid "Last"
+msgstr "Ostatnia"
+
+#: includes/class-coblocks-form.php:262
+msgid "First"
+msgstr "Pierwsze"
+
+#: includes/admin/class-coblocks-action-links.php:41
+msgid "Leave a Review"
+msgstr "Dodaj opinię"
+
+#: dist/blocks/accordion/block.json src/blocks/accordion/block.json
+msgctxt "block title"
+msgid "Accordion"
+msgstr "Akordeon"

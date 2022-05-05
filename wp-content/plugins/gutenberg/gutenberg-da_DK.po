@@ -1,0 +1,213 @@
+# Translation of Plugins - Gutenberg - Stable (latest release) in Danish
+# This file is distributed under the same license as the Plugins - Gutenberg - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2021-04-09 14:47:22+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/3.0.0\n"
+"Language: da_DK\n"
+"Project-Id-Version: Plugins - Gutenberg - Stable (latest release)\n"
+
+#: build/block-library/blocks/archives.php:97
+msgid "No archives to show."
+msgstr "Ingen arkiver at vise"
+
+#: post-content.php:41
+msgid "Beautiful landscape"
+msgstr "Smukt landskab"
+
+#: post-content.php:177
+msgid "Help build Gutenberg"
+msgstr "Hjælp med at bygge Gutenberg"
+
+#: post-content.php:185
+msgid "Thanks for testing Gutenberg!"
+msgstr "Tak for, at du vil teste Gutenberg!"
+
+#: post-content.php:159
+msgid "The WordPress community"
+msgstr "Wordpress-fællesskabet"
+
+#: post-content.php:159 build/block-library/index.js:19130
+#: build/block-library/index.min.js:17683
+msgid "Code is Poetry"
+msgstr "Kode er poeci"
+
+#: post-content.php:89
+msgid "Matt Mullenweg, 2017"
+msgstr "Matt Mullenweg, 2017"
+
+#: post-content.php:79
+msgid "Visual Editing"
+msgstr "Visuel redigering"
+
+#: post-content.php:70
+msgid "And <em>Lists</em> like this one of course :)"
+msgstr "Og <em>lister</em> som denne her selvfølgelig :)"
+
+#: post-content.php:67
+msgid "Galleries"
+msgstr "Gallerier"
+
+#: post-content.php:66
+msgid "Images &amp; Videos"
+msgstr "Billeder &amp; videoer"
+
+#: post-content.php:65
+msgid "Text &amp; Headings"
+msgstr "Tekst &amp; overskrifter"
+
+#: post-content.php:52
+msgid "The <em>Inserter</em> Tool"
+msgstr "<em>Indsætningsværktøjet</em>"
+
+#: lib/demo.php:59
+msgid "Welcome to the Gutenberg Editor"
+msgstr "Velkommen til Gutenberg-editoren"
+
+#: post-content.php:32
+msgid "A Picture is Worth a Thousand Words"
+msgstr "Et billede siger mere end tusind ord"
+
+#: lib/compat/wordpress-5.9/class-wp-rest-menu-items-controller.php:821
+msgid "The title for the object."
+msgstr "Titlen på objektet."
+
+#: lib/compat/wordpress-5.9/class-wp-rest-menu-items-controller.php:67
+#: lib/compat/wordpress-5.9/class-wp-rest-menu-items-controller.php:846
+msgid "Unique identifier for the object."
+msgstr "Unik identifikator til objektet."
+
+#: lib/init.php:48 lib/init.php:49
+msgid "Support"
+msgstr "Support"
+
+#: build/block-library/blocks/latest-comments.php:142
+msgid "No comments to show."
+msgstr "Der er ingen kommentarer at vise."
+
+#: build/block-library/blocks/archives.php:61
+msgid "Select Post"
+msgstr "Vælg indlæg"
+
+#: build/block-library/blocks/archives.php:58
+msgid "Select Week"
+msgstr "Vælg uge"
+
+#: build/block-library/blocks/archives.php:55
+msgid "Select Day"
+msgstr "Vælg dag"
+
+#: build/block-library/blocks/archives.php:52
+msgid "Select Month"
+msgstr "Vælg måned"
+
+#: build/block-library/blocks/archives.php:49
+msgid "Select Year"
+msgstr "Vælg år"
+
+#. translators: 1: author name (inside <a> or <span> tag, based on if they have
+#. a URL), 2: post title related to this comment
+#: build/block-library/blocks/latest-comments.php:100
+msgid "%1$s on %2$s"
+msgstr "%1$s på %2$s"
+
+#: build/block-library/blocks/archives.php:27
+msgid "Archives"
+msgstr "arkiv"
+
+#: lib/init.php:87
+msgid "beta"
+msgstr "beta"
+
+#: lib/compat/wordpress-5.9/class-wp-rest-menu-items-controller.php:878
+msgid "The ID for the parent of the object."
+msgstr "ID'et for forældren af objektet."
+
+#. translators: ARIA label for the Block Settings Sidebar tab, not selected.
+#. translators: Text label for the Block Settings Sidebar tab.
+#. translators: Data label for the Block Settings Sidebar tab.
+#: lib/experimental/navigation-theme-opt-in.php:91
+#: lib/experimental/navigation-theme-opt-in.php:96
+#: build/edit-navigation/index.js:3417 build/edit-navigation/index.js:3432
+#: build/edit-navigation/index.js:3434 build/edit-post/index.js:6361
+#: build/edit-post/index.js:6380 build/edit-post/index.js:6382
+#: build/edit-site/index.js:8901 build/edit-site/index.js:8916
+#: build/edit-site/index.js:8918 build/edit-widgets/index.js:3200
+#: build/edit-navigation/index.min.js:3557
+#: build/edit-navigation/index.min.js:3582
+#: build/edit-navigation/index.min.js:3586 build/edit-post/index.min.js:6701
+#: build/edit-post/index.min.js:6741 build/edit-post/index.min.js:6745
+#: build/edit-widgets/index.min.js:3304
+msgid "Block"
+msgstr "Blok"
+
+#: build/block-library/blocks/latest-comments.php:31
+#: build/block-library/blocks/latest-posts.php:66
+#: build/block-library/blocks/rss.php:35 build/block-library/index.js:21860
+#: build/core-data/index.js:6217 build/edit-navigation/index.js:1761
+#: build/edit-post/index.js:7623 build/editor/index.js:9758
+#: build/block-library/index.min.js:20640
+#: build/edit-navigation/index.min.js:1730 build/edit-post/index.min.js:8087
+#: build/editor/index.min.js:10010
+msgid "(no title)"
+msgstr "(ingen titel)"
+
+#: build/block-library/blocks/read-more.php:24
+#: build/block-library/index.js:21845 build/block-library/index.js:25227
+#: build/block-library/index.js:39580 build/block-library/index.min.js:20605
+#: build/block-library/index.min.js:23794
+#: build/block-library/index.min.js:37953
+msgid "Read more"
+msgstr "Læs mere"
+
+#: build/block-library/blocks/categories.php:34
+#: build/block-library/index.js:5353 build/block-library/index.js:5391
+#: build/components/index.js:67637 build/block-library/index.min.js:4219
+#: build/block-library/index.min.js:4278
+msgid "Categories"
+msgstr "Kategorier"
+
+#: build/block-library/blocks/comment-edit-link.php:45
+#: build/block-editor/index.js:43288 build/block-editor/index.js:44089
+#: build/block-editor/index.js:46669 build/block-library/index.js:8176
+#: build/block-library/index.js:30854 build/block-library/index.js:30856
+#: build/block-library/index.js:48015 build/edit-navigation/index.js:3688
+#: build/edit-post/index.js:7739 build/block-library/index.min.js:6894
+#: build/block-library/index.min.js:29871
+#: build/block-library/index.min.js:29872
+#: build/block-library/index.min.js:45876
+#: build/edit-navigation/index.min.js:3875 build/edit-post/index.min.js:8223
+msgid "Edit"
+msgstr "Rediger"
+
+#. Description of the plugin
+msgid "Printing since 1440. This is the development plugin for the new block editor in core."
+msgstr "Bogtrykkeri siden 1440. Dette er udviklerplugin'et for den nye indbyggede blok-editor i kernen."
+
+#: lib/init.php:55 lib/init.php:56
+msgid "Documentation"
+msgstr "Dokumentation"
+
+#: build/block-library/blocks/categories.php:33
+msgid "Select Category"
+msgstr "Vælg kategori"
+
+#. Author of the plugin
+msgid "Gutenberg Team"
+msgstr "Gutenberg Team"
+
+#. Plugin URI of the plugin
+msgid "https://github.com/WordPress/gutenberg"
+msgstr "https://github.com/WordPress/gutenberg"
+
+#. Plugin Name of the plugin
+msgid "Gutenberg"
+msgstr "Gutenberg"
+
+#: lib/init.php:27 lib/init.php:28
+msgid "Demo"
+msgstr "Demo"

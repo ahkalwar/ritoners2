@@ -1,0 +1,696 @@
+Your payment was not completed.An error has occurred while processing your transaction
+Gateway is temporary down
+ and try again or contact customer support.
+CheckoutApi_Lib_ExceptionState Object
+(
+    [_errorState:CheckoutApi_Lib_ExceptionState:private] => 1
+    [_trace:CheckoutApi_Lib_ExceptionState:private] => Array
+        (
+            [0] => Array
+                (
+                    [respond_code] => 403
+                    [curl_info] => Array
+                        (
+                            [url] => https://sandbox.checkout.com/api2/v2/tokens/payment
+                            [content_type] => text/html
+                            [http_code] => 403
+                            [header_size] => 199
+                            [request_size] => 354
+                            [filetime] => -1
+                            [ssl_verify_result] => 0
+                            [redirect_count] => 0
+                            [total_time] => 0.531795
+                            [namelookup_time] => 0.114725
+                            [connect_time] => 0.214651
+                            [pretransfer_time] => 0.430554
+                            [size_upload] => 164
+                            [size_download] => 718
+                            [speed_download] => 1352
+                            [speed_upload] => 308
+                            [download_content_length] => -1
+                            [upload_content_length] => 164
+                            [starttransfer_time] => 0.53173
+                            [redirect_time] => 0
+                            [redirect_url] => 
+                            [primary_ip] => 52.209.9.133
+                            [certinfo] => Array
+                                (
+                                )
+
+                            [primary_port] => 443
+                            [local_ip] => 103.115.10.9
+                            [local_port] => 6192
+                        )
+
+                    [respondBody] => <!DOCTYPE html><html><head><title>Error Page</title><style type="text/css">html{font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;font-size:1em}.center-box{margin: 20% auto auto auto;width: 50%;border: 1px solid #dcdcdc;padding: 1em;}
+</style><title>Security Violation (403)</title></head></head><body>
+<div class="center-box">
+    <h3>sandbox.checkout.com&nbsp;|&nbsp;Access denied (403)</h3>
+    <h4>Current session has been terminated.</h2>
+    <p>For further information, do not hesitate to contact us.</p>
+    <p>Ref: <span id="addr">103.115.10.9</span>&nbsp;<span id="time">1570519586</span></p>
+</div></body><script>document.getElementById("time").innerHTML = (new Date()).toISOString()</script>
+</html>
+
+
+                    [postedParam] => {"value":33120,"currency":"AED","chargeMode":"1","transactionIndicator":1,"customerIp":"83.110.209.56","autoCapTime":"0.02","autoCapture":"n","type":"sessionToken"}
+                    [rawPostedParam] => Array
+                        (
+                            [value] => 33120
+                            [currency] => AED
+                            [chargeMode] => 1
+                            [transactionIndicator] => 1
+                            [customerIp] => 83.110.209.56
+                            [autoCapTime] => 0.02
+                            [autoCapture] => n
+                            [type] => sessionToken
+                        )
+
+                )
+
+            [1] => Array
+                (
+                    [authorization] => TEST4004714
+                    [postedParam] => {"value":33120,"currency":"AED","chargeMode":"1","transactionIndicator":1,"customerIp":"83.110.209.56","autoCapTime":"0.02","autoCapture":"n","type":"sessionToken"}
+                    [rawpostedParam] => Array
+                        (
+                            [value] => 33120
+                            [currency] => AED
+                            [chargeMode] => 1
+                            [transactionIndicator] => 1
+                            [customerIp] => 83.110.209.56
+                            [autoCapTime] => 0.02
+                            [autoCapture] => n
+                            [type] => sessionToken
+                        )
+
+                    [headers] => Array
+                        (
+                            [0] => Content-Type: application/json;charset=UTF-8
+                            [1] => Accept: application/json
+                            [2] => Authorization: TEST4004714
+                        )
+
+                )
+
+        )
+
+    [_message:CheckoutApi_Lib_ExceptionState:private] => Array
+        (
+            [eab7ed7479d51529669731390899b522] => An error has occurred while processing your transaction
+            [ff5d211e016729648da5eee4c49dc1c5] => Gateway is temporary down
+        )
+
+    [_critical:CheckoutApi_Lib_ExceptionState:private] => Array
+        (
+            [0] => 1
+            [1] => 1
+        )
+
+    [_debug:CheckoutApi_Lib_ExceptionState:private] => 1
+    [_config:protected] => Array
+        (
+        )
+
+)
+
+Your payment was not completed.An error has occurred while processing your transaction
+Gateway is temporary down
+ and try again or contact customer support.
+CheckoutApi_Lib_ExceptionState Object
+(
+    [_errorState:CheckoutApi_Lib_ExceptionState:private] => 1
+    [_trace:CheckoutApi_Lib_ExceptionState:private] => Array
+        (
+            [0] => Array
+                (
+                    [respond_code] => 403
+                    [curl_info] => Array
+                        (
+                            [url] => https://sandbox.checkout.com/api2/v2/tokens/payment
+                            [content_type] => text/html
+                            [http_code] => 403
+                            [header_size] => 199
+                            [request_size] => 354
+                            [filetime] => -1
+                            [ssl_verify_result] => 0
+                            [redirect_count] => 0
+                            [total_time] => 0.449313
+                            [namelookup_time] => 0.028659
+                            [connect_time] => 0.129623
+                            [pretransfer_time] => 0.34659
+                            [size_upload] => 164
+                            [size_download] => 718
+                            [speed_download] => 1599
+                            [speed_upload] => 365
+                            [download_content_length] => -1
+                            [upload_content_length] => 164
+                            [starttransfer_time] => 0.449245
+                            [redirect_time] => 0
+                            [redirect_url] => 
+                            [primary_ip] => 52.209.9.133
+                            [certinfo] => Array
+                                (
+                                )
+
+                            [primary_port] => 443
+                            [local_ip] => 103.115.10.9
+                            [local_port] => 21444
+                        )
+
+                    [respondBody] => <!DOCTYPE html><html><head><title>Error Page</title><style type="text/css">html{font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;font-size:1em}.center-box{margin: 20% auto auto auto;width: 50%;border: 1px solid #dcdcdc;padding: 1em;}
+</style><title>Security Violation (403)</title></head></head><body>
+<div class="center-box">
+    <h3>sandbox.checkout.com&nbsp;|&nbsp;Access denied (403)</h3>
+    <h4>Current session has been terminated.</h2>
+    <p>For further information, do not hesitate to contact us.</p>
+    <p>Ref: <span id="addr">103.115.10.9</span>&nbsp;<span id="time">1570519674</span></p>
+</div></body><script>document.getElementById("time").innerHTML = (new Date()).toISOString()</script>
+</html>
+
+
+                    [postedParam] => {"value":33120,"currency":"AED","chargeMode":"1","transactionIndicator":1,"customerIp":"83.110.209.56","autoCapTime":"0.02","autoCapture":"n","type":"sessionToken"}
+                    [rawPostedParam] => Array
+                        (
+                            [value] => 33120
+                            [currency] => AED
+                            [chargeMode] => 1
+                            [transactionIndicator] => 1
+                            [customerIp] => 83.110.209.56
+                            [autoCapTime] => 0.02
+                            [autoCapture] => n
+                            [type] => sessionToken
+                        )
+
+                )
+
+            [1] => Array
+                (
+                    [authorization] => TEST4004714
+                    [postedParam] => {"value":33120,"currency":"AED","chargeMode":"1","transactionIndicator":1,"customerIp":"83.110.209.56","autoCapTime":"0.02","autoCapture":"n","type":"sessionToken"}
+                    [rawpostedParam] => Array
+                        (
+                            [value] => 33120
+                            [currency] => AED
+                            [chargeMode] => 1
+                            [transactionIndicator] => 1
+                            [customerIp] => 83.110.209.56
+                            [autoCapTime] => 0.02
+                            [autoCapture] => n
+                            [type] => sessionToken
+                        )
+
+                    [headers] => Array
+                        (
+                            [0] => Content-Type: application/json;charset=UTF-8
+                            [1] => Accept: application/json
+                            [2] => Authorization: TEST4004714
+                        )
+
+                )
+
+        )
+
+    [_message:CheckoutApi_Lib_ExceptionState:private] => Array
+        (
+            [eab7ed7479d51529669731390899b522] => An error has occurred while processing your transaction
+            [ff5d211e016729648da5eee4c49dc1c5] => Gateway is temporary down
+        )
+
+    [_critical:CheckoutApi_Lib_ExceptionState:private] => Array
+        (
+            [0] => 1
+            [1] => 1
+        )
+
+    [_debug:CheckoutApi_Lib_ExceptionState:private] => 1
+    [_config:protected] => Array
+        (
+        )
+
+)
+
+Your payment was not completed.An error has occurred while processing your transaction
+Gateway is temporary down
+ and try again or contact customer support.
+CheckoutApi_Lib_ExceptionState Object
+(
+    [_errorState:CheckoutApi_Lib_ExceptionState:private] => 1
+    [_trace:CheckoutApi_Lib_ExceptionState:private] => Array
+        (
+            [0] => Array
+                (
+                    [respond_code] => 403
+                    [curl_info] => Array
+                        (
+                            [url] => https://sandbox.checkout.com/api2/v2/tokens/payment
+                            [content_type] => text/html
+                            [http_code] => 403
+                            [header_size] => 199
+                            [request_size] => 354
+                            [filetime] => -1
+                            [ssl_verify_result] => 0
+                            [redirect_count] => 0
+                            [total_time] => 0.415674
+                            [namelookup_time] => 0.000489
+                            [connect_time] => 0.100824
+                            [pretransfer_time] => 0.313557
+                            [size_upload] => 164
+                            [size_download] => 718
+                            [speed_download] => 1730
+                            [speed_upload] => 395
+                            [download_content_length] => -1
+                            [upload_content_length] => 164
+                            [starttransfer_time] => 0.4156
+                            [redirect_time] => 0
+                            [redirect_url] => 
+                            [primary_ip] => 52.209.9.133
+                            [certinfo] => Array
+                                (
+                                )
+
+                            [primary_port] => 443
+                            [local_ip] => 103.115.10.9
+                            [local_port] => 22416
+                        )
+
+                    [respondBody] => <!DOCTYPE html><html><head><title>Error Page</title><style type="text/css">html{font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;font-size:1em}.center-box{margin: 20% auto auto auto;width: 50%;border: 1px solid #dcdcdc;padding: 1em;}
+</style><title>Security Violation (403)</title></head></head><body>
+<div class="center-box">
+    <h3>sandbox.checkout.com&nbsp;|&nbsp;Access denied (403)</h3>
+    <h4>Current session has been terminated.</h2>
+    <p>For further information, do not hesitate to contact us.</p>
+    <p>Ref: <span id="addr">103.115.10.9</span>&nbsp;<span id="time">1570519679</span></p>
+</div></body><script>document.getElementById("time").innerHTML = (new Date()).toISOString()</script>
+</html>
+
+
+                    [postedParam] => {"value":33120,"currency":"AED","chargeMode":"1","transactionIndicator":1,"customerIp":"83.110.209.56","autoCapTime":"0.02","autoCapture":"n","type":"sessionToken"}
+                    [rawPostedParam] => Array
+                        (
+                            [value] => 33120
+                            [currency] => AED
+                            [chargeMode] => 1
+                            [transactionIndicator] => 1
+                            [customerIp] => 83.110.209.56
+                            [autoCapTime] => 0.02
+                            [autoCapture] => n
+                            [type] => sessionToken
+                        )
+
+                )
+
+            [1] => Array
+                (
+                    [authorization] => TEST4004714
+                    [postedParam] => {"value":33120,"currency":"AED","chargeMode":"1","transactionIndicator":1,"customerIp":"83.110.209.56","autoCapTime":"0.02","autoCapture":"n","type":"sessionToken"}
+                    [rawpostedParam] => Array
+                        (
+                            [value] => 33120
+                            [currency] => AED
+                            [chargeMode] => 1
+                            [transactionIndicator] => 1
+                            [customerIp] => 83.110.209.56
+                            [autoCapTime] => 0.02
+                            [autoCapture] => n
+                            [type] => sessionToken
+                        )
+
+                    [headers] => Array
+                        (
+                            [0] => Content-Type: application/json;charset=UTF-8
+                            [1] => Accept: application/json
+                            [2] => Authorization: TEST4004714
+                        )
+
+                )
+
+        )
+
+    [_message:CheckoutApi_Lib_ExceptionState:private] => Array
+        (
+            [eab7ed7479d51529669731390899b522] => An error has occurred while processing your transaction
+            [ff5d211e016729648da5eee4c49dc1c5] => Gateway is temporary down
+        )
+
+    [_critical:CheckoutApi_Lib_ExceptionState:private] => Array
+        (
+            [0] => 1
+            [1] => 1
+        )
+
+    [_debug:CheckoutApi_Lib_ExceptionState:private] => 1
+    [_config:protected] => Array
+        (
+        )
+
+)
+
+Your payment was not completed.An error has occurred while processing your transaction
+Gateway is temporary down
+ and try again or contact customer support.
+CheckoutApi_Lib_ExceptionState Object
+(
+    [_errorState:CheckoutApi_Lib_ExceptionState:private] => 1
+    [_trace:CheckoutApi_Lib_ExceptionState:private] => Array
+        (
+            [0] => Array
+                (
+                    [respond_code] => 403
+                    [curl_info] => Array
+                        (
+                            [url] => https://sandbox.checkout.com/api2/v2/tokens/payment
+                            [content_type] => text/html
+                            [http_code] => 403
+                            [header_size] => 199
+                            [request_size] => 354
+                            [filetime] => -1
+                            [ssl_verify_result] => 0
+                            [redirect_count] => 0
+                            [total_time] => 0.519868
+                            [namelookup_time] => 0.106725
+                            [connect_time] => 0.207015
+                            [pretransfer_time] => 0.418195
+                            [size_upload] => 164
+                            [size_download] => 718
+                            [speed_download] => 1383
+                            [speed_upload] => 315
+                            [download_content_length] => -1
+                            [upload_content_length] => 164
+                            [starttransfer_time] => 0.519808
+                            [redirect_time] => 0
+                            [redirect_url] => 
+                            [primary_ip] => 52.209.9.133
+                            [certinfo] => Array
+                                (
+                                )
+
+                            [primary_port] => 443
+                            [local_ip] => 103.115.10.9
+                            [local_port] => 44598
+                        )
+
+                    [respondBody] => <!DOCTYPE html><html><head><title>Error Page</title><style type="text/css">html{font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;font-size:1em}.center-box{margin: 20% auto auto auto;width: 50%;border: 1px solid #dcdcdc;padding: 1em;}
+</style><title>Security Violation (403)</title></head></head><body>
+<div class="center-box">
+    <h3>sandbox.checkout.com&nbsp;|&nbsp;Access denied (403)</h3>
+    <h4>Current session has been terminated.</h2>
+    <p>For further information, do not hesitate to contact us.</p>
+    <p>Ref: <span id="addr">103.115.10.9</span>&nbsp;<span id="time">1571046851</span></p>
+</div></body><script>document.getElementById("time").innerHTML = (new Date()).toISOString()</script>
+</html>
+
+
+                    [postedParam] => {"value":25500,"currency":"AED","chargeMode":"1","transactionIndicator":1,"customerIp":"83.110.209.56","autoCapTime":"0.02","autoCapture":"n","type":"sessionToken"}
+                    [rawPostedParam] => Array
+                        (
+                            [value] => 25500
+                            [currency] => AED
+                            [chargeMode] => 1
+                            [transactionIndicator] => 1
+                            [customerIp] => 83.110.209.56
+                            [autoCapTime] => 0.02
+                            [autoCapture] => n
+                            [type] => sessionToken
+                        )
+
+                )
+
+            [1] => Array
+                (
+                    [authorization] => TEST4004714
+                    [postedParam] => {"value":25500,"currency":"AED","chargeMode":"1","transactionIndicator":1,"customerIp":"83.110.209.56","autoCapTime":"0.02","autoCapture":"n","type":"sessionToken"}
+                    [rawpostedParam] => Array
+                        (
+                            [value] => 25500
+                            [currency] => AED
+                            [chargeMode] => 1
+                            [transactionIndicator] => 1
+                            [customerIp] => 83.110.209.56
+                            [autoCapTime] => 0.02
+                            [autoCapture] => n
+                            [type] => sessionToken
+                        )
+
+                    [headers] => Array
+                        (
+                            [0] => Content-Type: application/json;charset=UTF-8
+                            [1] => Accept: application/json
+                            [2] => Authorization: TEST4004714
+                        )
+
+                )
+
+        )
+
+    [_message:CheckoutApi_Lib_ExceptionState:private] => Array
+        (
+            [eab7ed7479d51529669731390899b522] => An error has occurred while processing your transaction
+            [ff5d211e016729648da5eee4c49dc1c5] => Gateway is temporary down
+        )
+
+    [_critical:CheckoutApi_Lib_ExceptionState:private] => Array
+        (
+            [0] => 1
+            [1] => 1
+        )
+
+    [_debug:CheckoutApi_Lib_ExceptionState:private] => 1
+    [_config:protected] => Array
+        (
+        )
+
+)
+
+Your payment was not completed.An error has occurred while processing your transaction
+Gateway is temporary down
+ and try again or contact customer support.
+CheckoutApi_Lib_ExceptionState Object
+(
+    [_errorState:CheckoutApi_Lib_ExceptionState:private] => 1
+    [_trace:CheckoutApi_Lib_ExceptionState:private] => Array
+        (
+            [0] => Array
+                (
+                    [respond_code] => 403
+                    [curl_info] => Array
+                        (
+                            [url] => https://sandbox.checkout.com/api2/v2/tokens/payment
+                            [content_type] => text/html
+                            [http_code] => 403
+                            [header_size] => 199
+                            [request_size] => 354
+                            [filetime] => -1
+                            [ssl_verify_result] => 0
+                            [redirect_count] => 0
+                            [total_time] => 0.448924
+                            [namelookup_time] => 0.000474
+                            [connect_time] => 0.109202
+                            [pretransfer_time] => 0.338695
+                            [size_upload] => 164
+                            [size_download] => 718
+                            [speed_download] => 1602
+                            [speed_upload] => 366
+                            [download_content_length] => -1
+                            [upload_content_length] => 164
+                            [starttransfer_time] => 0.448854
+                            [redirect_time] => 0
+                            [redirect_url] => 
+                            [primary_ip] => 52.209.9.133
+                            [certinfo] => Array
+                                (
+                                )
+
+                            [primary_port] => 443
+                            [local_ip] => 103.115.10.9
+                            [local_port] => 45190
+                        )
+
+                    [respondBody] => <!DOCTYPE html><html><head><title>Error Page</title><style type="text/css">html{font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;font-size:1em}.center-box{margin: 20% auto auto auto;width: 50%;border: 1px solid #dcdcdc;padding: 1em;}
+</style><title>Security Violation (403)</title></head></head><body>
+<div class="center-box">
+    <h3>sandbox.checkout.com&nbsp;|&nbsp;Access denied (403)</h3>
+    <h4>Current session has been terminated.</h2>
+    <p>For further information, do not hesitate to contact us.</p>
+    <p>Ref: <span id="addr">103.115.10.9</span>&nbsp;<span id="time">1571046854</span></p>
+</div></body><script>document.getElementById("time").innerHTML = (new Date()).toISOString()</script>
+</html>
+
+
+                    [postedParam] => {"value":25500,"currency":"AED","chargeMode":"1","transactionIndicator":1,"customerIp":"83.110.209.56","autoCapTime":"0.02","autoCapture":"n","type":"sessionToken"}
+                    [rawPostedParam] => Array
+                        (
+                            [value] => 25500
+                            [currency] => AED
+                            [chargeMode] => 1
+                            [transactionIndicator] => 1
+                            [customerIp] => 83.110.209.56
+                            [autoCapTime] => 0.02
+                            [autoCapture] => n
+                            [type] => sessionToken
+                        )
+
+                )
+
+            [1] => Array
+                (
+                    [authorization] => TEST4004714
+                    [postedParam] => {"value":25500,"currency":"AED","chargeMode":"1","transactionIndicator":1,"customerIp":"83.110.209.56","autoCapTime":"0.02","autoCapture":"n","type":"sessionToken"}
+                    [rawpostedParam] => Array
+                        (
+                            [value] => 25500
+                            [currency] => AED
+                            [chargeMode] => 1
+                            [transactionIndicator] => 1
+                            [customerIp] => 83.110.209.56
+                            [autoCapTime] => 0.02
+                            [autoCapture] => n
+                            [type] => sessionToken
+                        )
+
+                    [headers] => Array
+                        (
+                            [0] => Content-Type: application/json;charset=UTF-8
+                            [1] => Accept: application/json
+                            [2] => Authorization: TEST4004714
+                        )
+
+                )
+
+        )
+
+    [_message:CheckoutApi_Lib_ExceptionState:private] => Array
+        (
+            [eab7ed7479d51529669731390899b522] => An error has occurred while processing your transaction
+            [ff5d211e016729648da5eee4c49dc1c5] => Gateway is temporary down
+        )
+
+    [_critical:CheckoutApi_Lib_ExceptionState:private] => Array
+        (
+            [0] => 1
+            [1] => 1
+        )
+
+    [_debug:CheckoutApi_Lib_ExceptionState:private] => 1
+    [_config:protected] => Array
+        (
+        )
+
+)
+
+Your payment was not completed.An error has occurred while processing your transaction
+Gateway is temporary down
+ and try again or contact customer support.
+CheckoutApi_Lib_ExceptionState Object
+(
+    [_errorState:CheckoutApi_Lib_ExceptionState:private] => 1
+    [_trace:CheckoutApi_Lib_ExceptionState:private] => Array
+        (
+            [0] => Array
+                (
+                    [respond_code] => 403
+                    [curl_info] => Array
+                        (
+                            [url] => https://sandbox.checkout.com/api2/v2/tokens/payment
+                            [content_type] => text/html
+                            [http_code] => 403
+                            [header_size] => 199
+                            [request_size] => 354
+                            [filetime] => -1
+                            [ssl_verify_result] => 0
+                            [redirect_count] => 0
+                            [total_time] => 0.442945
+                            [namelookup_time] => 0.032647
+                            [connect_time] => 0.131819
+                            [pretransfer_time] => 0.342774
+                            [size_upload] => 164
+                            [size_download] => 718
+                            [speed_download] => 1624
+                            [speed_upload] => 371
+                            [download_content_length] => -1
+                            [upload_content_length] => 164
+                            [starttransfer_time] => 0.44288
+                            [redirect_time] => 0
+                            [redirect_url] => 
+                            [primary_ip] => 63.32.120.171
+                            [certinfo] => Array
+                                (
+                                )
+
+                            [primary_port] => 443
+                            [local_ip] => 103.115.10.9
+                            [local_port] => 18614
+                        )
+
+                    [respondBody] => <!DOCTYPE html><html><head><title>Error Page</title><style type="text/css">html{font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;font-size:1em}.center-box{margin: 20% auto auto auto;width: 50%;border: 1px solid #dcdcdc;padding: 1em;}
+</style><title>Security Violation (403)</title></head></head><body>
+<div class="center-box">
+    <h3>sandbox.checkout.com&nbsp;|&nbsp;Access denied (403)</h3>
+    <h4>Current session has been terminated.</h2>
+    <p>For further information, do not hesitate to contact us.</p>
+    <p>Ref: <span id="addr">103.115.10.9</span>&nbsp;<span id="time">1571046925</span></p>
+</div></body><script>document.getElementById("time").innerHTML = (new Date()).toISOString()</script>
+</html>
+
+
+                    [postedParam] => {"value":25500,"currency":"AED","chargeMode":"1","transactionIndicator":1,"customerIp":"83.110.209.56","autoCapTime":"0.02","autoCapture":"n","type":"sessionToken"}
+                    [rawPostedParam] => Array
+                        (
+                            [value] => 25500
+                            [currency] => AED
+                            [chargeMode] => 1
+                            [transactionIndicator] => 1
+                            [customerIp] => 83.110.209.56
+                            [autoCapTime] => 0.02
+                            [autoCapture] => n
+                            [type] => sessionToken
+                        )
+
+                )
+
+            [1] => Array
+                (
+                    [authorization] => TEST4004714
+                    [postedParam] => {"value":25500,"currency":"AED","chargeMode":"1","transactionIndicator":1,"customerIp":"83.110.209.56","autoCapTime":"0.02","autoCapture":"n","type":"sessionToken"}
+                    [rawpostedParam] => Array
+                        (
+                            [value] => 25500
+                            [currency] => AED
+                            [chargeMode] => 1
+                            [transactionIndicator] => 1
+                            [customerIp] => 83.110.209.56
+                            [autoCapTime] => 0.02
+                            [autoCapture] => n
+                            [type] => sessionToken
+                        )
+
+                    [headers] => Array
+                        (
+                            [0] => Content-Type: application/json;charset=UTF-8
+                            [1] => Accept: application/json
+                            [2] => Authorization: TEST4004714
+                        )
+
+                )
+
+        )
+
+    [_message:CheckoutApi_Lib_ExceptionState:private] => Array
+        (
+            [eab7ed7479d51529669731390899b522] => An error has occurred while processing your transaction
+            [ff5d211e016729648da5eee4c49dc1c5] => Gateway is temporary down
+        )
+
+    [_critical:CheckoutApi_Lib_ExceptionState:private] => Array
+        (
+            [0] => 1
+            [1] => 1
+        )
+
+    [_debug:CheckoutApi_Lib_ExceptionState:private] => 1
+    [_config:protected] => Array
+        (
+        )
+
+)
+

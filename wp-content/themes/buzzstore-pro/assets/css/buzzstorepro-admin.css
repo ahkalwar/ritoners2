@@ -1,0 +1,404 @@
+.buzzstore-activation-notice {
+    text-align: center;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    border-left: 0 !important;
+    border-top: 1px solid #0085BA;
+}
+
+.buzzstore-activation-notice h1 {
+    margin-bottom: 0 !important;
+}
+
+.buzzstore-activation-notice p:first-of-type {
+    margin-bottom: 20px !important;
+}
+
+/**
+ * Demo Import Button Style 
+*/
+.demo-loading{
+  background-image: url('../images/horizon.gif');
+  background-repeat: no-repeat;
+  background-position: center center;
+  height: 128px;
+  margin-bottom: 8px;
+  margin-top: 20px;
+}
+
+#demo_import {
+  background: #86bc42;
+  color: #FFFFFF;
+  padding: 10px;
+  border-radius: 15px;
+  font-weight: bold;
+  border: 1px solid #86bc42;
+  display: block;
+  text-align: center;
+  text-decoration: none;
+  font-size: 15px;
+  text-transform: uppercase;
+}
+
+#demo_import:hover {
+   color: #EEEEEE;
+}
+
+.import-message {
+  margin-top: 20px;
+  font-size: 15px;
+  line-height: 1.3;
+}
+
+.import-success{
+   color: green;
+   font-weight: bold;
+}
+
+
+/**
+ * FontAwesome Icon Styles
+*/
+.buzzstorepro-type-icon{
+  overflow: hidden;
+}
+.buzzstorepro-selected-icon{
+  background: #F6F6F6;
+  height: 45px;
+  line-height: 45px;
+  text-align: center;
+  border: 1px solid #EEE;
+  position: relative;
+  margin-right: 45px;
+  cursor: pointer;
+  font-size: 28px;
+}
+.buzzstorepro-selected-icon .fa{
+  display: block;
+  line-height: 45px;
+}
+.buzzstorepro-selected-icon span{
+  position: absolute;
+  background: #F6F6F6;
+  right: -45px;
+  top: -1px;
+  height: 45px;
+  width: 45px;
+  border: 1px solid #EEE;
+  font-size: 20px;
+}
+.buzzstorepro-icon-list{
+  height: 215px;
+  overflow-y: scroll;
+  font-size: 18px;
+  border: 1px solid #EEE;
+  border-right: 0;
+  border-top: 0;
+  padding-bottom: 4%;
+  display: none;
+  cursor: pointer;
+  box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+}
+.buzzstorepro-icon-list li{
+  float: left;
+  margin: 4% 3% 0;
+  height: 40px;
+  width: 16%;
+  text-align: center;
+  line-height: 40px;
+  border: 1px solid #EEE;
+}
+.buzzstorepro-icon-list li:hover{
+  background: #333;
+  border: 1px solid #333;
+  color: #FFF;
+}
+.buzzstorepro-icon-list li.icon-active{
+  background: #0073aa;
+  border: 1px solid #0073aa;
+  color: #FFF;
+}
+
+/** 
+ * Additional Styles
+*/
+.buzzstorepro-repeater-field-control{
+  background: #FFF;
+  margin-bottom: 12px;
+  display: block;
+}
+.buzzstorepro-repeater-footer{
+  margin-top: 15px;
+  text-align: right;
+}
+.buzzstorepro-repeater-field-control:first-child .buzzstorepro-repeater-footer{
+  display: none;
+}
+.buzzstorepro-repeater-field-title{
+  padding: 13px 15px;
+  line-height: 1;
+  overflow: hidden;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+  margin: 0;
+  font-size: 1em;
+  border: 1px solid #e5e5e5;
+  cursor: move;
+  position: relative;
+  border-bottom: 0;
+}
+#customize-theme-controls .buzzstorepro-repeater-field-title.accordion-section-title:after {
+  content: "\f142";
+  font: 400 20px/1 dashicons;
+  position: absolute;
+  right: 0;
+  top: 0;
+  padding: 1px 2px 1px 0;
+  margin-top: 10px;
+  margin-right: 10px;
+  -webkit-border-radius: 50%;
+  border-radius: 50%;
+  cursor: pointer;
+}
+.buzzstorepro-repeater-field-control.expanded .buzzstorepro-repeater-field-title:after{
+  content: "\f140";
+}
+.buzzstorepro-repeater-fields{
+  padding: 0 10px 25px;
+  border-top: none;
+  line-height: 16px;
+  border: 1px solid #e5e5e5;
+  box-shadow: 0 1px 1px rgba(0,0,0,.04);
+  display: none;
+}
+.buzzstorepro-repeater-fields .customize-control-title{
+  margin-top: 10px;
+}
+.buzzstorepro-repeater-field-control.expanded .buzzstorepro-repeater-fields{
+  display: block;
+}
+.buzzstorepro-add-control-field {
+  float: right;
+}
+.buzzstorepro-add-control-field:before {
+    content: "\f132";
+    display: inline-block;
+    position: relative;
+    left: -2px;
+    top: -1px;
+    font: 400 18px/1 dashicons;
+    vertical-align: middle;
+}
+.buzzstorepro-fields textarea{
+  width: 100%;
+  min-height: 100px;
+}
+.buzzstorepro-fields select{
+  width: 100%;
+  min-width: none;
+}
+.buzzstorepro-type-checkbox{
+  margin-top: 10px;
+}
+.buzzstorepro-type-checkbox label{
+    line-height: 20px;
+    display: block;
+    margin-left: 24px;
+    padding-top: 6px;
+}
+.buzzstorepro-type-checkbox input[type=checkbox]{
+    margin-right: 8px;
+    margin-left: -24px;
+}
+.buzzstorepro-type-selector .selector-labels{
+  margin: 0 -5px;
+}
+.buzzstorepro-type-selector .selector-labels label{
+  display: inline-block;
+  padding: 10px 5px 0;
+  position: relative;
+  max-width: 50%;
+  box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+}
+.buzzstorepro-type-selector .selector-labels label img{
+  vertical-align: middle;
+}
+.buzzstorepro-type-selector .selector-labels label.selector-selected:after{
+  content: "";
+  height: 35px;
+  width: 35px;
+  right: 0;
+  top: 0;
+  position: absolute;
+  background: url(images/selected.png) no-repeat right top;
+}
+.buzzstorepro-type-radio .radio-labels label{
+  display: block;
+  padding: 5px 0;
+}
+
+/**
+ * Preloader 
+*/
+.buzzstorepro-preloader {
+    width: 50px;
+    display: block;
+    float: left;
+    padding: 14px;
+    background: #FFFFFF;
+    height: 50px;
+    margin: 1px;
+    text-align: center;
+    border: 3px solid #C5C5C5;
+}
+.buzzstorepro-preloader:hover, 
+.buzzstorepro-preloader.active {
+    border-color: red;
+}
+
+.screenshot img {
+    width: 100%;
+    border-radius: 10px;
+    padding: 5px 0px;
+}
+.remove-image {
+    cursor: pointer;
+}
+
+.buzzstorepro-multiplecat {
+    height: 200px;
+    overflow: auto;
+    border: 1px solid #ccc;
+    padding: 0px 10px;
+    margin-top: 5px;
+}
+
+#buzzstorepro-img-container ul li label {
+    display: inherit;
+    margin-left: 0px;
+}
+ #buzzstorepro-img-container .buzzstorepro-radio-img-img {
+     border: 3px solid #DEDEDE;
+     margin: 10px 4px 5px 0;
+     cursor: pointer;
+     border-radius: 3px;
+     -moz-border-radius: 3px;
+     -webkit-border-radius: 3px;
+     width:45%;
+ }
+ #buzzstorepro-img-container .buzzstorepro-radio-img-selected {
+     border: 3px solid #AAA;
+     border-radius: 3px;
+     -moz-border-radius: 3px;
+     -webkit-border-radius: 3px;
+ }
+ input[type=checkbox]:before {
+   content: '';
+     margin: -3px 0 0 -4px;
+ }
+ 
+/* Customizer Page Layout Settings */
+.buzzimage label{
+    position: relative;
+    margin: 0 3% 3% 0;
+    display: inline-block;
+    width: 46%;
+}
+.buzzimage input{
+    opacity: 0;
+    visibility: hidden;
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+}
+.buzzimage img{
+    display: block;
+    border:2px solid #F6F6F6;
+}
+.buzzimage input:checked + img{
+    border:2px solid #86bc42;
+}
+
+
+/**
+ * Customizer Title
+*/
+.customize-control-title {
+    color: #0073aa;
+    border-bottom: 1px solid #eee;
+    border-top: 1px solid #eee;
+    padding: 10px 10px 11px 14px;
+    line-height: 21px;
+    background: #FFF;
+    margin: 0 -12px 0;
+    border-left: 4px solid #0073aa;
+    margin-bottom: 15px;
+}
+
+/**
+ * Customizer Icon Settings Area
+*/
+.customize-pane-parent .control-section .accordion-section-title:before{
+    font-family: dashicons;
+    content: "\f103";
+    font-size: 20px;
+    margin-right: 5px;
+    vertical-align: middle;
+}
+
+#accordion-panel-buzzstorepro_general_settings .accordion-section-title:before{
+    content: "\f111";
+}
+
+#accordion-panel-buzzstorepro_home_panel .accordion-section-title:before{
+    content: "\f102";
+}
+
+#accordion-panel-nav_menus .accordion-section-title:before{
+    content: "\f333";
+}
+
+#accordion-panel-widgets .accordion-section-title:before{
+    content: "\f116";
+}
+
+#accordion-panel-widgets .accordion-section-title:before{
+    content: "\f116";
+}
+
+#accordion-section-custom_css .accordion-section-title:before{
+    content: "\f499";
+}
+#accordion-section-buzzstorepro_main_banner_area .accordion-section-title:before{
+    content: "\f233";
+}
+
+/**
+ * Important link
+*/
+.pro-implink{
+  background: #0073aa;
+  padding: 8px;
+  color: #FFF !important;
+  text-align: center;
+  display: block;
+  margin-top: 5px;
+  line-height: 1.2;
+  box-shadow: none;
+  font-style: normal;
+  text-decoration: none;
+}
+.pro-implink:hover{
+  background: #000;
+}
+
+#widget-list [id*='_buzzstorepro_'] .widget-top, 
+#widget-list [id*='_buzzstorepro_'] h3 {
+    background: rgba(191, 191, 191, 0.4);
+}

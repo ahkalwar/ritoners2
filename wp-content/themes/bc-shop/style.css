@@ -1,0 +1,95 @@
+/*
+Theme Name:   BC Shop
+Theme URI: https://athemeart.com/downloads/bc-shop/
+Author: aThemeArt
+Author URI: https://athemeart.com/
+Description: BCSHOP is WooCommerce child theme of BC Business Consulting . It's perfect for  E-commerce websites of any store type such as online bookstore, electronic store, apparel & clothing store, fashion store, sport & athletic goods store, handbags & feminine products store, cosmetics & saloon item shop, jewelry & luxury item store and various multipurpose online stores. The modern design and smooth coding standard make them perfect for business, corporate, companies and freelancers.We also utilize best and clean coding standard that functions well with the latest WordPress version. This Free customizable responsive Woo-commerce WordPress theme includes plenty of customization options that are fairly easy to use. You can easily customize them, using the short codes and hook. BCSHOP is the best choice for building online store since it's fully compatible with WooCommerce, the most popular ecommerce plugin. Using Elementor page builder plugin, you could simply edit your site using just drag & drop.
+Template:     bc-business-consulting
+Version:      2.0.3
+Requires at least: 5.0
+Tested up to: 5.6.5
+Requires PHP: 7.0
+License: GNU General Public License v3
+License URI: http://www.gnu.org/licenses/gpl.html
+Tags: one-column, two-columns, three-columns, left-sidebar, right-sidebar, sticky-post, custom-background, custom-header, custom-colors, custom-menu, featured-images, full-width-template, translation-ready, theme-options, threaded-comments, custom-logo, blog, e-commerce
+Text Domain:  bc-shop
+
+
+BC SHOP WordPress Theme, Copyright 2018 aThemeArt
+BC SHOP is distributed under the terms of the GNU GPL
+
+BC SHOP WordPress Theme is child theme of BC Business Consulting WordPress Theme, Copyright 2018 aThemeArt
+BC Business Consulting  WordPress Theme is distributed under the terms of the GNU GPL
+*/
+
+.custom_header .price{
+	font-family: 'Roboto Condensed', sans-serif;
+	font-size:24px;
+	padding-top:10px;
+}
+.custom_header .woocommerce-product-rating{
+	max-width:220px;
+	display:block;
+	margin:0px auto;	
+}
+.woocommerce div.product .woocommerce-tabs ul.tabs{
+	margin:0px;	
+}
+.woocommerce div.product .woocommerce-tabs .panel{
+	border: 1px solid #d3ced2;
+	border-top:none;
+}
+.woocommerce-tabs h2{
+	margin:0px;
+	padding-bottom:40px;
+	font-size:25px;
+}
+.woocommerce div.product .woocommerce-tabs .panel{
+	-webkit-border-top-right-radius:0px;
+	-moz-border-top-right-radius:0px;
+	border-top-right-radius:0px;
+	-webkit-border-top-left-radius:0px;
+	-moz-border-top-left-radius:0px;
+	border-top-left-radius:0px;
+	padding:25px;
+}
+.woocommerce div.product div.images .woocommerce-product-gallery__wrapper{
+	max-width:none!important;	
+}
+.submit-review{
+	color: #fafbfc;
+	display: inline-block;
+	font-weight: 700;
+	padding: 10px 37px;
+	margin-top: 15px;
+	text-transform: uppercase;
+	border: none;
+	text-decoration: none;
+	-webkit-transition: all 0.3s ease-in-out;
+	-moz-transition: all 0.3s ease-in-out;
+	-ms-transition: all 0.3s ease-in-out;
+	-o-transition: all 0.3s ease-in-out;
+	transition: all 0.3s ease-in-out;
+}
+.submit-review:hover{
+	color: #fafbfc;
+	background-color: #222;
+}
+#review_form .comment-form{
+	padding-top:20px;
+	padding-bottom:0px;	
+}
+.woocommerce #review_form #respond{
+	padding-top:30px;	
+}
+.u-column1.col-1,
+.u-column2.col-2,
+#customer_login .col-1,
+#customer_login .col-2{
+	max-width: 50%!important;
+	float: left!important;
+}
+.middle-header {
+    position: relative;
+    z-index: 999999;
+}
